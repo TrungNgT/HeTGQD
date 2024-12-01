@@ -1,0 +1,30 @@
+[
+  {
+    "_index": "de_tai",
+    "_id": "192",
+    "_score": 4.9507895,
+    "_source": {
+      "id": 192,
+      "Tên giảng viên": "Trần Thế Hùng",
+      "Khoa": "Khoa Khoa học Máy tính",
+      "Tên đề tài": "Improving Scalablity and Real-Time properties in Recomendation Systems",
+      "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+      "Hệ": "Không xác định",
+      "Số SV": "2"
+    }
+  },
+  {
+    "_index": "de_tai",
+    "_id": "190",
+    "_score": 4.777257,
+    "_source": {
+      "id": 190,
+      "Tên giảng viên": "Trần Thế Hùng",
+      "Khoa": "Khoa Khoa học Máy tính",
+      "Tên đề tài": "Improving fine-tuning of LLMs using Reinforcement Learning and Optimization",
+      "Loại đề tài": "ĐATN, ĐAMH",
+      "Hệ": "Không xác định",
+      "Số SV": "3"
+    }
+  }
+]

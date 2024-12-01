@@ -1,0 +1,389 @@
+[
+    {
+        "id": 1,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Tính toán chiều cao vật thể từ mô hình bề mặt số tính toán từ ảnh ghép chụp từ máy bay không người lái (drone)",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, ThSKH, ThSKT, VB2",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 2,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh tần suất lớn (Himawari-8 10 phút/ảnh) để đánh giá mức độ ảnh hưởng của đảo nhiệt lên các thành phố ở Việt Nam",
+        "Loại đề tài": "TTTN, ĐAMH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, ThSKH, ThSKT",
+        "Số SV": "2"
+    },
+    {
+        "id": 3,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Đánh giá ảnh hưởng của góc chiếu mặt trời lên sinh trưởng của rừng nhiệt đới Đông Nam Á sử dụng ảnh vệ tinh MODIS",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ, ThSKH, ThSKT",
+        "Số SV": "1"
+    },
+    {
+        "id": 4,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu ảnh hưởng và chuẩn hóa góc chiếu mặt trời và vệ tinh đến việc thu nhận dữ liệu giữa ảnh vệ tinh MODIS/VIIRS và ảnh vệ tinh địa tĩnh Himawari-8",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, ThSKH, ThSKT",
+        "Số SV": "3"
+    },
+    {
+        "id": 5,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh tần suất lớn (Himawari-8 10 phút/ảnh) để giám sát nhiệt độ bề mặt và phát hiện bất thường về nhiệt độ",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ, ThSKH, ThSKT",
+        "Số SV": "2"
+    },
+    {
+        "id": 28,
+        "Tên giảng viên": "Bành Thị Quỳnh Mai",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Mạng cảm biến không dây",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 29,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nén video ngữ nghĩa dùng mô hình CNN và ứng dụng (Semantic Video Compression using CNN and applications)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, VLVH, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 30,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nhận dạng cảm xúc dùng mô hình hợp nhất đa thể thức và kỹ thuật học sâu (Emotion Recognition Using Multimodal Fusion Models and Deep Learning)",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 31,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện và theo dõi người/ đối tượng chuyển động trong video (Motion Human/ Object Detection and Tracking in video)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, KSTN, CTTT, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 32,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển các ứng dụng thị giác máy tính và AI (Developed applications for Computer Vision and AI))",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 33,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nén ảnh/ video với kỹ thuật học sâu - CNN (Image and Video Compression with Deep Learning - CNN)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 34,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển các ứng dụng công nghệ Web (Website, Web applications)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 64,
+        "Tên giảng viên": "Trần Quang Đức",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu, phát triển hệ thống hỗ trợ truyền dòng theo thời gian thực trong môi trường mạng Internet",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "KSCQ",
+        "Số SV": "2"
+    },
+    {
+        "id": 65,
+        "Tên giảng viên": "Trần Quang Đức",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng, phát triển hệ thống phát hiện DGA dựa trên phân tích đặc điểm hành vi mã độc",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Không xác định",
+        "Số SV": "2"
+    },
+    {
+        "id": 73,
+        "Tên giảng viên": "Trần Hải Anh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng Federated Learning vào xử lý tính toán biên (edge computing) để giải quyết các bài toán liên quan đến BioInformatics trong mạng SDN phân tán",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 74,
+        "Tên giảng viên": "Trần Hải Anh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng Transfer Learning vào giải quyết bài toán dự đoán ma trận lưu lượng cho mạng SDN phân tán",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "5"
+    },
+    {
+        "id": 75,
+        "Tên giảng viên": "Trần Hải Anh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng trang web thương mại điện tử",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "5"
+    },
+    {
+        "id": 81,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng giải pháp quản lí mạng trong mạng thế hệ mới",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "3"
+    },
+    {
+        "id": 82,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện lỗ hổng trong smart contract của Blockchain sử dụng mã nguồn",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "3"
+    },
+    {
+        "id": 83,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển giải pháp hỗ trợ sửa lỗi tự động trong mã nguồn sử dụng mô hình ngôn ngữ lớn.",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 84,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phân loại lưu lượng mạng mã hóa cho các nhà mạng",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "3"
+    },
+    {
+        "id": 85,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển các hệ thống nhúng/IoT",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 86,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu về CPU hiệu năng cao (Proposing techniques for high-performance CPUs)",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 87,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu tối ưu thuật toán trên GPU với CUDA (Algorithm optimization for GPUs using CUDA)",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 88,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu các mô hình AI phù hợp cho các hệ thống IoT (AI models for IoT-based system)",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 91,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phương pháp học tăng cường và áp dụng giải quyết các bài toán trong lĩnh vực mạng truyền thông và an toàn thông tin",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "2-3"
+    },
+    {
+        "id": 92,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện tấn công mạng bằng phát hiện bất thường dựa trên phân tích dữ liệu",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "2-3"
+    },
+    {
+        "id": 93,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bảo mật dữ liệu cho giao tiếp device to device, IoT",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, KSCQ, SIE, KSTN, CTTT, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "3-4"
+    },
+    {
+        "id": 94,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện và xử lý tấn công từ chối dịch vụ",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "2-3"
+    },
+    {
+        "id": 101,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng lý thuyết tối ưu hóa cho truyền thông và mạng",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+        "Số SV": "5"
+    },
+    {
+        "id": 102,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng khoa học dữ liệu cho truyền thông và mạng",
+        "Loại đề tài": "ĐATN, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+        "Số SV": "5"
+    },
+    {
+        "id": 103,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng trí tuệ nhân tạo, xử lý tín hiệu và cơ sở dữ liệu cho các thiết bị IoT",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNTH, KSCQ, IPE, LATS, ThSKH, ThSKT",
+        "Số SV": "5"
+    },
+    {
+        "id": 104,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bảo mật trong mạng 5G/6G",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+        "Số SV": "5"
+    },
+    {
+        "id": 105,
+        "Tên giảng viên": "Nguyễn Kim Khánh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng hệ sinh thái dựa trên kiến trúc RISC-V",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 106,
+        "Tên giảng viên": "Nguyễn Kim Khánh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Tìm hiểu kiến trúc RISC-V và các kit phát triển",
+        "Loại đề tài": "ĐAMH",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 147,
+        "Tên giảng viên": "Bành Thị Quỳnh Mai",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Quản trị mạng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định"
+    },
+    {
+        "id": 157,
+        "Tên giảng viên": "Trần Hoàng Hải",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu về ứng dụng các mô hình AI cho các bài toán bảo mật",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "3"
+    },
+    {
+        "id": 158,
+        "Tên giảng viên": "Trần Hoàng Hải",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu về các vấn đề trong An ninh Mạng (Network Security), tập trung vào các kỹ thuật phát hiện xâm nhập",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "4"
+    },
+    {
+        "id": 159,
+        "Tên giảng viên": "Trần Hoàng Hải",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bài toán tối ưu cho phân phối tài nguyên mạng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "3"
+    },
+    {
+        "id": 160,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh Landsat/Sentinel-2/MODIS để tính và đánh giá sự thay đổi bề mặt theo thời gian",
+        "Loại đề tài": "TT, TTTN, ĐAMH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ",
+        "Số SV": "5"
+    },
+    {
+        "id": 161,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu ảnh hưởng và chuẩn hóa góc chiếu mặt trời và vệ tinh đến việc thu nhận dữ liệu giữa ảnh vệ tinh MODIS và VIIRS",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, IPE, ThSKH, ThSKT",
+        "Số SV": "2"
+    },
+    {
+        "id": 162,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh Landsat/Sentinel-2 để đánh giá sự thay đổi bề mặt các thành phố theo thời gian và ảnh hưởng đến nhiệt độ bề mặt",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ, ThSKH, ThSKT",
+        "Số SV": "2"
+    },
+    {
+        "id": 163,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phân loại bề mặt của ảnh vệ tinh/drone bằng các kỹ thuật học sâu",
+        "Loại đề tài": "TT, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, VB2",
+        "Số SV": "3"
+    }
+]
