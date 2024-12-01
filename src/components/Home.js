@@ -76,6 +76,7 @@ const HomePage = () => {
         console.log(totalScore);
         return {
           giangVien: gv,
+          detai: gv["Tên đề tài"],
           score: totalScore + selectedBonus,
         };
       });
@@ -101,6 +102,7 @@ const HomePage = () => {
     }
     getTopGiangVien(tenDeTai, motaDeTai, doanData, selectedGiangVien).then((topGiangVien) => {
         console.log("Top 5 giảng viên:", topGiangVien);
+        setTopGiangVien(topGiangVien); 
     });
     
     // Xử lý dữ liệu khi người dùng gửi form
@@ -250,7 +252,23 @@ const HomePage = () => {
         {errorMessage && <p style={{ color: 'red' }}>{errorMessage}</p>}
 
         <button type="submit">Submit</button>
+        
       </form>
+      {topGiangVien.length > 0 && (
+        <div className="result-container">
+          <h3>Top 5 Giảng viên Hướng dẫn</h3>
+          <ul className="result-list">
+            {topGiangVien.map((gv, index) => (
+              <li key={index} className="result-item">
+                <div style={{ color: 'red', fontWeight : 'bold' }}>Tên Giảng viên: {gv.giangVien["Tên giảng viên"]}</div>
+                <div>Đề tài: {gv.detai}</div>
+                <div style={{ color: 'green', fontStyle: 'Italic' }}>Score: {gv.score}</div>
+               
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
     </div>
   );
 };
