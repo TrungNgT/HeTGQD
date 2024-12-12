@@ -262,6 +262,7 @@ const HomePage = () => {
               <li key={index} className="result-item">
                 <div style={{ color: 'red', fontWeight : 'bold' }}>Tên Giảng viên: {gv.giangVien["Tên giảng viên"]}</div>
                 <div>Đề tài: {gv.detai}</div>
+                <div>Khoa: {gv.giangVien["Khoa"]}</div>
                 <div style={{ color: 'green', fontStyle: 'Italic' }}>Score: {gv.score}</div>
                
               </li>
