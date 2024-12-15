@@ -428,5 +428,505 @@
         "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, VB2",
         "Số SV": "3",
         "Chi tiết": "Một trong những ứng dụng của học máy/ học sâu là áp dụng để phân loại các ảnh bề mặt được chụp bởi vệ tinh hay các máy bay không người lái. Việc phân loại gặp phải các vấn đề cần giải quyết như cường độ sáng khác nhau với cùng vật thể (vd: bóng râm và ngoài nắng) hay các vấn đề che khuất vật thể (cây cối che các tòa nhà). Những trở ngại này có thể được khắc phục bằng việc áp dụng các thuật toán học sâu để giải quyết vấn đề, tăng cường độ chính xác của bài toán."
+    },
+    {
+        "id": 111,
+        "Tên giảng viên": "Nguyễn Thị Thanh Nga",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Đề tài thuộc nhóm ứng dụng web",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNTH, KSCQ, SIE, CTTT, CNKH, Viet-Phap, CN, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 111,
+        "Tên giảng viên": "Đoàn Phong Tùng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Optimal Transport Based Distance For Sequential Data",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "KSCQ, KSTN, CTTT",
+        "Số SV": "2",
+        "Chi tiết": "Measuring the distance between data sequences is a challenging problem. Existing methods typically align the two sequences before calculating their distance based on the difference between corresponding elements. However, the alignments induced by these methods are usually not flexible enough to accommodate local distortions, transition and most of them lack a mechanism to remove outliers. This project aims to propose novel method for measuring the distance between two data sequences that alleviate the aforementioned issues. The project mainly bases on optimal transport framework, which now draws a vast attention from research community due to its nice properties. Then, the project studies applications of the proposed distances on several tasks such as time-series classification, step-localization, etc"
+    },
+    {
+        "id": 113,
+        "Tên giảng viên": "Đoàn Phong Tùng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Structured Optimal Transport",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "KSCQ, KSTN, CTTT",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Optimal transport (OT) aligns samples across distributions by minimizing the transportation cost between them, e.g., the geometric distances. However, it ignores coherence structure in the data such as clusters, does not handle outliers well, and cannot integrate new data points. This project aims to address these drawbacks. Many approaches can be considered. For example, the information measures between two domains, which well explain matching between structures, are potential alternative costs. Well-designed regularizations are also good choices for preserving structures when aligning the distributions. Then, the project will apply the proposed OT-based variants to many applications, such as image-to-image matching, image-to-text matching, domain adaptation, etc.,"
+    },
+    {
+        "id": 114,
+        "Tên giảng viên": "Bùi Trọng Tùng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Building an IDS on ICS /OT networks",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CTTT",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Learning and deploying Zeek/BroIDS products - Building rulesets and attack detection modules - Building local control and operation programs - Building a central management system Requirements for students: - Have basic knowledge of computer networks - Have the ability to program the Web"
+    },
+    {
+        "id": 114,
+        "Tên giảng viên": "Bùi Trọng Tùng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Tìm hiểu về mật mã hậu lượng tử",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": " Tìm hiểu chung về các thuật toán mật mã hậu lượng tử (post quantum cryptography) - Tìm hiểu về các mô hình đóng gói khóa, chữ ký số sử dụng mật mã hậu lượng tử - Thử nghiệm sử dụng các thuật toán với thư viện Bouncy Castle - Yêu cầu: sinh viên có kiến thức cơ bản về mật mã học, lập trình Java"
+    },
+    {
+        "id": 114,
+        "Tên giảng viên": "Bùi Trọng Tùng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng hệ thống quản lý an toàn an ninh thông tin",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ",
+        "Số SV": "Không xác định",
+        "Chi tiết": "- Tìm hiểu mô hình hệ thống SIEM - Cài đặt, triển khai và khảo sát hệ thống ELK - Khảo sát các chức năng của hệ thống - Phát triển các tính năng cho hệ thống"
+    },
+    {
+        "id": 114,
+        "Tên giảng viên": "Bùi Trọng Tùng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng ứng dụng mã hóa đầu cuối",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "- Tìm hiểu các giao thức mã hóa đầu cuối - Thiết kế và phát triển mô-đun mã hóa đầu cuối cho các ứng dụng truyền tin - Yêu cầu: sinh viên có kiến thức căn bản về mật mã học"
+    },
+    {
+        "id": 115,
+        "Tên giảng viên": "Hoàng Văn Hiệp",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Hệ thống giám sát xe chuyên dùng của ngân hàng (Xe chở tiền)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "KSCQ",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Các ngân hàng ở VN có lượng lưu chuyển tiền mặt hàng ngày rất lớn: chuyển tiền từ kho/quỹ đến các phòng giao dịch, hoặc đến các cây ATM. Để vận chuyển tiền, ngân hàng dùng các xe chở tiền chuyên dụng, trên xe có các thành viên tổ điều chuyển bao gồm: lái xe, chủ hàng, kỹ thuật viên ATM, và công an. Nhu cầu đặt ra là cần giám sát hoạt động của các xe chở tiền này --> Hệ thống giám sát bao gồm thiết bị phần cứng lắp trên xe và hệ thống phần mềm trên server."
+    },
+    {
+        "id": 115,
+        "Tên giảng viên": "Hoàng Văn Hiệp",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phân lớp các bộ phá sóng GPS",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Áp dụng các kỹ thuật xử lý tín hiệu số để làm bài toán: phát hiện, phân loại các thiết bị phá sóng GPS trên thị trường. Hiện nay, rất nhiều lái xe kinh doanh vận tải có xu hướng sử dụng các bộ phá sóng GPS để vô hiệu hóa hộp đen lắp đặt trên xe (hộp đen là bắt buộc với xe kinh doanh vận tải) ==> nhà quản lý không có dữ liệu định vị của xe dẫn đến không thể áp dụng các chế tài ==> Cần có phương pháp phát hiện nhanh tài xế có dùng bộ phá sóng hay không"
+    },
+    {
+        "id": 115,
+        "Tên giảng viên": "Hoàng Văn Hiệp",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bộ thu mềm cho tín hiệu NaVIC",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ĐATN",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Tìm hiểu giải mã tín hiệu định vị của hệ thống NaVIC, xây dựng bộ thu mềm cho tín hiệu này."
+    },
+    {
+        "id": 116,
+        "Tên giảng viên": "Phạm Huy Hoàng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Chuyển đổi IPv4 sang IPv6",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ĐATN",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Tìm hiểu các chiến lược chuyển đổi hệ thống từ IPv4 lên IPv6 và cài đặt thử nghiệm, đánh giá ưu nhược điểm của các phương án chuyển đổi"
+    },
+    {
+        "id": 116,
+        "Tên giảng viên": "Phạm Huy Hoàng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Mạng thế hệ mới SDN và thử nghiệm multicast",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ĐATN",
+        "Số SV": "Không xác định",
+        "Chi tiết": "- Tìm hiểu mô hình SDN - Cài đặt giả lập mạng SDN với Mininet. - Cài đặt Controller OpenDaylight - Cài đặt ứng dụng giao tiếp với các switch SDN qua OpenDaylight để triển khai bài toán multicast trên mạng giả lập này và đo đạc các thông số lưu lượng"
+    },
+    {
+        "id": 116,
+        "Tên giảng viên": "Phạm Huy Hoàng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng các module Web hỗ trợ học online với XBlock",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "TT, ĐATN, TTTN, ĐAMH",
+        "Số SV": "Không xác định",
+        "Chi tiết": "XBlock được open edX (project xây dựng platform học online của các trường đại học Mỹ như MIT, Burkeley, Stanford, v.v..) đưa ra nhằm mục địch chuẩn hóa modul xây dựng học liệu cho các hệ thống học online. Hiện tại XBlock đang được nhiều hệ thống học online sử dụng như https://www.edx.org/ hay ngay tại HUST/SoICT: https://daotao.ai XBlock cho phép tạo ra nhiều loại dữ liệu phục vụ đào tạo online, như là nhúng câu hỏi vào video, tự động kiểm tra thiết kế mạch điện đúng, hay tự động kiểm tra code chương trình đúng, v.v.. . Đề tài này yêu cầu sinh viên tìm hiểu kiến trúc XBlock trong kiến trúc tổng thể open edX và xây dựng các module XBlock hỗ trợ các dạng học liệu mới. Link tham khảo: - Giới thiệu về XBlock: https://docs.huihoo.com/edx/open-edx-xblock-tutorial/overview/introduction.html#overview - XBlock tutorial: https://docs.huihoo.com/edx/open-edx-xblock-tutorial/index.html - XBlock Courseware Components: https://github.com/edx/XBlock/blob/master/README.rst"
+    },
+    {
+        "id": 116,
+        "Tên giảng viên": "Phạm Huy Hoàng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Load balancing cho hệ thống MOOC",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "TT, ĐATN, TTTN, ĐAMH",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Hệ thống hỗ trợ học online cỡ lớn (MOOC - Massive Open Online Courses) cho phép nhiều trường đại học cùng tham gia và chia sẻ khóa học. Tham khảo hệ thống MOOC của các trường đại học Mỹ: https://www.edx.org/ HUST/SoICT đang xây dựng hệ thống MOOC (https://daotao.ai) và sẽ mở cho các trường khác tham gia. Với số lượng tham gia nhiều, bài toán cân bằng tải cần được nghiên cứu xử lý cho hệ thống này. Link tham khảo: - open edX: https://readthedocs.org/projects/edx-installing-configuring-and-running/downloads/pdf/latest/ - cân bằng tải cho open edX: https://blog.lawrencemcdaniel.com/scaling-open-edx/"
+    },
+    {
+        "id": 117,
+        "Tên giảng viên": "Nguyễn Đình Thuận",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng hệ thống lập trình online CodeRunner",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Xây dựng hệ thống lập trình online CodeRunner"
+    },
+    {
+        "id": 117,
+        "Tên giảng viên": "Nguyễn Đình Thuận",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển hệ thống mô phỏng tín hiệu định vị vệ tinh dựa trên công nghệ SDR",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 118,
+        "Tên giảng viên": "Nguyễn Đình Thuận",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Hệ thống khuếch đại âm thanh",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 118,
+        "Tên giảng viên": "Lã Thế Vinh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng học mấy để nâng cao chất lượng hình ảnh phục vụ công tác điều tra",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Trong công tác nghiệp vụ điều tra, rất nhiều tình huống mà thông tin đến từ các ảnh thu thập hiện trường có chất lượng rất kém. Do đó mục tiêu của đề tài này hướng đến việc ứng dụng các mạng học sâu như SRGAN, REAL-ESRGAN để có thể nâng cao chất lượng của các hình ảnh này đến mức có thể truy xuất được các thông tin hữu ích. Một số kỹ thuật thường dùng: - Ổn định khung hình - Chiếu phối cảnh hình ảnh - Trung bình frame để tăng độ phân giải - Tăng độ phân giải bằng học sâu (SRGAN, ESRGAN...)"
+    },
+    {
+        "id": 118,
+        "Tên giảng viên": "Lã Thế Vinh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phối hợp thị giác máy tính để hỗ trợ hệ thống định vị dẫn đường dùng vệ tinh",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Sử dụng các phương pháp thị giác máy tính để trích trọn các đặc trưng chuyển động từ camera (sự thay đổi góc hướng, tốc độ) sau đó tích hợp các thông tin này vào trong lọc Kalman của phương trình tọa độ từ dữ liệu vệ tinh định vị. Sự kết hợp này sẽ cải thiện kết quả định vị. Hệ thống kết hợp này có tính khả thi cao đặc biệt cho các phương tiện ô-tô cá nhân khi mà camera và thiết bị định vị đều đã có sẵn. Sự kết hợp của camera-gnss sẽ tạo ra hệ thống định vị có tính chính xác và ổn định hơn đặc biệt khi di chuyển vào khu vực nhiều tòa nhà, công trình chắn sóng từ vệ tinh định vị."
+    },
+    {
+        "id": 118,
+        "Tên giảng viên": "Lã Thế Vinh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển hệ thống truy xuất chứng cứ từ thiết bị lưu trữ",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Trong nghiệp vụ điều tra tội phạm, nhu cầu trích xuất dữ liệu từ các ổ lưu trữ lấy được trong quá trình điều tra là rất lớn. Tuy nhiên việc sao chép dữ liệu không được phép tạo ra bất kỳ thay đổi nào trên ổ gốc. Do đó thông thường các hệ thống sao chép cần thực hiện một số thay đổi trong hệ điều hành để tránh việc ổ gốc có thể bị ghi (do hệ điều hành, do các chương trình scan virus, hoặc do người dùng vô tình thao tác sai). Việc sao chép được thực hiện ở mức sector của ổ lưu trữ (ví dụ lệnh dd trên linux). Trong đồ án này sinh viên cần: - Tìm hiểu về hệ điều hành Kali Linux - Sử dụng các tiện ích của Kali Linux để tạo ra một hệ thống chống thay đổi ổ đĩa - Kết hợp các ổ đĩa RAID để sao chép đồng thời - Phát triển phần mềm sao chép ở mức sector"
+    },
+    {
+        "id": 119,
+        "Tên giảng viên": "Trương Thị Diệu Linh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển hệ thống truy xuất chứng cứ từ thiết bị lưu trữ",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Hiện nay ngày càng có nhiều hộ gia đình trồng cây cảnh trong chậu trên ban công cho nhu cầu giải trí. Tuy vậy, mỗi khi đi du lịch hoặc đi vắng một thời gian, chủ nhà lại phải tính toán các giải pháp tưới cho các cây này. Có một số hệ thống đã có trên thị trường tuy nhiên khi triển khai lại gặp vấn đề khó khăn, ví dụ khả năng tưới tự động kém, khả năng điều chỉnh lượng tưới thấp, khả năng điều khiển từ xa kém, bắt buộc phải có nguồn nước, nguồn điện ở ban công v.v... Nhiệm vụ của đồ án là đưa ra và triển khai giải pháp phù hợp. - Xây dựng mô hình - Xây dựng server (dự kiến sử dụng NodeJS) - Xây dựng ứng dụng client (trên nền Arduino)"
+    },
+    {
+        "id": 119,
+        "Tên giảng viên": "Trương Thị Diệu Linh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Thiết kế mạng quang không dây tầm cao",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Truyền thông quang không dây - Free Space Optics (FSO) sử dụng sóng ánh sáng lan truyền trong không gian để truyền dữ liệu. Thiết bị thu phát FSO thương mại đã được sử dụng để truyền dữ liệu giữa các điểm gần nhau trên mặt đất ở tốc độ 1-2 Gbps. Trong mô hình mạng 6G, FSO được đề xuất sử dụng để giao tiếp giữa các vệ tinh, giữa các thiết bị bay tầm cao HAP (high-altitude platform) ở độ cao trên 22 km. Ở độ cao này, các kết nối FSO khá phù hợp với mạng 6G do ít chịu ảnh hưởng của các yếu tố thời tiết và do đó có thể truyền dữ liệu vẫn với tốc độ hàng Gbps cho mỗi bước sóng nhưng ở khoảng cách rất xa đến 100 km. FSO cũng đã và đang được các tập đoàn lớn như Facebook, Google, Thales nghiên cứu để sử dụng cho cả các kết nối giữa HAP và mặt đất. Kết nối FSO sẽ cho tốc độ truyền dữ liệu cao hơn rất nhiều so với các hình thức kết nối bằng tần số Radio đang được sử dụng rộng rãi hiện nay. Mặc dù vậy, việc sử dụng FSO cho kết nối từ vệ tinh, HAP tới mặt đất vẫn còn là vấn đề mở do sự ảnh hưởng của các yếu tố thời tiết như mây, sương đến tính sẵn sàng của kết nối. Ngoài ra, một vấn đề cần nghiên cứu nữa là thiết kế mạng lưới các HAP, các thiết bị FSO như thế nào để có thể đáp ứng hết nhu cầu truyền tải dữ liệu giữa các trạm mặt đất trong khuôn khổ năng lượng hạn chế của các thiết bị bay tầm cao. Đề tài này tập trung vào vấn đề: - Thiết kế mạng luới HAP sao cho có thể bao phủ hết các FSO dưới mặt đất với chi phí nhỏ nhất có thể trong khung cảnh nhiều ràng buộc vật lý. - Xác định mô hình FSO tối ưu trên các HAP. Tài liệu tham khảo: Dieu Linh Truong, Xuan Vuong Dang, The Ngoc Dang, Survivable free space optical mesh network using high-altitude platforms, Optical Switching and Networking, 2022, 100716, ISSN 1573-4277, https://doi.org/10.1016/j.osn.2022.100716. Nhiệm vụ: - Tìm hiểu nghiên cứu đã có - Cải tiến và cài đặt và thử nghiệm thuật toán cải tiến. Yêu cầu đối với SV: - Kiến thức thuật toán, lập trình."
+    },
+    {
+        "id": 120,
+        "Tên giảng viên": "Phạm Ngọc Hưng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển ứng dụng cho hệ thống IoT",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, KSCQ, SIE, KSTN, CTTT, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Phát triển các thành phần của hệ thống: Mobile App sử dụng React-Native, Back-end server sử dụng C# .Net Core hoặc NestJS Web front-end sử dụng ReactJS"
+    },
+    {
+        "id": 120,
+        "Tên giảng viên": "Ngô Thành Trung",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng của Đồ họa máy tính - Application of Computer Graphics",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Ảnh tạo bằng đồ họa máy tính ngày càng sát với thực tế. Nó mở ra rất nhiều ứng dụng như 1- Nghiên cứu tạo ra các loại hệ thống quang học tạo ảnh theo một đặc điểm riêng biệt, 2- Nghiên cứu thiết kế nhà cửa dưới ảnh hưởng của ánh sáng xung quanh. 3- Ước lượng, khôi phục đặc điểm quang học của vật liệu 4- Các bài toán kết xuất ngược (inverse rendering), biến ảnh 2D thành ảnh 3D. ... Ví dụ: https://ngottx.github.io/shape_reflectance.html"
+    },
+    {
+        "id": 120,
+        "Tên giảng viên": "Ngô Thành Trung",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Khôi phục ảnh 3 chiều sử dụng camera phân cực - 3D reconstruction with polarization camera",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Anh sáng thông thường đều có sự phân cực. Khi anh sáng tương tác với bề mặt vật chất sẽ bị thay đổi pha phân cực. Mắt người không nhận ra được sự thay đổi đó, nhưng một số động vật có khả năng này. Để trợ giúp con người, camera phân cực (polarization camera) có khả năng thu nhận được sự phân cực của ánh sáng. Sử dụng camera phân cực cho chúng ta thu nhận được nhiều thông tin hơn so với camera thông thường. Ví dụ có thể khôi phục ảnh 3D dễ dàng hơn, xóa bỏ những phản xạ không mong muốn trên bề mặt vật chất ( như trong các hệ thống trợ giúp quan sát mặt nước), phát hiện các lỗi sản phẩm.... Tham khảo: https://ngottx.github.io/shape_reflectance.html"
+    },
+    {
+        "id": 120,
+        "Tên giảng viên": "Ngô Thành Trung",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng của Machine Learning trong Computer Vision",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, CNKH, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Các ứng dụng của học máy trong Computer Vision. - Nhận dạng khuôn mặt, dáng đi. Các bài toán ứng dụng trong sinh trắc học và nhận dạng danh tính, giới tính, tuổi tác. - 3D reconstruction: khôi phục ảnh 3D của vật thể hay khung cảnh. Việc khôi phục ảnh 3D, bản đồ 3D có nhiều ứng dụng như các bài toán về tìm đường đi của robot, xe tự lái, - Nhận dạng hành vi, sự bất thường Ví dụ: https://ngottx.github.io/research.html"
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Đinh Thị Hà Ly",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Radio resource optimization for next generation networks",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, KSTN, CTTT, Viet-Phap, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Đinh Thị Hà Ly",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng AI trong phát triển game",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Đinh Thị Hà Ly",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Đề tài tự chọn",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Nguyễn Đức Toàn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Trí tuệ nhân tạo ứng dụng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Giải quyết các vấn đề, dự án thực tiễn bằng trí tuệ nhân tạo (học máy, học sâu, học tăng cường): + Phân tích tổng hợp thông tin, đưa ra các dự báo, hỗ trợ ra quyết định + Phát hiện các hành vi gian lận, giả mạo + Phân tích, xử lý dữ liệu lớn + Xây dựng các ứng dụng áp dụng trí tuệ nhân tạo"
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Nguyễn Đức Toàn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng các phần mềm thông minh trên Smart phone có khả năng ứng dụng thực tiễn",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Xây dựng các ứng dụng mobile (native - Android, iOS, hybrid - Flutter, React Native,Ionic) + Ví dụ ứng dụng mobile: app đặt vé xem phim, app đặt xe (như grab), app quản lý kho + Ví dụ về ứng dụng có áp dụng trí tuệ nhân tạo: ứng dụng nhận diện biển xe (xe máy, ô tô), ứng dụng gợi ý / lập lịch làm việc"
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Nguyễn Đức Toàn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "An toàn bảo mật thông tin",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "- Tìm hiểu và triển khai các giải pháp mã hóa và giải mã thông tin - Tìm hiểu nguyên lý hoạt động của mã độc để phát hiện và ngăn chặn/ loại trừ mã độc - Tìm hiểu các cơ chế tấn công mạng, đưa ra giải pháp phát hiện và ngăn chặn/ loại trừ tấn công - Xây dựng ứng dụng áp dụng công nghệ bảo mật (blockchain,..)"
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Nguyễn Đức Toàn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Triển khai hệ thống, lập trình ứng dụng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Lập trình ứng dụng Web, Mobile Xây dựng và triển khai hệ thống máy chủ, các hệ thống ảo hoá, các dịch vụ máy chủ, API"
+    },
+    {
+        "id": 122,
+        "Tên giảng viên": "Nguyễn Hồng Quang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện vi khuẩn nấm men nuôi cấy trong ảnh chụp từ kính hiển vi",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Nấm men thường được sử dụng trong công nghiệp thực phẩm như sản xuất bia, sữa chua... Mục đích của đề tài là phát hiện và đánh giá chất lượng của vi khuẩn nấm men trong quá trình nuôi cấy trong ảnh chụp từ kính hiển vị. Nghiên cứu này hợp tác với các nhà máy sản xuất bia, sữa chua."
+    },
+    {
+        "id": 122,
+        "Tên giảng viên": "Nguyễn Hồng Quang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Dự đoán tình trạng bệnh của bệnh nhân như dự đoán tiểu đường, đột quỵ, suy thận từ bản ghi EHR",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, SIE, KSTN, CTTT, Viet-Phap, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Dựa trên các bản ghi điện tử về của bệnh nhân, từ đó dự đoán tình trạng bệnh của bệnh nhân như dự đoán tiểu đường, đột quỵ, suy thận, ... Nghiên cứu này được thực hiện hợp tác với nhóm nghiên cứu của Victoria University of Wellington."
+    },
+    {
+        "id": 122,
+        "Tên giảng viên": "Nguyễn Hồng Quang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xác định gen điều khiển từ dữ liệu giải trình tự đột biến gen của bệnh nhân ung thư",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, KSCQ, SIE, KSTN, CTTT, Viet-Phap, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Khối u phát triển do một số đột biến xảy ra trên các gen quan trọng. Nghiên cứu này nhằm phát hiện các gen này (được gọi là các gen điều khiển) từ dữ liệu thu được qua các xét nghiệm phát hiện đột biến gen của bệnh nhân ung thư. Nghiên cứu này được thực hiện hợp tác với các bác sỹ của Đại học Y Hà Nội (tập trung cho bệnh ung thư phổi)."
+    },
+    {
+        "id": 122,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng giải pháp quản lí mạng trong mạng thế hệ mới",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, KSCQ, SIE, KSTN, CTTT, Viet-Phap, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Việc quản lí mạng đóng vai trò quan trọng đối với các nhà mạng (Vietel, VNPT, v.v.). Một trong số đó là bài toán định tuyến nhằm tối ưu hiệu năng của hệ thống mạng về băng thông, độ mất mát gói tin. Tuy nhiên, các giải pháp truyền thống thông qua việc tìm đường đi ngắn nhất lại không hiệu quả, đặc biệt là trong mạng thế hệ mới như ngày nay. Mục tiêu của đồ án là xây dựng một thuật toán định tuyến nhằm tối ưu hiệu năng mạng trong mạng thế hệ mới. Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về mạng thế hệ mới (cấu hình, triển khai) cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
+    },
+    {
+        "id": 123,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện lỗ hổng trong smart contract của Blockchain sử dụng bytecode",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Nhắc tới tiền ảo thì chúng ta thường hay nghĩ tới Bitcoin hay Ether. Các loại tiền ảo này được tạo ra nhờ công nghệ Blockchain. Ngoài ứng dụng về tiền ảo, Blockchain còn có một ứng dụng nổi bật khác là smart contact, ứng dụng cung cấp các hợp đồng cho bên mua và bên bán mà không cần thông qua bên trung gian. Smart contract được viết bởi các ngôn ngữ lập trình (Solidity, Python, v.v) nên rất dễ tồn tại những lỗ hổng. Bên cạnh đó, người tham gia vào mạng Blockchain rất đa dạng nên sẽ có những kẻ xấu muốn lợi dụng lỗ hổng trong các smart contract để trục lợi. Ví dụ, Ethereum đã mất hơn 60 triệu đô la Mỹ năm 2016 vì bị kẻ xấu lợi dụng lỗ hổng reentrancy để trục lợi. Tương tự như vậy, trong năm 2017, một lỗ hổng khác bị khai thác làm cho Ethereum thiệt hại hơn 280 triệu đô la Mỹ. Vì vậy, việc phát hiện lỗ hổng trong smart contract đóng vai trò rất quan trọng tron Blockchain. Trong quá khứ, đã có rất nhiều công cụ phát hiện lỗ hổng trong smart contract được phát triển như Oyente, Mythril, Dedaub, v.v. Tuy nhiên, thời gian xử lí của các công cụ này lớn trong khi độ chính xác chưa được tốt. Do đó, rất nhiều nghiên cứu đã tập trung vào giải pháp phát hiện lỗ hổng tự động trong smart contract sử dụng bytecode của smart contract và thuật toán học sâu (Deep Learning). Trong một số trường hợp, mã nguồn của các smart contract không được công khai rộng rãi thì chúng ta có thể sử dụng bytecode được build từ mã nguồn, phân tích các bytecode này để trích rút ra các đặc trưng từ đó phân tích sử dụng thuật toán học sâu để tự động phát hiện các kiểu lỗ hổng. Mục tiêu của đồ án là xây dựng một giải pháp tự động phát hiện lỗ hổng cho các smart contract trong các sàn tiền ảo hay các ứng dụng triển khai dựa vào Blockchain. Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về thuật toán học sâu cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
+    },
+    {
+        "id": 124,
+        "Tên giảng viên": "Lê Xuân Thành",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nhận dạng cảm xúc tiếng nói bằng phương pháp học sâu",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Sử dụng bộ ngữ liệu tiếng nói có cảm xúc IEMOCAP Xây dựng các giải pháp nhận dạng cảm xúc được thể hiện trong bộ cảm xúc này bằng phương pháp học sâu SV thích machine learning, AI, lập trình được Python"
+    },
+    {
+        "id": 124,
+        "Tên giảng viên": "Lê Xuân Thành",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nhận diện mã độc bằng các kỹ thuật tiên tiến (học máy, mạng nơ-ron, AI...)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Nghiên cứu các kỹ thuật nhận dạng mã độc trên máy tính và các thiết bị thông minh"
+    },
+    {
+        "id": 124,
+        "Tên giảng viên": "Lê Xuân Thành",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Mô hình dự đoán tương tác thuốc - cell line sử dụng metapath2vec",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Dựng lại model, sử dụng bộ dữ liệu sẵn có, hiệu chỉnh model để kết quả tốt hơn SV thích machine learning, AI, lập trình được Python"
+    },
+    {
+        "id": 125,
+        "Tên giảng viên": "Nguyễn Đức Tiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Thiết kế cân sức khỏe 4.0 và hệ thống dữ liệu",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Các chức năng chính: 1. cân: sử dụng 4 loadcell và module khuyêch đại. (được cung cấp mã nguồn và vật tư) 2. gửi về máy chủ. 3. hiển thị lên màn hình kết quả đo khối lượng 4. Hiển thị lên màn hình các kỷ lục của tháng, quí, năm, lượt đo thứ mấy trong ngày, 5. website hiển thị số liệu, đồ thị Từ khóa: MQTT, SIoT Core Lab, Web, ESP32, Loadcell Vật tư: được cung cấp tất cả linh kiện như ESP32, loadcell, mạch khuyêch đại, mã nguồn minh họa, module chuyển đổi điện áp 220V-5V, máy chủ web, cơ sở dữ liệu public. Đã hàn thành board hoàn chỉnh rồi. Dự kiến: đặt tại sảnh B1."
+    },
+    {
+        "id": 125,
+        "Tên giảng viên": "Nguyễn Đức Tiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Thiết bị giám sát trạng thái xoay của màn hình phụ máy tính",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "VB2, CNKT, KSCQ, SIE, CTTT, Viet-Phap, CN, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Mô tả hiện trạng: - Một máy tính có thể kết nối với một màn hình phụ ở ngoài - Màn hình phụ có thể ở các vị trí khác nhau so mới màn hình máy tính chính - Màn hinh phụ có thể không ở phương ngang, mà xoay 90*, -90* để dựng đứng Vân đề: - Người dùng cần thiết lập lại vị trí của màn hình thứ 2 so với màn hinh chính để tiện di chuyển chuột Ý tưởng thực hiện: - Tạo ra một thiết bị phụ trợ để phát hiện được vị trí tương đối của màn hinh phụ so với màn hình chính, từ đó tự động cấu hình màn hình phụ cho hợp. Giải pháp: - Gắn một bộ điều khiển vào màn hình phụ, sử dụng ESP32 vì hỗ trợ WiFi, Bluetooth - Để đo góc nghiêng dùng 1 trong số các loại: cảm biến MPU9250, MPU6050, SW520, - ESP32 tự tạo thành bàn phím BLE-Keyboard để kết nối với máy tính. Mỗi khi thay đổi phương, ESP32 gửi tổ hợp Ctrl+Alt+Arrow để đổi phương. - Nếu lập trình để tạo một Agent trên máy tính, có thể dùng để chủ động thay đổi vị trí của màn hình phụ với màn hình chính. Tham khảo hàm win32 ChangeDisplaySettingsEx, hoặc của user32.sll là hàm ChangeDisplaySettings Hoặc sử dụng mã nguồn mở (đã test thành công, tạo lại Sign Key) https://www.codeproject.com/Articles/36664/Changing-Display-Settings-Programmatically - Tuy nhiên chưa có giải pháp để xác định màn hình phụ đặt ở bên trái, trên, hay bên phải của màn hình máy tính."
+    },
+    {
+        "id": 125,
+        "Tên giảng viên": "Nguyễn Đức Tiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Thiết bị nhắc hẹn",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Thiết bị nhắc đến lượt, tương tự như ở quán Cafe Highland - Thiết bị trung tâm phát tín hiệu báo + Module thu phát RF NRF24L01 có anten + nfc reader - Thiệt bị nhận tin hiệu với + motor rung: http://linhkiencuvn.com/motor-rung-0834-8-3-4mm-dc3v-5v + Module thu phát RF NRF24L01 + bộ xử lý trung tâm + nfc tag + pin"
+    },
+    {
+        "id": 125,
+        "Tên giảng viên": "Đỗ Tiến Dũng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Hệ nhúng và IoT (Embedded systems and internet of things)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Tìm hiểu viết driver trên PI. Lập trình trên thiết bị arduino (vd đo thông số môi trường, điều khiển thiết bị). Lập trình thiết bị nhúng (vd hệ thống giám sát, quản lý thông minh)"
+    },
+    {
+        "id": 125,
+        "Tên giảng viên": "Đỗ Tiến Dũng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Thuật toán và quy trình phần mềm (Algorithm and software process)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "(1) Nguyên cứu lý thuyết chủ đề thuật giải (Hash Table, Dynamic Programming, Depth-First and Breadth-First Search, Heap - Priority Queue, Graph), áp dụng, minh họa giải quyết các vấn đề liên quan. (2) Chọn một bài toán ứng dụng trong một lĩnh vực cụ thể. Xây dựng ứng dụng đảm bảo quy trình phát triển phần mềm (Requirement analysis, design, implementation, testing). Chạy chương trình với dữ liệu và tình huống thực tế."
+    },
+    {
+        "id": 125,
+        "Tên giảng viên": "Đỗ Tiến Dũng",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bài toán luật kết hợp (Association rules)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Tìm hiểu về bài toán khai phá luật kết hợp (Association rule mining). Luật kết hợp đối với dữ liệu lớn, luật kết hợp cho bài toán phân loại (Classification). Viết chương trình, minh họa trên các tập dữ liệu chuẩn (benchmark datasets) hoặc các dữ liệu thực tế khác."
+    },
+    {
+        "id": 125,
+        "Tên giảng viên": "Đặng Tuấn Linh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu mô hình đánh giá chất lượng hình ảnh",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 126,
+        "Tên giảng viên": "Đặng Tuấn Linh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển module/ứng dụng giám sát thi cử dựa trên Open edX",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
+    },
+    {
+        "id": 126,
+        "Tên giảng viên": "Đặng Tuấn Linh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu mô hình nhận dạng chữ viết tay/ chữ cái trên văn bản",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Không xác định"
     }
 ]

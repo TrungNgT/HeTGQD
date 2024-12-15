@@ -1,20 +1,22 @@
-const fs = require('fs');
-const path = require('path');
-const { Client } = require('@elastic/elasticsearch');
+import { readFile } from 'fs';
+import { join } from 'path';
+import { Client } from '@elastic/elasticsearch';
 
 // Khởi tạo client Elasticsearch
 const client = new Client({
   node: 'http://localhost:9200',
   auth: {
     username: 'elastic',
-    password: 'XiH66HdPw5EGj72YyWe3'
+    password: 'FokPpOKqXaEC+ItgCdKQ'
   }
 });
 
-// Đọc dữ liệu từ file dataDoAn.json trong thư mục public
-const filePath = path.join(__dirname, 'public', 'dataDoAn.json');
 
-fs.readFile(filePath, 'utf8', async (err, data) => {
+
+// Đọc dữ liệu từ file dataDoAn.json trong thư mục public
+const filePath = join(__dirname, 'public', 'dataDoAn.json');
+
+readFile(filePath, 'utf8', async (err, data) => {
   if (err) {
     console.error('Lỗi khi đọc file:', err);
     return;
