@@ -32,11 +32,14 @@ async function searchAndExportData(searchTerm) {
                     bool: {
                         should: [
                             //{ match: { "Tên giảng viên": searchTerm } },
-                            { match: { "Tên đề tài": searchTerm } } // Tìm kiếm trong trường "description"
+                            { match: { "Tên đề tài": searchTerm } }, // Tìm kiếm trong trường "description"
+                            { match: { "Chi tiết": searchTerm } }
                         ]
                     }
                 },
-                size: 10, // Lấy 10 kết quả
+               // size: 10, // Lấy 10 kết quả
+                min_score: 0, // Đảm bảo rằng tất cả các bản ghi đều được trả về (cả những bản ghi có score = 0)
+                size: 10000,
                 sort: [{ _score: { order: 'desc' } }] // Sắp xếp theo score giảm dần
             }
         });
@@ -54,4 +57,4 @@ async function searchAndExportData(searchTerm) {
 }
 
 // Thay thế 'your search term' bằng cụm từ bạn muốn tìm kiếm
-searchAndExportData('Improving');
+searchAndExportData('chatbot');

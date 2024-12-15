@@ -1,6 +1,6 @@
 [
     {
-        "id": 82,
+        "id": 1,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Tính toán chiều cao vật thể từ mô hình bề mặt số tính toán từ ảnh ghép chụp từ máy bay không người lái (drone)",
@@ -10,7 +10,7 @@
         "Chi tiết": "Ảnh chụp từ máy bay không người lái (drone) có rất nhiều ứng dụng trong thực tế. Một trong các ứng dụng thực tế là khi bay drone chụp nhiều ảnh với tỷ lệ chồng lên nhau lớn (70-80%) cho phép ghép nhiều ảnh nhỏ thành một ảnh khu vực lớn, phục vụ cho bài toán quy hoạch cũng như phân lớp các đối tượng trên mặt đất. Bên cạnh ảnh ghép, một sản phẩm đầu ra của bài toán này là dữ liệu mô hình bề mặt số (Digital Surface Model), cho biết cao độ của từng điểm ảnh tương ứng. Từ những dữ liệu mô hình bề mặt số này có thể trích xuất được độ cao của từng vật thể tương ứng, từ đó áp dụng cho các bài toán như phân đoạn ảnh, đo thể tích các tòa nhà hay đo sinh khối của một khu rừng Yêu cầu đặt ra với đề tài này là việc tính toán chính xác độ cao của từng vật thể (ứng với từng điểm ảnh) để từ đó áp dụng vào các bài toán tương ứng. Để thực hiện việc này có thể áp dụng nhiều giải pháp khác nhau, từ áp dụng các kỹ thuật thuật toán thông thường đến sử dụng các mô hình học sâu như các mô hình Diffusion để dự đoán mô hình mặt đất số hoặc dự đoán trực tiếp độ cao từng điểm ảnh. Các kết quả hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
     },
     {
-        "id": 83,
+        "id": 2,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Sử dụng ảnh vệ tinh tần suất lớn (Himawari-8 10 phút/ảnh) để đánh giá mức độ ảnh hưởng của đảo nhiệt lên các thành phố ở Việt Nam",
@@ -20,7 +20,7 @@
         "Chi tiết": "Trong các vệ tinh viễn thám, vệ tinh địa tĩnh với vị trí cố định so với trái đất cho phép thu nhận dữ liệu liên tục với tần suất lớn (nhiều lần/giờ), cho phép triển khai các nghiên cứu trước đây chưa làm được. Một trong những vệ tinh viễn thám địa tĩnh thông dụng hiện nay là vệ tinh Himawari-8 với tần suất thu nhận ảnh là 10 phút/ảnh. Đồng thời vệ tinh này thu nhận dữ liệu trên nhiều dải tần khác nhau như ảnh màu RGB, ảnh cận nhiệt và ảnh tầm nhiệt. Với các dữ liệu tầm nhiệt cho phép thu nhận nhiệt độ trên mặt đất cho phép thực hiện các bài toán liên quan. Một trong những vấn đề lớn với các quốc gia là hiện tượng đảo nhiệt, khi nhiệt độ ở trong thành phố có có sự chênh lệch so với ở khu vực ngoại ô do sự phát triển của các công trình xây dựng cũng như hoạt động của con người (phương tiện giao thông, điều hòa). Tại Việt Nam, mặc dù tác động của đảo nhiệt là khá rõ ràng nhưng việc có các nghiên cứu đánh giá đầy đủ về mức độ tăng nhiệt độ trong khu vực đô thị và ngoại ô cũng như tác động của quá trình đô thị hóa là chưa đầy đủ. Một trong những hạn chế của các nghiên cứu hiện tại là chưa đánh giá được sự chênh lệch nhiệt độ trong những giai đoạn thời tiết khắc nghiệt (như đợt nắng nóng hay đợt gió mùa) để đánh giá sự sai khác. Việc sử dụng dữ liệu nhiệt Himawari-8 cho phép thực hiện được việc này một cách chính xác và đầy đủ. Yêu cầu đặt ra là phải cần giải quyết là tính toán nhiệt độ trên bề mặt từ dữ liệu tầm nhiệt, giám sát nhiệt độ liên tục, lọc nhiễu (thường gây ra do mây mù hay bầu khí quyển). Nhiệm vụ tiếp theo là phát hiện các giai đoạn thời tiết khắc nghiệt (qua việc lọc giai đoạn) và từ đó đánh giá mức độ ảnh hưởng của đảo nhiệt lên nhiệt độ đô thị và ngoại ô Việt Nam. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
     },
     {
-        "id": 84,
+        "id": 3,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Đánh giá ảnh hưởng của góc chiếu mặt trời lên sinh trưởng của rừng nhiệt đới Đông Nam Á sử dụng ảnh vệ tinh MODIS",
@@ -30,7 +30,7 @@
         "Chi tiết": "Xử lý ảnh viễn thám (phần lớn là ảnh vệ tinh) là một trong những lĩnh vực kết hợp giữa xử lý ảnh (image processing) và hệ thống thông tin địa lý (Geographic Information System) giúp giải quyết các vấn đề trên mặt đất ở diện rộng mà thông thường rất khó có thể đánh giá toàn diện nếu chỉ dựa vào các dữ liệu đơn lẻ trên mặt đất. Các ứng dụng có thể giải quyết bằng xử lý ảnh viễn thám rất đa dạng, từ đánh giá sự thay đổi phân bố trên bề mặt nhất là các thành phố, phát hiện rác thải nhựa trên mặt nước, đánh giá mức độ phủ của rừng cũng như phát hiện phá rừng, theo dõi và đánh giá sự thay đổi nhiệt độ bề mặt cùng ảnh hưởng của nó đến sức khỏe con người, giám sát sự phát triển của cây xanh và phát hiện các yếu tố bất thường như dịch bệnh, hoặc thậm chí có thể phát hiện các thành phần khoáng sản trong đất đai. Yêu cầu cụ thể đối với đề tài đồ án tốt nghiệp này như sau: - Yêu cầu sinh viên: cần có kiến thức về xử lý ảnh. Nếu đã từng làm việc qua đồ án môn học hoặc các môn project về xử lý ảnh viễn thám giúp tiết kiệm thời gian. - Sinh viên cần xử lý ảnh vệ tinh MODIS về cây xanh cũng như các dữ liệu MODIS về thông số mô hình hóa BRDF. - Sinh viên cần đánh giá sự thay đổi góc chiếu theo mùa phụ thuộc vào kinh độ và vĩ độ - Sinh viên cần nghiên cứu và thực hiện thuật toán (công thức) để chuẩn hóa dữ liệu MODIS về cùng một góc chiếu sử dụng thông số mô hình hóa BRDF. Sau đó đánh giá sự sai khác dữ liệu chưa chuẩn hóa và đã chuẩn hóa góc chiếu. - Từ đó, đánh giá sự sai khác dữ liệu này ảnh hưởng thế nào đến sự thay đổi tín hiệu của rừng nhiệt đới theo mùa và theo năm, cũng như các tham số sinh học trích chọn từ dữ liệu theo mùa này. - Kết quả đề tài tốt có thể thực hiện công bố lên các tạp chí khoa học liên quan."
     },
     {
-        "id": 85,
+        "id": 4,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu ảnh hưởng và chuẩn hóa góc chiếu mặt trời và vệ tinh đến việc thu nhận dữ liệu giữa ảnh vệ tinh MODIS/VIIRS và ảnh vệ tinh địa tĩnh Himawari-8",
@@ -40,7 +40,7 @@
         "Chi tiết": "Trong thị giác máy tính, việc thu nhận ảnh của cùng một đối tượng có thể khác nhau tùy thuộc vào góc chiếu giữa đối tượng, nguồn sáng và cảm biến (máy ảnh) thu nhận. Đối với ảnh thu nhận từ vệ tinh, việc thu nhận ảnh cũng gặp vấn đề tương tự, nhất là với đối tượng được thu nhận dài hạn (theo mùa, theo năm, theo nhiều năm) như đo sự sinh trưởng rừng, lúa, cây nông nghiệp. Vị trí của mặt trời (nguồn sáng) thay đổi theo mùa, vị trí của vệ tinh cũng không phải cố định trên bầu trời. Do đó việc đánh giá sự thay đổi đối tượng theo thời gian là sự tổng hòa giữa sự thay đổi thực sự của đối tượng (như khi lúa sinh trưởng, phát triển, trổ bông,…) và sự thay đổi do sự thay đổi mặt trời theo mùa. Việc đánh giá, chuẩn hóa dữ liệu này vô cùng quan trọng nhằm loại bỏ sự tác động của sự thay đổi góc chiếu và đánh giá chính xác sự thay đổi theo thời gian của đối tượng. Ngoài ra, việc này còn giúp kết hợp dữ liệu giữa các vệ tinh với nhau, do mỗi vệ tinh thường chỉ có thời hạn hoạt động khoảng 7-10 năm. Muốn đánh giá sự thay đổi của đối tượng qua nhiều thập kỷ cần sự kết hợp của nhiều loại vệ tinh với các thiết kế về góc chiếu khác nhau. Trong bài toán này, nhiệm vụ chính là đánh giá tác động của góc chiếu đến việc thu nhận thông tin giữa ảnh MODIS và ảnh VIIRS (vốn được thiết kế để thay thế cho MODIS). Do 2 vệ tinh không hoàn toàn giống nhau nên tác động của góc chiếu lên các chỉ số cây xanh (được tính từ ảnh thô để đo sinh trưởng của cây xanh) cũng sẽ khác nhau. Khi đó, việc đánh giá tác động của góc chiếu lên dữ liệu ảnh MODIS và VIIRS là cần thiết để từ đó đưa ra được sai số cũng như kết hợp, tiếp nối việc thám sát cùng đối tượng được đồng nhất. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
     },
     {
-        "id": 86,
+        "id": 5,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Sử dụng ảnh vệ tinh tần suất lớn (Himawari-8 10 phút/ảnh) để giám sát nhiệt độ bề mặt và phát hiện bất thường về nhiệt độ",
@@ -50,7 +50,7 @@
         "Chi tiết": "Trong các vệ tinh viễn thám, vệ tinh địa tĩnh với vị trí cố định so với trái đất cho phép thu nhận dữ liệu liên tục với tần suất lớn (nhiều lần/giờ), cho phép triển khai các nghiên cứu trước đây chưa làm được. Một trong những vệ tinh viễn thám địa tĩnh thông dụng hiện nay là vệ tinh Himawari-8 với tần suất thu nhận ảnh là 10 phút/ảnh. Đồng thời vệ tinh này thu nhận dữ liệu trên nhiều dải tần khác nhau như ảnh màu RGB, ảnh cận nhiệt và ảnh tầm nhiệt. Với các dữ liệu tầm nhiệt cho phép thu nhận nhiệt độ trên mặt đất cho phép thực hiện các bài toán liên quan. Một trong những ứng dụng quan trọng của dữ liệu nhiệt của Himawari-8 là việc phát hiện bất thường về nhiệt độ, đóng vai trò quan trọng trong việc phát hiện cháy gần thời gian thực. Yêu cầu đặt ra là phải cần giải quyết là tính toán nhiệt độ trên bề mặt từ dữ liệu tầm nhiệt, giám sát nhiệt độ liên tục, lọc nhiễu (thường gây ra do mây mù hay bầu khí quyển) và đưa ra cảnh báo khi có tăng nhiệt đột ngột. Ngoài ra, việc giám sát dữ liệu định kỳ hàng năm cũng có thể đưa ra cảnh báo về khả năng gây cháy khi mức nhiệt hiện tại cao hơn so với hàng năm. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
     },
     {
-        "id": 87,
+        "id": 28,
         "Tên giảng viên": "Bành Thị Quỳnh Mai",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Mạng cảm biến không dây",
@@ -60,7 +60,7 @@
         "Chi tiết": "Thu thập, đo đạc dữ liệu mạng cảm biến không dây WSN, tối ưu hoá hoạt động mạng cảm biến không dây trong IoT"
     },
     {
-        "id": 88,
+        "id": 29,
         "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nén video ngữ nghĩa dùng mô hình CNN và ứng dụng (Semantic Video Compression using CNN and applications)",
@@ -70,7 +70,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 89,
+        "id": 30,
         "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nhận dạng cảm xúc dùng mô hình hợp nhất đa thể thức và kỹ thuật học sâu (Emotion Recognition Using Multimodal Fusion Models and Deep Learning)",
@@ -80,7 +80,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 90,
+        "id": 31,
         "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát hiện và theo dõi người/ đối tượng chuyển động trong video (Motion Human/ Object Detection and Tracking in video)",
@@ -90,7 +90,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 91,
+        "id": 32,
         "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát triển các ứng dụng thị giác máy tính và AI (Developed applications for Computer Vision and AI))",
@@ -100,7 +100,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 92,
+        "id": 33,
         "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nén ảnh/ video với kỹ thuật học sâu - CNN (Image and Video Compression with Deep Learning - CNN)",
@@ -110,7 +110,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 93,
+        "id": 34,
         "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát triển các ứng dụng công nghệ Web (Website, Web applications)",
@@ -120,7 +120,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 94,
+        "id": 64,
         "Tên giảng viên": "Trần Quang Đức",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu, phát triển hệ thống hỗ trợ truyền dòng theo thời gian thực trong môi trường mạng Internet",
@@ -130,7 +130,7 @@
         "Chi tiết": "Nghiên cứu, phát triển hệ thống hỗ trợ truyền dòng theo thời gian thực trong môi trường mạng Internet"
     },
     {
-        "id": 95,
+        "id": 65,
         "Tên giảng viên": "Trần Quang Đức",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Xây dựng, phát triển hệ thống phát hiện DGA dựa trên phân tích đặc điểm hành vi mã độc",
@@ -140,7 +140,7 @@
         "Chi tiết": "Xây dựng, phát triển hệ thống phát hiện mã độc DGA dựa trên phân tích đặc điểm hành vi"
     },
     {
-        "id": 96,
+        "id": 73,
         "Tên giảng viên": "Trần Hải Anh",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Ứng dụng Federated Learning vào xử lý tính toán biên (edge computing) để giải quyết các bài toán liên quan đến BioInformatics trong mạng SDN phân tán",
@@ -150,7 +150,7 @@
         "Chi tiết": "Ứng dụng xử lý tính toán biên đã mang lại rất nhiều lợi ích cho việc giải quyết các bài toán BioInformatics như: giảm độ trễ, tăng độ riêng tư, cải thiện khả năng co giãn, và yêu cầu giảm băng thông. Việc áp dụng AI vào giải quyết các bài toán BioInformatics đã trở thành xu thế tất yếu, tuy nhiên, thực hiện huấn luyện đơn lẻ ở các miền độc lập ở biên mạng trở nên không hiệu quả. Federated Learning là một giải pháp tiềm năng cho vấn đề này. Đề tài hướng đến ứng dụng FL vào xử lý tính toán biên (edge computing) để giải quyết các bài toán liên quan đến BioInformatics trong mạng SDN phân tán."
     },
     {
-        "id": 97,
+        "id": 74,
         "Tên giảng viên": "Trần Hải Anh",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Ứng dụng Transfer Learning vào giải quyết bài toán dự đoán ma trận lưu lượng cho mạng SDN phân tán",
@@ -160,7 +160,7 @@
         "Chi tiết": "Ma trận lưu lượng (MTLL) biểu diễn thông tin về lưu lượng và sự phân bố các luồng lưu lượng bên trong hệ thống mạng. MTLL đóng một vai trò quan trọng trong nhiều lĩnh vực quản trị mạng, vd: hạch toán lưu lượng, lập lịch hoặc định tuyến lại lưu lượng trong thời gian ngắn, thiết kế mạng, phát hiện bất thường, v.v... Do đó, việc dự đoán MTLL chính xác là điều cần thiết để xử lý sớm các tác vụ đó một cách hiệu quả. May mắn thay, Trí tuệ nhân tạo (AI) đã và đang phát triển rất mạnh mẽ nhờ sự phát triển của công nghệ máy tính như GPU và TPU. Điều đó mang lại cơ hội ứng dụng AI vào các phương pháp dự đoán MTLL. Tuy nhiên, việc áp dụng các kỹ thuật Học máy trong các mạng truyền thống gặp phải một số vấn đề do điều khiển phân tán và tầm điều khiển cục bộ của các nút mạng bị hạn chế. Kiến trúc điều khiển tập trung của Mạng khả trình (Software-defined Network - SDN), là một giải pháp đầy hứa hẹn. Tuy nhiên, việc áp dụng các kỹ thuật học máy (Machine Learning - ML) cho một mạng SDN phân tán trở nên phức tạp với quá trình huấn luyện diễn ra phân tán ở nhiều miền SDN. Từ đó, đề tài hướng đến ứng dụng kỹ thuật Học chuyển giao (Transfer Learning) để có thể truyền tri thức từ những miền đã được huấn luyện tới những miền mới và ít dữ liệu. Từ đó, mỗi miền có thể xây dựng thành công những mô hình dự đoán MTLL với độ chính xác cao."
     },
     {
-        "id": 98,
+        "id": 75,
         "Tên giảng viên": "Trần Hải Anh",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Xây dựng trang web thương mại điện tử",
@@ -170,7 +170,7 @@
         "Chi tiết": "Trong thời kỳ chuyển đổi số đang ngày càng phát triển với quy mô rộng khắp, việc thiết kế và xây dựng các hệ thống thương mại điện tử trở nên rất cần thiết. Đề tài giúp sinh viên rèn luyện các kỹ năng phân tích thiết kế hệ thống và phát triển một hệ thống thương mại điện tử có khả năng được ứng dụng."
     },
     {
-        "id": 99,
+        "id": 81,
         "Tên giảng viên": "Tống Văn Vạn",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Xây dựng giải pháp quản lí mạng trong mạng thế hệ mới",
@@ -180,7 +180,7 @@
         "Chi tiết": "Việc quản lí mạng đóng vai trò quan trọng đối với các nhà mạng (Vietel, VNPT, v.v.). Một trong số đó là bài toán định tuyến nhằm tối ưu hiệu năng của hệ thống mạng về băng thông, độ mất mát gói tin. Tuy nhiên, các giải pháp truyền thống thông qua việc tìm đường đi ngắn nhất lại không hiệu quả, đặc biệt là trong mạng thế hệ mới như ngày nay. Mục tiêu của đồ án là xây dựng một thuật toán định tuyến nhằm tối ưu hiệu năng mạng trong mạng thế hệ mới. Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về mạng thế hệ mới (cấu hình, triển khai) cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
     },
     {
-        "id": 100,
+        "id": 82,
         "Tên giảng viên": "Tống Văn Vạn",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát hiện lỗ hổng trong smart contract của Blockchain sử dụng mã nguồn",
@@ -190,7 +190,7 @@
         "Chi tiết": "Nhắc tới tiền ảo thì chúng ta thường hay nghĩ tới Bitcoin hay Ether. Các loại tiền ảo này được tạo ra nhờ công nghệ Blockchain. Ngoài ứng dụng về tiền ảo, Blockchain còn có một ứng dụng nổi bật khác là smart contact, ứng dụng cung cấp các hợp đồng cho bên mua và bên bán mà không cần thông qua bên trung gian. Smart contract được viết bởi các ngôn ngữ lập trình (Solidity, Python, v.v) nên rất dễ tồn tại những lỗ hổng. Bên cạnh đó, người tham gia vào mạng Blockchain rất đa dạng nên sẽ có những kẻ xấu muốn lợi dụng lỗ hổng trong các smart contract để trục lợi. Ví dụ, Ethereum đã mất hơn 60 triệu đô la Mỹ năm 2016 vì bị kẻ xấu lợi dụng lỗ hổng reentrancy để trục lợi. Tương tự như vậy, trong năm 2017, một lỗ hổng khác bị khai thác làm cho Ethereum thiệt hại hơn 280 triệu đô la Mỹ. Vì vậy, việc phát hiện lỗ hổng trong smart contract đóng vai trò rất quan trọng tron Blockchain. Trong quá khứ, đã có rất nhiều công cụ phát hiện lỗ hổng trong smart contract được phát triển như Oyente, Mythril, Dedaub, v.v. Tuy nhiên, thời gian xử lí của các công cụ này lớn trong khi độ chính xác chưa được tốt. Do đó, rất nhiều nghiên cứu đã tập trung vào giải pháp tự động phát hiện lỗ hổng trong smart contract sử dụng mã nguồn của smart contract và thuật toán học sâu (Deep Learning). Giải pháp này sẽ phân tích mã nguồn của smart contract để trích rút ra các đặc trưng ngữ nghĩa và cú pháp, từ đó phân tích các đặc trưng này sử dụng thuật toán học sâu để tự động xác định các kiểu lỗ hổng. Mục tiêu của đồ án là xây dựng một giải pháp tự động phát hiện lỗ hổng cho các smart contract trong các sàn tiền ảo hay các ứng dụng triển khai dựa vào Blockchain. Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về thuật toán học sâu cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
     },
     {
-        "id": 101,
+        "id": 83,
         "Tên giảng viên": "Tống Văn Vạn",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát triển giải pháp hỗ trợ sửa lỗi tự động trong mã nguồn sử dụng mô hình ngôn ngữ lớn.",
@@ -200,7 +200,7 @@
         "Chi tiết": "Các sản phẩm phần mềm ngày nay thường được viết bằng các ngôn ngữ lập trình. Trong quá trình phát triển phần mềm, mặc dù các kiểm thử viên đã kiểm tra mã nguồn kĩ càng nhưng đôi khi vẫn bỏ sót một số lỗi hay lỗ hổng, việc này có thể dẫn đến nhiều tổn thất to lớn đối với các doanh nghiệp. Ngày nay, đã có rất nhiều giải pháp phát hiện lỗi hay lỗ hổng tự động. Tuy nhiên, việc gợi ý để vá lối hay lỗ hổng lại chưa được quan tâm đầy đủ. Đề tài này phát triển giải pháp hỗ trợ sửa lỗi tự động trong mã nguồn sử dụng mô hình ngôn ngữ lớn."
     },
     {
-        "id": 102,
+        "id": 84,
         "Tên giảng viên": "Tống Văn Vạn",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phân loại lưu lượng mạng mã hóa cho các nhà mạng",
@@ -210,7 +210,7 @@
         "Chi tiết": "Phân loại lưu lượng mạng đóng vai trò quan trọng trong việc quản lí mạng cho các nhà cung cấp dịch vụ mạng (Vietel, VNPT, v.v.). Mục đích của việc phân loại lưu lượng mạng là để xác định các kiểu ứng dụng ứng với các luồng lưu lượng mạng (truyền video, truyền file, VoIP, v.v), từ đó triển khai các giải pháp thích nghi cho từng kiểu ứng dụng này và đáp ứng các yêu cầu khác nhau của người dùng. Ví dụ, các cơ chế định tuyến hướng ứng dụng nhằm tối ưu các tham số mạng theo yêu cầu của người dùng (độ trễ, độ mất mát gói tin, băng thông, v.v), hệ thống phát hiện xâm nhập, chặn các luồng lưu lượng mạng theo yêu cầu của các cơ quan, v.v. Mục tiêu của đồ án là xây dựng một giải pháp phân loại lưu lượng mạng mã hóa cho các nhà cung cấp dịch vụ mạng sử dụng thuật toán học sâu (Deep Learning). Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về thuật toán học sâu cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
     },
     {
-        "id": 103,
+        "id": 85,
         "Tên giảng viên": "Đỗ Công Thuần",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát triển các hệ thống nhúng/IoT",
@@ -220,7 +220,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 104,
+        "id": 86,
         "Tên giảng viên": "Đỗ Công Thuần",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu về CPU hiệu năng cao (Proposing techniques for high-performance CPUs)",
@@ -230,7 +230,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 105,
+        "id": 87,
         "Tên giảng viên": "Đỗ Công Thuần",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu tối ưu thuật toán trên GPU với CUDA (Algorithm optimization for GPUs using CUDA)",
@@ -240,7 +240,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 106,
+        "id": 88,
         "Tên giảng viên": "Đỗ Công Thuần",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu các mô hình AI phù hợp cho các hệ thống IoT (AI models for IoT-based system)",
@@ -250,7 +250,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 107,
+        "id": 91,
         "Tên giảng viên": "Nguyễn Linh Giang",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phương pháp học tăng cường và áp dụng giải quyết các bài toán trong lĩnh vực mạng truyền thông và an toàn thông tin",
@@ -260,7 +260,7 @@
         "Chi tiết": "Mục tiêu: Nghiên cứu tìm hiểu phương pháp học máy, học tăng cường. Áp dụng vào giải quyết các bài toán tối ưu, những bài toán quyết định có tính Markov. Nội dung: - Nghiên cứu các phương pháp học máy; - Nghiên cứu các quá trình quyết định Markov, phương pháp học tăng cường, và xấp xỉ ngẫu nhiên; - Áp dụng giải quyết các bài toán quyết định trong lĩnh vực mạng truyền thông và an toàn thông tin như giải quyết các bài toán tối ưu trong mạng, phát hiện tấn công mạng qua quan sát hành vi, ... - Lập trình: python, C, ..."
     },
     {
-        "id": 108,
+        "id": 92,
         "Tên giảng viên": "Nguyễn Linh Giang",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát hiện tấn công mạng bằng phát hiện bất thường dựa trên phân tích dữ liệu",
@@ -270,7 +270,7 @@
         "Chi tiết": "Mục tiêu: sử dụng các phương pháp học máy (machine learning) trong phát hiện bất thường trong dữ liệu mạng. Nội dung: - Nghiên cứu, thử nghiệm các phương pháp học máy; - Nghiên cứu, thử nghiệm các phương pháp phân tích dữ liệu, trích chọn đặc trưng của tấn công mạng dựa vào phân tích dữ liệu, các phương pháp học sâu; - Phát triển thử nghiệm hệ thống phát hiện tấn công mạng. Tập trung vào phát hiện Botnet, phát hiện tấn công DDoS, phát hiện tấn công vào hệ thống web. Ngôn ngữ lập trình: Python, C, C++, Java, PHP"
     },
     {
-        "id": 109,
+        "id": 93,
         "Tên giảng viên": "Nguyễn Linh Giang",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Bảo mật dữ liệu cho giao tiếp device to device, IoT",
@@ -280,7 +280,7 @@
         "Chi tiết": "Mục tiêu: tìm hiểu, nghiên cứu và phát triển các phương pháp bảo vệ dữ liệu cho giao tiếp M2M. Nội dung: - NGhiên cứu, tìm hiểu, thử nghiệm các phương pháp đảm bảo kết nối an toàn trong giao tiếp M2M trong các hệ thống IoT. - Nghiên cứu các phương pháp cấp phát chứng thư số, mã hoá nhẹ trong môi trường tính toán giới hạn. - Phát triển thử nghiệm hệ thống cấp phát chứng thư số và sử dụng ký số, bảo mật dựa trên các thuật toán mã hoá hạng nhẹ;"
     },
     {
-        "id": 110,
+        "id": 94,
         "Tên giảng viên": "Nguyễn Linh Giang",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phát hiện và xử lý tấn công từ chối dịch vụ",
@@ -290,7 +290,7 @@
         "Chi tiết": "Mục tiêu: Tìm, phát hiện, theo dõi tác nhân gây ra tấn công từ chối dịch vụ DDoS bằng phương pháp học máy và phân tích dữ liệu. Nội dung: - Nghiên cứu, thử nghiệm các phương pháp học máy, trích chọn đặc trưng; - Nghiên cứu các phương pháp học sâu, - Phân tích đặc trưng của các dạng tấn công qua Botnet theo các các luồng dữ liệu mạng - Nghiên cứu và phân tích đặc điểm của các dạng Botnet DGA - NGhiên cứu các giải pháp giảm thiểu ảnh hưởng tấn công qua Botnet - Phát triển hệ thống phát hiện Botnet và giảm ảnh hưởng của Botnet Ngôn ngữ lập trình: Python, C, C++, Java, ..."
     },
     {
-        "id": 111,
+        "id": 101,
         "Tên giảng viên": "Trịnh Văn Chiến",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Ứng dụng lý thuyết tối ưu hóa cho truyền thông và mạng",
@@ -300,7 +300,7 @@
         "Chi tiết": "Phân bổ tài nguyên là một vấn đề cơ bản và quan trọng đối với các mạng không dây để đảm bảo mạng hoạt động hiệu quả và ổn định. Đặc biệt, trong mạng 5G và mạng 6G, nhiều nhu cầu dịch vụ mạng không dây khác nhau sẽ được yêu cầu. Đề tài này,nghiên cứu về lĩnh vực phân bổ tài nguyên trong mạng truyền thông 5G/6G. Đề tài đưa ra một cái nhìn tổng quan về vấn đề phân bổ tài nguyên trong các mạng không dây hiện nay và xem xét các phương pháp phân bổ tài nguyên dựa vào lý thuyết tối ưu hóa."
     },
     {
-        "id": 112,
+        "id": 102,
         "Tên giảng viên": "Trịnh Văn Chiến",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Ứng dụng khoa học dữ liệu cho truyền thông và mạng",
@@ -310,7 +310,7 @@
         "Chi tiết": "Khoa học dữ liệu đã và đang được nghiên cứu rộng rãi. Truyền thông ngữ nghĩa gần đây được ứng dụng như một bước đột phá vượt ra ngoài định lý Shannon bằng cách truyền và nhận thông tin ngữ nghĩa thay vì các bit dữ liệu hoặc ký hiệu không quan tâm nội dung của nó. Đề tài này ứng dụng khoa học dữ liệu và truyền thông ngữ nghĩa để tăng hiệu suất truyền dẫn của hệ thống. Dữ liệu ở đây có thể là ảnh, video, hoặc văn bản."
     },
     {
-        "id": 113,
+        "id": 103,
         "Tên giảng viên": "Trịnh Văn Chiến",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Ứng dụng trí tuệ nhân tạo, xử lý tín hiệu và cơ sở dữ liệu cho các thiết bị IoT",
@@ -320,7 +320,7 @@
         "Chi tiết": "Ứng dụng trí tuệ nhân tạo, xử lý tín hiệu, và cơ sở dữ liệu trong hệ thống thiết bị IoT có thể mang lại nhiều lợi ích, từ tối ưu hóa hiệu suất đến cải thiện khả năng dự đoán và quản lý dữ liệu. Đề tài định hướng ứng dụng, nhưng nếu sinh viên có kết quả mới, sáng tạo sẽ được hỗ trợ định hướng nghiên cứu."
     },
     {
-        "id": 114,
+        "id": 104,
         "Tên giảng viên": "Trịnh Văn Chiến",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Bảo mật trong mạng 5G/6G",
@@ -330,7 +330,7 @@
         "Chi tiết": "Lớp vật lý có vai trò quan trọng trong bảo mật của mạng không dây do tiềm năng cung cấp các giải pháp hiệu quả hơn để bảo vệ quyền riêng tư cho các mạng 5G cũng như cá thê hệ mạng tiếp theo. Các kỹ thuật bảo mật lớp vật lý bổ sung các tính năng mạnh mẽ có thể nâng cao các cơ chế dựa trên mật mã, bằng cách xem xét các thuộc tính của kênh vô tuyến. Mặc dù bảo mật lớp vật lý đã được nghiên cứu kỹ lưỡng trong thập kỷ qua, các kịch bản mới được mong đợi cho các mạng trong tương lai đặt ra những thách thức lớn đối với việc chấp nhận đầy đủ các kỹ thuật bảo mật lớp vật lý như một thành phần của các giải pháp bảo mật của mạng viễn thông tương lai. Đề tài này nghiên cứu các nguyên tắc cơ bản về lý thuyết thông tin của các chỉ số bảo mật ở lớp vật lý."
     },
     {
-        "id": 115,
+        "id": 105,
         "Tên giảng viên": "Nguyễn Kim Khánh",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Xây dựng hệ sinh thái dựa trên kiến trúc RISC-V",
@@ -340,7 +340,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 116,
+        "id": 106,
         "Tên giảng viên": "Nguyễn Kim Khánh",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Tìm hiểu kiến trúc RISC-V và các kit phát triển",
@@ -350,7 +350,7 @@
         "Chi tiết": ""
     },
     {
-        "id": 117,
+        "id": 147,
         "Tên giảng viên": "Bành Thị Quỳnh Mai",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Quản trị mạng",
@@ -360,7 +360,7 @@
         "Chi tiết": "Quản trị mạng doanh nghiệp vừa và nhỏ"
     },
     {
-        "id": 118,
+        "id": 157,
         "Tên giảng viên": "Trần Hoàng Hải",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu về ứng dụng các mô hình AI cho các bài toán bảo mật",
@@ -370,7 +370,7 @@
         "Chi tiết": "Tìm hiểu các mô hình AI cơ bản. Tìm hiểu các bộ dữ liệu tương ứng với nhiều bài toán bảo mật. Xây dựng mô hình, triển khai, kiểm thử Định hướng: Sinh viên sẽ có 1 kết quả là 1 bài báo Scopus, đồng hướng dẫn với Gs nước ngoài và có nhiều cơ hội lấy học bổng đi học SĐH."
     },
     {
-        "id": 119,
+        "id": 158,
         "Tên giảng viên": "Trần Hoàng Hải",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu về các vấn đề trong An ninh Mạng (Network Security), tập trung vào các kỹ thuật phát hiện xâm nhập",
@@ -380,7 +380,7 @@
         "Chi tiết": "- Tìm hiểu về An ninh Mạng, Network Intrusion Detection System - Tìm hiểu các kỹ thuật phát hiện xâm nhập Signature-based, Anomaly Detection - Ứng dụng các công cụ phân tích và xử lý dữ liệu tăng tốc độ xử lý dữ liệu cho N-IDS - Tham gia xây dựng platform về phát hiện tấn công mạng Định hướng: Sinh viên sẽ có 1 kết quả là 1 bài báo Scopus, đồng hướng dẫn với Gs nước ngoài và có nhiều cơ hội lấy học bổng đi học SĐH."
     },
     {
-        "id": 120,
+        "id": 159,
         "Tên giảng viên": "Trần Hoàng Hải",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Bài toán tối ưu cho phân phối tài nguyên mạng",
@@ -390,7 +390,7 @@
         "Chi tiết": "Định hướng: Sinh viên được học cách làm nghiên cứu, đồng hướng dẫn với Gs nước ngoài và có nhiều cơ hội lấy học bổng đi học SĐH."
     },
     {
-        "id": 121,
+        "id": 160,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Sử dụng ảnh vệ tinh Landsat/Sentinel-2/MODIS để tính và đánh giá sự thay đổi bề mặt theo thời gian",
@@ -400,7 +400,7 @@
         "Chi tiết": "Xử lý ảnh viễn thám (phần lớn là ảnh vệ tinh) là một trong những lĩnh vực kết hợp giữa xử lý ảnh (image processing) và hệ thống thông tin địa lý (Geographic Information System) giúp giải quyết các vấn đề trên mặt đất ở diện rộng mà thông thường rất khó có thể đánh giá toàn diện nếu chỉ dựa vào các dữ liệu đơn lẻ trên mặt đất. Với các nước phát triển, đây là một lĩnh vực được chú trọng phát triển cả ở các cơ quan nhà nước và doanh nghiệp tư nhân. Tại Việt Nam, đây là một lĩnh vực còn khá mới nhưng đã được quan tâm phát triển trong một vài năm gần đây như việc phóng vệ tinh VINASAT hay thành lập Trung tâm Vũ trụ Việt, cùng với sự quan tâm của một số doanh nghiệp lớn như Viettel. Các ứng dụng có thể giải quyết bằng xử lý ảnh viễn thám rất đa dạng, từ đánh giá sự thay đổi phân bố trên bề mặt nhất là các thành phố, phát hiện rác thải nhựa trên mặt nước, đánh giá mức độ phủ của rừng cũng như phát hiện phá rừng, theo dõi và đánh giá sự thay đổi nhiệt độ bề mặt cùng ảnh hưởng của nó đến sức khỏe con người, giám sát sự phát triển của cây xanh và phát hiện các yếu tố bất thường như dịch bệnh, hoặc thậm chí có thể phát hiện các thành phần khoáng sản trong đất đai. Qua đề tài này, sinh viên sẽ nắm được các vấn đề cơ bản trong việc xử lý và ứng dụng ảnh viễn thám vào một ứng dụng cụ thể ở mức đơn giản, bao gồm các nội dung chính sau: - Hiểu về đặc thù của ảnh viễn thám, bên cạnh ma trận ảnh là thông tin về kinh độ/vĩ độ của từng điểm ảnh cũng như hệ tọa độ chiếu lên mặt đất. - Cách tải và tiền xử lý các dữ liệu ảnh nén từ các cơ quan vũ trụ như NASA (Hoa Kỳ), hay ESA (Châu Âu) - Hiển thị các dữ liệu ảnh đã tiền xử lý để kiểm tra và đánh giá bằng phần mềm/ngôn ngữ liên quan (QGIS/ Python) - Cách sử dụng công cụ để xử lý (như Python hay Google Earth Engine) và phân tích dữ liệu (R, Python) ảnh để đạt được kết quả mong muốn. - Yêu cầu chung với sinh viên: là sinh viên năm thứ 3 trở đi có mong muốn học về xử lý ảnh (thị giác máy tính) và/hoặc trí tuệ nhân tạo. - Đối với đề tài “Sử dụng ảnh vệ tinh Landsat/Sentinel-2 để tính và đánh giá sự thay đổi bề mặt các thành phố theo thời gian”, sinh viên sẽ được tiếp cận một trong các dữ liệu vệ tinh như Landsat-8 (30-m, 16 ngày/ ảnh), Sentinel-2 (10-m, 6 ngày/ảnh) hay MODIS VI (250-m, 16 ngày/ảnh). - Mục tiêu chính là sinh viên qua xử lý có thể thấy được sự thay đổi mật độ cây xanh/ mặt nước giảm do sự phát triển xây dựng các đô thị, cơ sở hạ tầng (như đường sắt). Một hướng tiếp cận khác của đề tài là đánh giá mức độ phủ của rừng theo thời gian. Ngoài ra, sinh viên có thể đánh giá thêm sự thay đổi nhiệt độ liên quan đến sự thay đổi hạ tầng."
     },
     {
-        "id": 122,
+        "id": 161,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Nghiên cứu ảnh hưởng và chuẩn hóa góc chiếu mặt trời và vệ tinh đến việc thu nhận dữ liệu giữa ảnh vệ tinh MODIS và VIIRS",
@@ -410,7 +410,7 @@
         "Chi tiết": "Trong thị giác máy tính, việc thu nhận ảnh của cùng một đối tượng có thể khác nhau tùy thuộc vào góc chiếu giữa đối tượng, nguồn sáng và cảm biến (máy ảnh) thu nhận. Đối với ảnh thu nhận từ vệ tinh, việc thu nhận ảnh cũng gặp vấn đề tương tự, nhất là với đối tượng được thu nhận dài hạn (theo mùa, theo năm, theo nhiều năm) như đo sự sinh trưởng rừng, lúa, cây nông nghiệp. Vị trí của mặt trời (nguồn sáng) thay đổi theo mùa, vị trí của vệ tinh cũng không phải cố định trên bầu trời. Do đó việc đánh giá sự thay đổi đối tượng theo thời gian là sự tổng hòa giữa sự thay đổi thực sự của đối tượng (như khi lúa sinh trưởng, phát triển, trổ bông,…) và sự thay đổi do sự thay đổi mặt trời theo mùa. Việc đánh giá, chuẩn hóa dữ liệu này vô cùng quan trọng nhằm loại bỏ sự tác động của sự thay đổi góc chiếu và đánh giá chính xác sự thay đổi theo thời gian của đối tượng. Ngoài ra, việc này còn giúp kết hợp dữ liệu giữa các vệ tinh với nhau, do mỗi vệ tinh thường chỉ có thời hạn hoạt động khoảng 7-10 năm. Muốn đánh giá sự thay đổi của đối tượng qua nhiều thập kỷ cần sự kết hợp của nhiều loại vệ tinh với các thiết kế về góc chiếu khác nhau. Trong bài toán này, nhiệm vụ chính là đánh giá tác động của góc chiếu đến việc thu nhận thông tin giữa ảnh MODIS và ảnh VIIRS (vốn được thiết kế để thay thế cho MODIS). Do 2 vệ tinh không hoàn toàn giống nhau nên tác động của góc chiếu lên các chỉ số cây xanh (được tính từ ảnh thô để đo sinh trưởng của cây xanh) cũng sẽ khác nhau. Khi đó, việc đánh giá tác động của góc chiếu lên dữ liệu ảnh MODIS và VIIRS là cần thiết để từ đó đưa ra được sai số cũng như kết hợp, tiếp nối việc thám sát cùng đối tượng được đồng nhất. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
     },
     {
-        "id": 123,
+        "id": 162,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Sử dụng ảnh vệ tinh Landsat/Sentinel-2 để đánh giá sự thay đổi bề mặt các thành phố theo thời gian và ảnh hưởng đến nhiệt độ bề mặt",
@@ -420,7 +420,7 @@
         "Chi tiết": "Xử lý ảnh viễn thám (phần lớn là ảnh vệ tinh) là một trong những lĩnh vực kết hợp giữa xử lý ảnh (image processing) và hệ thống thông tin địa lý (Geographic Information System) giúp giải quyết các vấn đề trên mặt đất ở diện rộng mà thông thường rất khó có thể đánh giá toàn diện nếu chỉ dựa vào các dữ liệu đơn lẻ trên mặt đất. Các ứng dụng có thể giải quyết bằng xử lý ảnh viễn thám rất đa dạng, từ đánh giá sự thay đổi phân bố trên bề mặt nhất là các thành phố, phát hiện rác thải nhựa trên mặt nước, đánh giá mức độ phủ của rừng cũng như phát hiện phá rừng, theo dõi và đánh giá sự thay đổi nhiệt độ bề mặt cùng ảnh hưởng của nó đến sức khỏe con người, giám sát sự phát triển của cây xanh và phát hiện các yếu tố bất thường như dịch bệnh, hoặc thậm chí có thể phát hiện các thành phần khoáng sản trong đất đai. Yêu cầu cụ thể đối với đề tài đồ án tốt nghiệp này như sau: - Yêu cầu sinh viên: cần có kiến thức về xử lý ảnh. Nếu đã từng làm việc qua đồ án môn học hoặc các môn project về xử lý ảnh viễn thám giúp tiết kiệm thời gian. - Sinh viên cần có/ học kỹ năng xử lý ảnh vệ tinh Landsat-8 (30-m, 16 ngày/ ảnh), Sentinel-2 (10-m, 6 ngày/ảnh) và MODIS (250-m, 16 ngày/ảnh). - Sinh viên cần phân tích sự thay đổi bề mặt bằng việc phân loại bề mặt của 1 trong các thành phố lớn ở Việt Nam (Hà Nội hay TP Hồ Chí Minh) theo thời gian. Việc phân loại có thể dựa vào phân loại truyền thống hoặc sử dụng các kỹ thuật học máy, học sâu. - Đánh giá sự thay đổi nhiệt độ chung và vấn đề đảo nhiệt (so sánh nhiệt độ nội đô và vùng nông thôn) do sự phát triển của đô thị đã xét đến ở trên. - Phân tích sự thay đổi nhiệt độ giữa các khu vực khác nhau trong thành phố (nhiều cây xanh, ít cây xanh, mật độ xây dựng, …) - Kết quả đề tài tốt có thể thực hiện công bố lên các tạp chí khoa học liên quan."
     },
     {
-        "id": 124,
+        "id": 163,
         "Tên giảng viên": "Trần Nguyên Ngọc",
         "Khoa": "Khoa Kỹ thuật Máy tính",
         "Tên đề tài": "Phân loại bề mặt của ảnh vệ tinh/drone bằng các kỹ thuật học sâu",

@@ -21,7 +21,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "crawlqldt": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 node crawl_qldt.js",
-    "search": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 node search.js"
+    "search": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 node search.js",
+    "import": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 node import.js"
   },
   "eslintConfig": {
     "extends": [

@@ -14,6 +14,22 @@ const HomePage = () => {
   const [errorMessage, setErrorMessage] = useState('');
   const [doanData, setDoanData] = useState([]); // Danh sách đồ án
   const khoaList = ['Khoa Khoa học Máy tính', 'Khoa Kỹ thuật Máy tính'];
+  const [departmentWeight, setDepartmentWeight] = useState('');
+  const [topicWeight, setTopicWeight] = useState('');
+  const [teacherWeight, setTeacherWeight] = useState('');
+  const [groupedByGiangVien, setGroupedByGiangVien] = useState([]);
+
+
+  const [selectedRow, setSelectedRow] = useState(null); // State để lưu thông tin dòng đã chọn
+
+  const handleRowClick = (gv) => {
+    if (selectedRow && selectedRow.giangVien["Tên giảng viên"] === gv.giangVien["Tên giảng viên"] && selectedRow.giangVien["Tên đề tài"] === gv.giangVien["Tên đề tài"]) {
+      // Nếu bấm vào dòng đã chọn thì ẩn thông tin chi tiết
+      setSelectedRow(null);
+    } else {
+      setSelectedRow(gv); // Nếu bấm vào dòng khác thì cập nhật thông tin chi tiết
+    }
+  };
 
   useEffect(() => {
     // Fetch the GiangVienList.json file
@@ -21,7 +37,7 @@ const HomePage = () => {
       .then((response) => response.json())
       .then((data) => {
         if (khoa) {
-          setGiangVienList(data[khoa] || []); // Use the data for the selected khoa
+          setGiangVienList(data[khoa] || []); 
         } else {
           setGiangVienList([]);
         }
@@ -29,16 +45,16 @@ const HomePage = () => {
       .catch((error) => {
         console.error('Error loading GiangVienList.json:', error);
       });
-  }, [khoa]); // Only re-run when `khoa` changes
+  }, [khoa]); 
   useEffect(() => {
-    fetch('/dataDoAn.json') // Đọc file JSON
-      .then((response) => response.json()) // Parse JSON
+    fetch('/dataDoAn.json') 
+      .then((response) => response.json()) 
       .then((data) => {
-        setDoanData(data); // Lưu dữ liệu vào state `doanData`
+        setDoanData(data); 
       })
       .catch((error) => {
-        console.error('Error loading dataDoAn.json:', error); // Ghi log lỗi
-        setErrorMessage('Không thể tải danh sách đồ án.'); // Cập nhật thông báo lỗi
+        console.error('Error loading dataDoAn.json:', error); 
+        setErrorMessage('Không thể tải danh sách đồ án.'); 
       });
   }, []); // Chạy một lần khi component được render lần đầu
   const getTopGiangVien = async ( tenDeTai, motaDeTai, doanData, selectedGiangVien) => {
@@ -47,44 +63,91 @@ const HomePage = () => {
       const normalizedTenDeTai = removeAccents(tenDeTai);
       const normalizedMotaDeTai = removeAccents(motaDeTai);
       const response = await fetch(
-        `http://localhost:3001/search?q=${normalizedTenDeTai + " " + normalizedMotaDeTai}`
+        `http://localhost:3001/search?q=${normalizedTenDeTai}`
+      );
+
+      const response_description = await fetch(
+        `http://localhost:3001/search?q=${normalizedMotaDeTai}`
       );
   
       if (!response.ok) {
         throw new Error(`API request failed with status: ${response.status}`);
       }
+
+      if (!response_description.ok) {
+        throw new Error(`API request failed with status: ${response_description.status}`);
+      }
+  
   
       const searchResults = await response.json();
   
       // Lấy danh sách kết quả và tính điểm
       const results = searchResults|| [];
       const maxScore = results.length > 0 ? results[0]._score : 1; // Điểm cao nhất
+
+      const searchResults_des= await response_description.json();
+      const results_des = searchResults_des|| [];
+      const maxScore_des = response_description.length > 0 ? results_des[0]._score : 1; // Điểm cao nhất
       //console.log(maxScore);
       // Duyệt qua danh sách giảng viên và tính toán điểm
       //console.log(doanData[0].Khoa + "   " +khoa);  
       const scoredGiangVien = doanData
-      .filter((gv) => gv.Khoa === khoa) 
+      //.filter((gv) => gv.Khoa === khoa) 
       .map((gv) => {
         //console.log('Giảng viên có khoa trùng với khoa chọn:', gv);  
         const matchingRecords = results.filter(
           (record) => record._id=== gv.id.toString()
         );
+
+        const matchingRecords_des = results_des.filter(
+          (record) => record._id=== gv.id.toString()
+        );
         const totalScore =
-          matchingRecords.reduce((sum, record) => sum + (record._score / maxScore) * 2, 0);
+          matchingRecords.reduce((sum, record) => sum + (record._score / maxScore), 0);
+
         
-        const selectedBonus = selectedGiangVien.includes(gv["Tên giảng viên"]) ? 1 : 0;
-        console.log(totalScore);
+        const totalScore_des =
+            matchingRecords_des.reduce((sum, record) => sum + (record._score / maxScore_des), 0);
+       
+        const teacherScore = selectedGiangVien.includes(gv["Tên giảng viên"]) ? 1 : 0;
+        const departmentScore = gv.Khoa === khoa ? 1 : 0;
+        
+        const topicScore = totalScore*0.5 + totalScore_des*0.5;
         return {
           giangVien: gv,
           detai: gv["Tên đề tài"],
-          score: totalScore + selectedBonus,
+          topicScore: topicScore,
+          nameTopicScore: totalScore,
+          desTopicScore: totalScore_des,
+          teacherScore: teacherScore,
+          departmentScore: departmentScore,
+          score: topicScore * topicWeight +  teacherScore*teacherWeight + departmentScore*departmentWeight,
         };
       });
       const topGiangVien = scoredGiangVien.length > 0
-      ? scoredGiangVien.sort((a, b) => b.score - a.score).slice(0, 5)
-      : doanData.slice(0, 5); 
+      ? scoredGiangVien.sort((a, b) => b.score - a.score)
+      : doanData; 
+      const groupedByGiangVienn = topGiangVien.reduce((acc, gv) => {
+        // Kiểm tra nếu giảng viên và khoa đã tồn tại trong mảng acc hay chưa
+        console.log(gv);
+        const existingGiangVienIndex = acc.findIndex(item => item.giangVien["Tên giảng viên"] === gv.giangVien["Tên giảng viên"] && item.giangVien["Khoa"] === gv.giangVien["Khoa"]);
+        console.log(existingGiangVienIndex);
+        if (existingGiangVienIndex === -1) {
+            // Nếu chưa có giảng viên và khoa này, thêm vào mảng
+            acc.push(gv);
+        } else {
+            // Nếu giảng viên và khoa đã có, kiểm tra và thay thế nếu score mới lớn hơn
+            if (gv.score > acc[existingGiangVienIndex].score) {
+                acc[existingGiangVienIndex] = gv;
+            }
+        }
+        return acc;
+    }, []);
+    
+    setGroupedByGiangVien(groupedByGiangVienn); // Trả về mảng trực tiếp
+    
         
-  
+      console.log(groupedByGiangVienn);
       return topGiangVien;
     } catch (error) {
       console.error("Error calculating scores:", error);
@@ -98,8 +161,20 @@ const HomePage = () => {
     // Kiểm tra nếu các trường bắt buộc chưa được nhập
     if (!mssv || !he || !khoa || !tenDeTai || !motaDeTai) {
       setErrorMessage('Vui lòng nhập đầy đủ tất cả các trường có dấu sao.');
+      setTopGiangVien(null);
       return;
     }
+    if(1 - topicWeight - departmentWeight < 0){
+      setErrorMessage('Vui lòng nhập lại trọng số cho tổng nhỏ hơn hoặc bằng 1');
+      setTopGiangVien(null);
+      return;
+    }
+    if(topicWeight < 0 || departmentWeight < 0){
+      setErrorMessage('Vui lòng nhập lại trọng số không âm');
+      setTopGiangVien(null);
+      return;
+    }
+    setTeacherWeight(Math.round((1 - topicWeight - departmentWeight) * 100) / 100);
     getTopGiangVien(tenDeTai, motaDeTai, doanData, selectedGiangVien).then((topGiangVien) => {
         console.log("Top 5 giảng viên:", topGiangVien);
         setTopGiangVien(topGiangVien); 
@@ -124,10 +199,13 @@ const HomePage = () => {
   };
 
   const handleAddGiangVien = () => {
+    console.log(giangVien);
     if (giangVien && !selectedGiangVien.includes(giangVien)) {
       setSelectedGiangVien([...selectedGiangVien, giangVien]);
       setGiangVien('');
+      console.log(111111111);
     }
+    console.log(selectedGiangVien);
   };
 
   const handleRemoveGiangVien = (giangVienName) => {
@@ -154,7 +232,7 @@ const HomePage = () => {
             required
           />
         </div>
-
+       
         <div>
           <label htmlFor="he">Hệ: <span style={{ color: 'red' }}>*</span></label>
           <select
@@ -188,6 +266,19 @@ const HomePage = () => {
             ))}
           </select>
         </div>
+        <div>
+          <label htmlFor="departmentWeight">
+            Trọng số Khoa: <span style={{ color: 'red' }}>*</span>
+          </label>
+          <input
+            type="number"
+            id="departmentWeight"
+            value={departmentWeight}
+            onChange={(e) => setDepartmentWeight(e.target.value)}
+            placeholder="Nhập trọng số"
+            required
+          />
+        </div>
 
         <div>
           <label htmlFor="tenDeTai">Tên đề tài: <span style={{ color: 'red' }}>*</span></label>
@@ -212,6 +303,19 @@ const HomePage = () => {
             required
           />
         </div>
+        <div>
+          <label htmlFor="topicWeight">
+            Trọng số Đề tài: <span style={{ color: 'red' }}>*</span>
+          </label>
+          <input
+            type="topicWeight"
+            id="topicWeight"
+            value={topicWeight}
+            onChange={(e) => setTopicWeight(e.target.value)}
+            placeholder="Nhập trọng số"
+            required
+          />
+        </div>
 
         <div>
           <label htmlFor="giangVien">Giảng viên hướng dẫn:</label>
@@ -232,7 +336,7 @@ const HomePage = () => {
             Thêm giảng viên
           </button>
         </div>
-
+       
         {selectedGiangVien.length > 0 && (
           <div>
             <h3>Giảng viên đã chọn:</h3>
@@ -254,7 +358,62 @@ const HomePage = () => {
         <button type="submit">Submit</button>
         
       </form>
-      {topGiangVien.length > 0 && (
+      {groupedByGiangVien.length > 0 && (
+       <div style={{ margin: '30px' }}>
+       <h3>Bảng kết quả:</h3>
+       <table border="1">
+         <thead>
+           <tr>
+             <th>STT</th>
+             <th>Tên Giảng viên</th>
+             <th>Đề tài</th>
+             <th>Phù hợp khoa</th>
+             <th>Phù hợp giảng viên</th>
+             <th>Phù hợp đề tài(phù hợp tên đề tài * 0.5 + phù hợp mô tả đề tài * 0.5)</th>
+             <th>Tổng hợp(Phù hợp khoa * {departmentWeight} + Phù hợp giảng viên * {teacherWeight} + Phù hợp đề tài * {topicWeight})</th>
+           </tr>
+         </thead>
+         <tbody>
+           {groupedByGiangVien.map((gv, index) => (
+             <React.Fragment key={index}>
+               <tr onClick={() => handleRowClick(gv)}>
+                 <td>{index + 1}</td>
+                 <td>{gv.giangVien["Tên giảng viên"]}</td>
+                 <td>{gv.giangVien["Tên đề tài"]}</td>
+                 <td>{gv.departmentScore}</td>
+                 <td>{gv.teacherScore}</td>
+                 <td>
+                   {gv.topicScore} = {gv.nameTopicScore} * 0.5 + {gv.desTopicScore} * 0.5
+                 </td>
+                 <td>{gv.score}</td>
+               </tr>
+ 
+               {selectedRow && selectedRow.giangVien["Tên giảng viên"] === gv.giangVien["Tên giảng viên"] && selectedRow.giangVien["Tên đề tài"] === gv.giangVien["Tên đề tài"] && (
+                 <tr>
+                   <td colSpan="7">
+                     <div style={{ padding: '10px', backgroundColor: '#f0f0f0' }}>
+                       <h4>Thông tin chi tiết:</h4>
+                       <p><strong>Giảng viên:</strong> {gv.giangVien["Tên giảng viên"]}</p>
+                       <p><strong>Khoa:</strong> {gv.giangVien["Khoa"]}</p>
+                       <p><strong>Đề tài:</strong> {gv.giangVien["Tên đề tài"]}</p>
+                       <p><strong>Chi tiết:</strong> {gv.giangVien["Chi tiết"]}</p>
+                       <p><strong>Số SV:</strong> {gv.giangVien["Số SV"]}</p>
+                       <p><strong>Điểm phù hợp đề tài:</strong> {gv.topicScore}</p>
+                       <p><strong>Điểm phù hợp giảng viên:</strong> {gv.teacherScore}</p>
+                       <p><strong>Điểm phù hợp khoa:</strong> {gv.departmentScore}</p>
+                       <p><strong>Điểm tổng:</strong> {gv.score}</p>
+                     </div>
+                   </td>
+                 </tr>
+               )}
+             </React.Fragment>
+           ))}
+         </tbody>
+       </table>
+     </div>
+)}
+
+      {/* {topGiangVien.length > 0 && (
         <div className="result-container">
           <h3>Top 5 Giảng viên Hướng dẫn</h3>
           <ul className="result-list">
@@ -269,7 +428,7 @@ const HomePage = () => {
             ))}
           </ul>
         </div>
-      )}
+      )} */}
     </div>
   );
 };

@@ -1,30 +1,107 @@
 [
   {
     "_index": "de_tai",
-    "_id": "192",
-    "_score": 4.9507895,
+    "_id": "2",
+    "_score": 8.92486,
     "_source": {
-      "id": 192,
-      "Tên giảng viên": "Trần Thế Hùng",
+      "id": 2,
+      "Tên giảng viên": "Ban Hà Bằng",
       "Khoa": "Khoa Khoa học Máy tính",
-      "Tên đề tài": "Improving Scalablity and Real-Time properties in Recomendation Systems",
-      "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
-      "Hệ": "Không xác định",
-      "Số SV": "2"
+      "Tên đề tài": "Xây dựng chatbot dựa trên AI techniques",
+      "Loại đề tài": "Không xác định",
+      "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+      "Số SV": "Không xác định",
+      "Chi tiết": "Xây dựng chatbot tự động dựa trên học máy,, ... -Áp dụng kỹ thuật học máy, học sâu vào cá nhân hóa chatbot. - Cài đặt và thử nghiệm trên dữ liệu thực tế. -Có cơ hội ứng dụng sản phẩm vào thực tế."
     }
   },
   {
     "_index": "de_tai",
-    "_id": "190",
-    "_score": 4.777257,
+    "_id": "49",
+    "_score": 7.80302,
     "_source": {
-      "id": 190,
-      "Tên giảng viên": "Trần Thế Hùng",
+      "id": 49,
+      "Tên giảng viên": "Nguyễn Thị Thu Trang",
       "Khoa": "Khoa Khoa học Máy tính",
-      "Tên đề tài": "Improving fine-tuning of LLMs using Reinforcement Learning and Optimization",
+      "Tên đề tài": "Hệ thống quản lý và phân tích dữ liệu trong chatbot/callbot",
+      "Loại đề tài": "Không xác định",
+      "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+      "Số SV": "3",
+      "Chi tiết": "Hệ thống quản lý và phân tích dữ liệu trong chatbot/callbot - Phân tích dữ liệu huấn luyện của chatbot/callbot để tìm các vấn đề và khắc phục các vấn đề trong đó - Phân tích lịch sử log để cải thiện chất lượng của bot * Công nghệ: - ReactJS, NodeJS - Dùng ML/DL để phân tích và tối ưu dữ liệu * Đây là đề tài nghiên cứu kết hợp ứng dụng, phù hợp với sinh viên có mong muốn đi làm hoặc học tiếp"
+    }
+  },
+  {
+    "_index": "de_tai",
+    "_id": "13",
+    "_score": 6.4199934,
+    "_source": {
+      "id": 13,
+      "Tên giảng viên": "Cao Tuấn Dũng",
+      "Khoa": "Khoa Khoa học Máy tính",
+      "Tên đề tài": "Xây dựng chatbot tư vấn thông tin du lịch thông minh với khả năng quản lý hội thoại",
       "Loại đề tài": "ĐATN, ĐAMH",
+      "Hệ": "CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, HEDSPI",
+      "Số SV": "2",
+      "Chi tiết": "Sinh viên tham gia phát triển hoàn thiện chatbot thông minh khai thác một ontology - cơ sở tri thức về du lịch - có khả năng trả lời các loại câu hỏi đa dạng nhờ khả năng học máy. Tập trung vào tính năng quản lý hội thoại (dialog management) - quản lý trạng thái và ngữ cảnh hội thoại để có tương tác thông minh hơn. Công nghệ: RASA, RDF, Sparql, Python, Java"
+    }
+  },
+  {
+    "_index": "de_tai",
+    "_id": "17",
+    "_score": 2.8561587,
+    "_source": {
+      "id": 17,
+      "Tên giảng viên": "Cao Tuấn Dũng",
+      "Khoa": "Khoa Khoa học Máy tính",
+      "Tên đề tài": "Nền tảng tư vấn trong lĩnh vực tài chính, chứng khoán",
+      "Loại đề tài": "ĐATN, TTTN",
+      "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+      "Số SV": "2",
+      "Chi tiết": "Đây là một hệ thống lớn, liên quan đến nhiều đề tài. 1) Hệ thống tổng hợp tin tức chứng khoán tài chính Xây dựng hệ thống tổng hợp tin tức từ nhiều nguồn trong lĩnh vực tài chính, kế toán. Phân tích nội dung tin tức để đánh giá mức độ ảnh hưởng của tin tức tới giá cổ phiếu hay các hàng hóa sản phẩm tài chính. Từ đó gợi ý tin tức theo hành vi, danh mục nhà đầu tư. Sản phẩm đề tài tiếp nối một hệ thống đã phát triển, có khả năng tích hợp vào một platform hỗ trợ các nhà đầu tư tài chính. Công nghệ: Wrapper, Crawler, Web, DataBase, xử lý ngôn ngữ tự nhiên, trí tuệ nhân tạo. 2) Xây dựng Chatbot chăm sóc khách hàng về chứng khoán Phát triển chatbot vừa theo các công nghệ từ cơ bản tới nâng cao: dựa trên các tập luật nhận dạng cú pháp câu hỏi, dựa trên học máy - xử lý các câu hỏi tự do hơn,.. 3) Nghiên cứu các phương pháp học máy, học sâu trong việc dự đoán sự biến đổi của giá chứng khoán trên thị trường. Dữ liệu: giá quá khứ của cổ phiếu. Sinh viên sẽ được hỗ trợ của một số chuyên gia về các mô hình dự đoán sự biến đổi giá theo phân tích kỹ thuật và tìm hiểu các phương pháp đã được triển khai. Mục tiêu : nâng cao hiệu quả và cố gắng dự đoán sớm hơn giải pháp hiện tại. 4) Xây dựng hệ thống con xử lý phân tích follow chiến lược cho từng nhà đầu tư: Dưa trên tình hình thị trường, mong muốn và đặc điểm đầu tư, đưa ra chiến lược và phân tích hiệu quả của chiến lược."
+    }
+  },
+  {
+    "_index": "de_tai",
+    "_id": "69",
+    "_score": 2.6884477,
+    "_source": {
+      "id": 69,
+      "Tên giảng viên": "Lê Tấn Hùng",
+      "Khoa": "Khoa Khoa học Máy tính",
+      "Tên đề tài": "Phân tích dữ liệu và áp dụng trong dữ liệu Chứng khoán và giao dịch tài sản ảo",
+      "Loại đề tài": "Không xác định",
       "Hệ": "Không xác định",
-      "Số SV": "3"
+      "Số SV": "Không xác định",
+      "Chi tiết": "1. Hệ thống phân tích lợi nhuận và độ biến động trong chứng khoán, Crypto 2. Hệ thống phân tích động lượng 3. Hệ thống phân tích xu hướng dòng tiền 4. Hệ thống phân tích yếu tố mùa vụ, chu kỳ (seasonal) 5. Hệ thống cơ cấu danh mục đầu tư (rổ cổ phiếu) 6. Hệ thống quản lý chiến lược đầu tư - Công nghệ: Big data - Ứng dụng: hệ thống phân tích/gợi ý chứng khoán Loại 2: 7. Tìm hiểu, xây dựng ứng dụng chat bot phục vụ lĩnh vực chứng khoán - Công nghệ: chatbot - Ứng dụng: chat trong ứng dụng chứng khoán 8. Tìm hiểu RPA ứng dụng cho hoạt động chứng khoán (đồ án môn học – tìm hiểu tool như Uipath) - Công nghệ: RPA - Ứng dụng: hoạt động tự động hóa cho giao dịch/hoạt động chứng khoán"
+    }
+  },
+  {
+    "_index": "de_tai",
+    "_id": "43",
+    "_score": 2.362178,
+    "_source": {
+      "id": 43,
+      "Tên giảng viên": "Đỗ Bá Lâm",
+      "Khoa": "Khoa Khoa học Máy tính",
+      "Tên đề tài": "3. Tìm hiểu và ứng dụng các công nghệ mới về lập trình Web",
+      "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+      "Hệ": "CNTH, IPE, VB2, CNKT, KSCQ, SIE, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+      "Số SV": "3",
+      "Chi tiết": "Các website tồn tại rất phổ biến trong thế giới của chúng ta., bởi những ưu điểm về tương tác, truyền tải thông tin mà chúng mang lại. Đa phần các ứng dụng được phát triển đều có kết quả hiển thị dưới dạng một web-app hay mobile-app, khiến cho lĩnh vực công nghệ web ngày càng phát triển nhanh chóng. Để tạo ra một ứng dụng web thực tế, có rất nhiều điều cần phải cân nhắc như: (1) phân quyền người dùng; (2) đảm bảo hệ thống hoạt động ổn định - giám sát hệ thống, dự phòng sự cố; (3) triển khai tự động CI-CD; (4) kiến trúc microservices; (5) tích hợp Chatbot... Đề tài hướng tới việc tìm hiểu một số công nghệ web mới hiện nay, sau đó áp dụng triển khai minh họa. Tham khảo: - https://roadmap.sh/backend - https://rabiloo.com/vi/blog/giai-phap-thiet-ke-co-so-du-lieu-multi-tenant - https://tech.cybozu.vn/trai-nghiem-chuyen-sau-domain-driven-design-6eef4/ Lưu ý: sinh viên cần dành khoảng 2 kỳ để thực hiện đề tài này."
+    }
+  },
+  {
+    "_index": "de_tai",
+    "_id": "19",
+    "_score": 2.2703357,
+    "_source": {
+      "id": 19,
+      "Tên giảng viên": "Cao Tuấn Dũng",
+      "Khoa": "Khoa Khoa học Máy tính",
+      "Tên đề tài": "Xây dựng các dịch vụ phân tích văn bản cho hệ thống xuất bản thông tin động",
+      "Loại đề tài": "Không xác định",
+      "Hệ": "KSCQ, KSTN, CTTT, HEDSPI",
+      "Số SV": "3",
+      "Chi tiết": "Tham gia phát triển giải pháp cho các thành phần của một hệ thống xuất bản thông tin ngữ nghĩa (Semantic Publishing Platform) có khả năng: - Thu thập thông tin từ nhiều nguồn, lọc và hiển thị thông tin thông minh - và cá nhân hóa đến người đọc - Hỗ trợ các biên tập viên tạo ra content và làm giàu content với các ngữ nghĩa - Trực quan hóa nội dung tin với các metadata giàu thông tin, cung cấp thêm các dữ liệu hữu ích như chủ đề, nhân vật liên quan, sự kiên,.. - Tự động tổ chức các nhóm tin theo chủ đề - sự kiện Các đề tài cho sinh viên làm nghiên cứu tốt nghiệp có thể liên quan đến: - Xây dưng mô đun trực quan hóa nội dung tin với các metadata - Xây dựng mô đun, dịch vụ tự động Tagging, phân tích thực thể trong tin tức,.. - Tự động phát hiện các chủ đề nóng - Xây dựng hệ thống trên nền Web và Mobile ứng dụng các công nghệ mới như PWA, React Native - Phát triển các thuật toán sinh metadata cho tin tức - Tìm kiếm ngữ nghĩa trên hệ thống - Chatbot, recommendation trên hệ thống"
     }
   }
 ]

@@ -1,0 +1,1242 @@
+[
+    {
+        "id": 1,
+        "Tên giảng viên": "Vũ Văn Thiệu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Fintech",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 2,
+        "Tên giảng viên": "Ban Hà Bằng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng chatbot dựa trên AI techniques",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Xây dựng chatbot tự động dựa trên học máy,, ... -Áp dụng kỹ thuật học máy, học sâu vào cá nhân hóa chatbot. - Cài đặt và thử nghiệm trên dữ liệu thực tế. -Có cơ hội ứng dụng sản phẩm vào thực tế."
+    },
+    {
+        "id": 3,
+        "Tên giảng viên": "Ban Hà Bằng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng hệ thống gợi ý sử dụng các kỹ thuật học máy (Build Recommendation system based on machine learning techniques)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Xây dựng hệ thống gợi ý sử dụng các kỹ thuật học máy (Build Recommendation system based on machine learning techniques) -Hệ thống gợi ý sử dụng các tri thức về sản phẩm, các tri thức của chuyên gia hay tri thức khai phá học được từ hành vi con người dùng để đưa ra các gợi ý về sản phẩm.Một số ví dụ: hệ thống gợi ý của amazon, hệ thống gợi ý friends của FB, ... -Nghiên cứu về các hướng tiếp cận xây dựng hệ thống gợi ý -Áp dụng kỹ thuật học máy, học sâu vào hệ thống gợi ý. - Cài đặt và thử nghiệm trên dữ liệu thực tế. --Có cơ hội ứng dụng sản phẩm vào thực tế."
+    },
+    {
+        "id": 4,
+        "Tên giảng viên": "Ban Hà Bằng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng hệ thống đánh giá tín dụng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Hệ thống đánh giá tín dụng tự động dựa trên học máy,, ... -Áp dụng kỹ thuật học máy, học sâu vào hệ thống đánh giá tín dụng. - Cài đặt và thử nghiệm trên dữ liệu thực tế. --Có cơ hội ứng dụng sản phẩm vào thực tế."
+    },
+    {
+        "id": 5,
+        "Tên giảng viên": "Ban Hà Bằng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng hệ thống đánh giá tín dụng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "-Hệ thống đánh giá tín dụng tự động dựa trên học máy,, ... -Áp dụng kỹ thuật học máy, học sâu vào hệ thống đánh giá tín dụng. - Cài đặt và thử nghiệm trên dữ liệu thực tế. -Có cơ hội ứng dụng sản phẩm vào thực tế."
+    },
+    {
+        "id": 6,
+        "Tên giảng viên": "Ban Hà Bằng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng hệ thống gợi ý sử dụng các kỹ thuật học máy (Build Recommendation system based on machine learning techniques)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "-Hệ thống gợi ý sử dụng các tri thức về sản phẩm, các tri thức của chuyên gia hay tri thức khai phá học được từ hành vi con người dùng để đưa ra các gợi ý về sản phẩm.Một số ví dụ: hệ thống gợi ý của amazon, hệ thống gợi ý friends của FB, ... -Nghiên cứu về các hướng tiếp cận xây dựng hệ thống gợi ý -Áp dụng kỹ thuật học máy, học sâu vào hệ thống gợi ý. - Cài đặt và thử nghiệm trên dữ liệu thực tế. -Có cơ hội ứng dụng sản phẩm vào thực tế."
+    },
+    {
+        "id": 7,
+        "Tên giảng viên": "Đỗ Tuấn Anh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Bài toán cây phân cụm Steiner",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, KSCLC, CN, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Trong thiết kế mạng, việc định tuyến để đạt tối ưu sẽ tiết kiệm rất nhiều chi phí và tài nguyên. Vì vậy khi một số các điểm đích được xác định và được phân cụm thì việc tìm đường đi nối giữa các điểm đích và các điểm trung gian sao cho tìm được cây bao chùm các điểm đích có chi phí thấp nhất là bài toán thuộc lớp NP khó. Vì vậy tiếp cận giải thuật tiến hóa để giải bài toán trên là hướng các nhà nghien cứu thường áp dụng để giải các bài toán tối ưu như trên."
+    },
+    {
+        "id": 8,
+        "Tên giảng viên": "Đỗ Tuấn Anh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phát triển giải thuật tiến hóa trong định tuyến hai điểm của mạng đa miền",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "CNKT, KSCQ, SIE, CNKH, KSCLC, CN, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Định tuyến (routing) là quá trình chọn lựa đường đi từ điểm nguồn đến điểm đích. Việc định tuyến được thực hiện trên mạng truyền thông là vẫn đề cốt lỗi của hệ thống mạng. Trong các mạng đơn miền hay mạng cùng chung phương thức quản lý và vận hành, các thông tin của mạng được chia sẻ nên việc định tuyến trở nên dễ dàng và hiệu quả cao trong việc sử dụng tài nguyên. Tuy nhiên, vấn đề định tuyến trong mạng gồm nhiều mạng con kết nối nhưng hạn chế trong việc chia sẻ thông tin tài nguyên (mạng đa miền) là một thách thức khi thực hiện định tuyến tối ưu với các ràng buộc liên quan đến tài nguyên trong mạng. Phát triển giải thuật tiến hóa giải bài toán định tuyến hai điểm trong mạng đa miền với ràng buộc miền duy nhất"
+    },
+    {
+        "id": 9,
+        "Tên giảng viên": "Ngô Văn Linh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng hệ gợi ý",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "- Xây dựng hệ giới ý quảng cáo, gợi ý tin tức dựa trên các mô hình xác suất, deep learning,..."
+    },
+    {
+        "id": 10,
+        "Tên giảng viên": "Ngô Văn Linh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng các hệ thống ứng dụng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Khảo sát, phân tích, thiết kế và xây dựng các hệ thống ứng dụng thực tế (sinh viên có thể tự đề xuất các hệ thống)"
+    },
+    {
+        "id": 11,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tự do",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "4",
+        "Chi tiết": "Sinh viên có thể tự đề xuất các đề tài mà mình quan tâm, không hạn chế lĩnh vực, chủ đề"
+    },
+    {
+        "id": 12,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phương pháp tạo bộ truyện tranh tự động từ video ứng dụng học sâu",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, CN, HEDSPI",
+        "Số SV": "2",
+        "Chi tiết": "Nghiên cứu ứng dụng các kết quả mới trong việc biến đổi ảnh video theo các phong cách nhất định để tạo ra các bộ truyện tranh."
+    },
+    {
+        "id": 13,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng chatbot tư vấn thông tin du lịch thông minh với khả năng quản lý hội thoại",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, HEDSPI",
+        "Số SV": "2",
+        "Chi tiết": "Sinh viên tham gia phát triển hoàn thiện chatbot thông minh khai thác một ontology - cơ sở tri thức về du lịch - có khả năng trả lời các loại câu hỏi đa dạng nhờ khả năng học máy. Tập trung vào tính năng quản lý hội thoại (dialog management) - quản lý trạng thái và ngữ cảnh hội thoại để có tương tác thông minh hơn. Công nghệ: RASA, RDF, Sparql, Python, Java"
+    },
+    {
+        "id": 14,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hệ thống quản lý điều hành trong doanh nghiệp tổ chức",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, CN, HEDSPI",
+        "Số SV": "1-2",
+        "Chi tiết": "Xây dựng hệ thống quản lý điều hành cho doanh nghiệp Logistic, với kiến trúc Cloud hoặc Phân tán Client-Server và dựa trên công nghê Web tiên tiến nhất. Bắt đầu với các hệ thống con: Chăm sóc khách hàng CRM, Điều hành vận tải, Quản lý hàng hóa, .... Ứng dụng Front-End chạy trên giao diện Web Công nghệ: .Ruby hoặc PHP, Javascript"
+    },
+    {
+        "id": 15,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Ứng dụng trí tuệ nhân tạo (LLM) trong lĩnh vực chứng khoán",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Tìm hiểu một số phương pháp học máy và học sâu để hỗ trợ ra quyết định trong đầu tư chứng khoán. Một số vấn đề: - Dự đoán diễn biến giá - Dự đoán dòng tiền - Dự đoán chỉ số thị trường Sử dụng các mô hình ngôn ngữ lớn - cung cấp các tham số từ chuyên gia để huấn luyện các AI bot tư vấn hành vi giao dịch theo diễn biến thị trường"
+    },
+    {
+        "id": 16,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng đồ thị tri thức từ dữ liệu văn bản/dữ liệu cấu trúc sử dụng AI và các công nghệ mới",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, CN, ThSKT, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Đồ thị tri thức (Knowledge Graph) ngày trở nên quan trọng và được sử dụng như các thành phần chính cho các hệ thống thông minh. Trước đây việc xây dựng đồ thị tri thức chủ yếu là thủ công và bán tự động với vai trò lớn của chuyên gia. Gần đây các mô hình LLM, các thuật toán học máy học sâu trích rút thông tin cấu trúc từ văn bản đã có nhiều kết quả mới, tạo ra tiền đề để xây dựng các hệ thống tạo ra các Đồ thị tri thức ở các lĩnh vực khác nhau. Bên cạnh đó việc xây dựng KG từ cơ sở dữ liệu cũng rất quan trọng với việc sử dụng ETL, tiếp cận mới (Data Virtualization) là kỹ năng cần thiết cho sinh viên Công nghệ: Neo4J, Langchain, LLaMa"
+    },
+    {
+        "id": 17,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Nền tảng tư vấn trong lĩnh vực tài chính, chứng khoán",
+        "Loại đề tài": "ĐATN, TTTN",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "2",
+        "Chi tiết": "Đây là một hệ thống lớn, liên quan đến nhiều đề tài. 1) Hệ thống tổng hợp tin tức chứng khoán tài chính Xây dựng hệ thống tổng hợp tin tức từ nhiều nguồn trong lĩnh vực tài chính, kế toán. Phân tích nội dung tin tức để đánh giá mức độ ảnh hưởng của tin tức tới giá cổ phiếu hay các hàng hóa sản phẩm tài chính. Từ đó gợi ý tin tức theo hành vi, danh mục nhà đầu tư. Sản phẩm đề tài tiếp nối một hệ thống đã phát triển, có khả năng tích hợp vào một platform hỗ trợ các nhà đầu tư tài chính. Công nghệ: Wrapper, Crawler, Web, DataBase, xử lý ngôn ngữ tự nhiên, trí tuệ nhân tạo. 2) Xây dựng Chatbot chăm sóc khách hàng về chứng khoán Phát triển chatbot vừa theo các công nghệ từ cơ bản tới nâng cao: dựa trên các tập luật nhận dạng cú pháp câu hỏi, dựa trên học máy - xử lý các câu hỏi tự do hơn,.. 3) Nghiên cứu các phương pháp học máy, học sâu trong việc dự đoán sự biến đổi của giá chứng khoán trên thị trường. Dữ liệu: giá quá khứ của cổ phiếu. Sinh viên sẽ được hỗ trợ của một số chuyên gia về các mô hình dự đoán sự biến đổi giá theo phân tích kỹ thuật và tìm hiểu các phương pháp đã được triển khai. Mục tiêu : nâng cao hiệu quả và cố gắng dự đoán sớm hơn giải pháp hiện tại. 4) Xây dựng hệ thống con xử lý phân tích follow chiến lược cho từng nhà đầu tư: Dưa trên tình hình thị trường, mong muốn và đặc điểm đầu tư, đưa ra chiến lược và phân tích hiệu quả của chiến lược."
+    },
+    {
+        "id": 18,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Ứng dụng di động tìm kiếm người lái xe hộ",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CNKT, CNTH, KSCQ",
+        "Số SV": "2",
+        "Chi tiết": "Sau khi Việt nam triển khai nghị định phạt nặng các hành vi lái xe khi uống rượu bia thì nhu cầu thuê người lái xe đón về (không phải thuê taxi, grab, xe tự lái) chở khách hàng dùng phương tiện của chính họ tăng lên. Ở nước ngoài dịch vụ này đã có nhưng ở Việt Nam mới bắt đầu hình thành như Visafe, Go Home, Đồ án định hướng nghiên cứu xây dựng một hệ thống cung cấp dịch vụ trên qua ứng dụng di động, có thể triển khai cho các doanh nghiệp kinh doanh vận tải"
+    },
+    {
+        "id": 19,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng các dịch vụ phân tích văn bản cho hệ thống xuất bản thông tin động",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "KSCQ, KSTN, CTTT, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Tham gia phát triển giải pháp cho các thành phần của một hệ thống xuất bản thông tin ngữ nghĩa (Semantic Publishing Platform) có khả năng: - Thu thập thông tin từ nhiều nguồn, lọc và hiển thị thông tin thông minh - và cá nhân hóa đến người đọc - Hỗ trợ các biên tập viên tạo ra content và làm giàu content với các ngữ nghĩa - Trực quan hóa nội dung tin với các metadata giàu thông tin, cung cấp thêm các dữ liệu hữu ích như chủ đề, nhân vật liên quan, sự kiên,.. - Tự động tổ chức các nhóm tin theo chủ đề - sự kiện Các đề tài cho sinh viên làm nghiên cứu tốt nghiệp có thể liên quan đến: - Xây dưng mô đun trực quan hóa nội dung tin với các metadata - Xây dựng mô đun, dịch vụ tự động Tagging, phân tích thực thể trong tin tức,.. - Tự động phát hiện các chủ đề nóng - Xây dựng hệ thống trên nền Web và Mobile ứng dụng các công nghệ mới như PWA, React Native - Phát triển các thuật toán sinh metadata cho tin tức - Tìm kiếm ngữ nghĩa trên hệ thống - Chatbot, recommendation trên hệ thống"
+    },
+    {
+        "id": 20,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Ứng dụng tạo video/audio tự động sử dụng AI",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CTTT, HEDSPI",
+        "Số SV": "1",
+        "Chi tiết": "Nghiên cứu phát triển hệ thống tạo video âm nhạc tự động từ các nguồn tài nguyên mở: âm nhạc, hình ảnh, lời bài hát.. Tìm hiểu các công cụ và nền tảng thư viện AI và kết hợp để giải quyết các vấn đề: - Ghép hình ảnh - áp dụng hiệu ứng phù hợp với nội dung, thời gian độ dài của bài hát, bản nhạc - Tự động thêm phụ đề - Áp dụng đa hiệu ứng trong một video - Sinh video Playlish, Video Album - Thuật toán chọn hình ảnh theo thể loại âm nhạc - Thuật toán tự động tương tác với người dùng youtube. - Ra lệnh tạo video, audio âm nhạc từ lời nhạc/hình ảnh có sẵn"
+    },
+    {
+        "id": 21,
+        "Tên giảng viên": "Vũ Văn Thiệu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phần mềm doanh nghiệp",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 22,
+        "Tên giảng viên": "Vũ Văn Thiệu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Vision - Language Pretraining",
+        "Loại đề tài": "ĐAMH",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 23,
+        "Tên giảng viên": "Muriel Visani",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Medical Imaging using Computer Vision and Machine Learning",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, KSCQ, KSTN, CTTT, Viet-Phap, LATS, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": "Medical imaging and its processing is crucial for medicine, from simple X-rays to ultrasound, scanners or Magnetic Resonance Images (MRIs). Examining and analyzing these images is usually performed manually by medical doctors, which is time-consuming for them, and may even lead to medical errors if the doctors' workload is too high. The objective in this project is to help the medical doctors by automatically highlighting for them the regions of the image where they should be looking for certain kinds of lesions, tumors, etc. The idea is to support the medical doctors in their diagnosis so as to save them time and effort, and avoid as much as possible medical errors. For that purpose, the students will review and implement algorithms using Computer Vision, which usually rely on Machine Learning algorithms, especially deep learning. Depending on the student's background and centers of interest, the work will be focused on different types of images / diseases, and different types of tasks / methods. Do not hesitate to contact me for more information! Contact: murielv@soict.hust.edu.vn"
+    },
+    {
+        "id": 24,
+        "Tên giảng viên": "Nguyễn Đức Anh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Các phương pháp học máy cho dữ liệu liên tục",
+        "Loại đề tài": "ĐATN, TTTN, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 25,
+        "Tên giảng viên": "Nguyễn Đức Anh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Continual Learning in Fine-grained Object Detection",
+        "Loại đề tài": "ĐATN, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 26,
+        "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tiến hoá đa nhiệm giải bài toán ảo hoá chức năng mạng",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Nghiên cứu các kỹ thuật metaheuristics để giải bài toán ảo hoá chức năng mạng."
+    },
+    {
+        "id": 27,
+        "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Giải thuật tiến hóa đa nhiệm trong huấn luyện mạng Nơron",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": "Giải thuật tiến hóa đa nhiệm trong huấn luyện mạng Nơron"
+    },
+    {
+        "id": 28,
+        "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Giải thuật tiến hóa đa nhiệm trong các bài toán tối ưu đa mục tiêu",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": "Giải thuật tiến hóa đa nhiệm trong các bài toán tối ưu đa mục tiêu"
+    },
+    {
+        "id": 29,
+        "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tối ưu chi phí quản lý tài nguyên trong hệ thống điện toán sương mù - đám mây",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": ""
+    },
+    {
+        "id": 30,
+        "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Giải thuật tiến hóa đa nhiệm giải bài toán tối ưu trên đồ thị",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": "Sử dụng giải thuật tiến hóa đa nhiệm để giải bài toán tối ưu được mô hình hóa về bài toán trên đồ thị."
+    },
+    {
+        "id": 31,
+        "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Lập lịch cho drones để cứu trợ hàng trong thiên tai",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "ThSKH, KSCQ, KSTN, CTTT, Viet-Phap, LATS, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Giải bài toán lập lịch cho drone để cứu trợ hàng trong thiên tai, đưa đồ xét nghiệm, trong vùng dịch."
+    },
+    {
+        "id": 32,
+        "Tên giảng viên": "Vũ Tuyết Trinh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Định hướng: Thu thập, phân tích, dự báo chuỗi thời gian",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "2",
+        "Chi tiết": "Các kỹ thuật thu thập, phân tích và dự báo chuỗi thời gian - (spatial-) time series ứng dụng cho bài toán dữ liệu giao thông, mạng, giám sát hệ thống sản xuất"
+    },
+    {
+        "id": 33,
+        "Tên giảng viên": "Vũ Tuyết Trinh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Khung quản trị dữ liệu",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "2-3",
+        "Chi tiết": "Nghiên cứu tìm hiểu các công nghệ về khung quản trị dữ liệu (Data Gouvernance) đặc biệt quan tâm đến các vấn đề bảo mật và an toàn dữ liệu (data security), tính riêng tư (data privacy), tích hợp (integration & interoperability), chất lượng dữ liệu (data quality) trong các môi trường phân tán và không đồng nhất (distributed and heterogenous). Đề tài theo hướng nghiên cứu công nghệ và ứng dụng."
+    },
+    {
+        "id": 34,
+        "Tên giảng viên": "Lê Đức Hậu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Dự đoán đích tác động của thuốc (Prediction of Drug Targets)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Bài toán dự đoán đích tác động của thuốc (Prediction of Drug Targets) là một vấn đề quan trọng trong lĩnh vực sinh học phân tử và phát triển dược phẩm. Mục tiêu chính của bài toán này là xác định các phân tử protein trong cơ thể con người mà một hợp chất hóa học (thuốc) có thể tác động đến, từ đó hiểu rõ hơn về cơ chế hoạt động của thuốc và hỗ trợ quá trình phát triển các liệu pháp điều trị mới. ### Các thành phần chính của bài toán: 1. **Dữ liệu đầu vào**: - **Hợp chất thuốc**: Thông tin về cấu trúc hóa học của thuốc, bao gồm các đặc trưng như SMILES, cấu trúc 3D, hoặc các đặc tính hóa lý. - **Protein đích**: Thông tin về protein, bao gồm trình tự amino acid, cấu trúc 3D, và các đặc điểm sinh học liên quan. 2. **Phương pháp**: - **Học máy**: Sử dụng các thuật toán học máy để xây dựng mô hình dự đoán dựa trên dữ liệu đã có. Các phương pháp phổ biến bao gồm mạng nơ-ron sâu (deep learning), máy học tăng cường (ensemble learning), và các mô hình thống kê. - **Mô hình hóa phân tử**: Sử dụng các công cụ mô phỏng để dự đoán tương tác giữa thuốc và protein đích, bao gồm docking, dynamic simulation, hoặc các phương pháp tính toán năng lượng tự do. 3. **Kết quả đầu ra**: - **Danh sách các protein tiềm năng**: Mô hình sẽ trả về danh sách các protein có khả năng tương tác với thuốc, kèm theo mức độ tự tin hoặc xác suất cho mỗi dự đoán. - **Phân tích tương tác**: Cung cấp thông tin về cách thức mà thuốc tương tác với protein, giúp hiểu rõ hơn về cơ chế tác động của thuốc. ### Ứng dụng: - **Phát triển thuốc mới**: Giúp tìm ra các protein đích mới mà thuốc có thể tác động, mở ra cơ hội cho việc phát triển các liệu pháp điều trị mới. - **Y học cá nhân hóa**: Dự đoán phản ứng của thuốc dựa trên đặc điểm sinh học cụ thể của từng cá nhân. - **Đánh giá an toàn của thuốc**: Phát hiện các tác dụng phụ tiềm năng thông qua việc dự đoán tương tác ngoài ý muốn giữa thuốc và các protein không phải là mục tiêu chính. Bài toán này đóng vai trò quan trọng trong việc tối ưu hóa quá trình nghiên cứu và phát triển dược phẩm, giúp giảm thiểu chi phí và thời gian đưa thuốc mới ra thị trường."
+    },
+    {
+        "id": 35,
+        "Tên giảng viên": "Lê Đức Hậu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tìm hiểu Quy trình phân tích hệ gen sử dụng công cụ Parabricks của NVIDIA",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Quy trình phân tích hệ gen sử dụng công cụ Parabricks của NVIDIA là một quy trình phân tích dữ liệu di truyền hiệu quả và nhanh chóng nhờ sự hỗ trợ của GPU (Graphics Processing Unit). Dưới đây là mô tả cơ bản về quy trình này: ### 1. **Chuẩn bị dữ liệu** - **Dữ liệu đầu vào**: Dữ liệu hệ gen thường ở dạng các file FASTQ hoặc BAM. Đây là các tệp chứa thông tin về các đoạn trình tự DNA hoặc RNA được thu thập từ các mẫu sinh học. - **Chuyển đổi định dạng**: Nếu dữ liệu không ở định dạng BAM, công cụ Parabricks sẽ thực hiện việc chuyển đổi từ FASTQ sang BAM. ### 2. **Căn chỉnh (Alignment)** - **Công cụ BWA**: Parabricks sử dụng thuật toán BWA (Burrows-Wheeler Aligner) để căn chỉnh các đoạn đọc (reads) từ FASTQ hoặc BAM với một hệ tham chiếu đã biết (genome reference). - **Kết quả**: Sau quá trình căn chỉnh, ta sẽ thu được file BAM chứa các vị trí của các đoạn đọc trên hệ gen tham chiếu. ### 3. **Gọi biến thể (Variant Calling)** - **GATK HaplotypeCaller**: Parabricks sử dụng công cụ GATK HaplotypeCaller để phát hiện các biến thể trong hệ gen, chẳng hạn như SNPs (Single Nucleotide Polymorphisms) và INDELs (Insertions and Deletions). - **Kết quả**: File VCF (Variant Call Format) sẽ được tạo ra, chứa thông tin về các biến thể phát hiện được. ### 4. **Lọc và chú giải biến thể (Variant Filtering and Annotation)** - **Lọc biến thể**: Parabricks cung cấp các bước lọc biến thể nhằm loại bỏ các biến thể giả hoặc có độ tin cậy thấp. - **Chú giải biến thể**: Công cụ này cũng hỗ trợ chú giải biến thể, giúp xác định chức năng và tầm quan trọng của các biến thể phát hiện được. ### 5. **Phân tích dữ liệu và trực quan hóa (Data Analysis and Visualization)** - **Báo cáo**: Sau khi hoàn tất phân tích, Parabricks tạo ra các báo cáo và biểu đồ để giúp nhà nghiên cứu dễ dàng đánh giá kết quả. - **Tương tác với các công cụ khác**: Dữ liệu phân tích có thể được tích hợp với các công cụ và phần mềm phân tích khác để thực hiện các nghiên cứu sâu hơn. ### 6. **Tối ưu hóa và tăng tốc nhờ GPU** - **Hiệu năng vượt trội**: Với sức mạnh tính toán của GPU NVIDIA, Parabricks giúp giảm đáng kể thời gian phân tích so với việc sử dụng CPU truyền thống. - **Khả năng mở rộng**: Parabricks có thể được triển khai trên các hệ thống máy chủ sử dụng nhiều GPU, giúp tăng cường khả năng phân tích dữ liệu lớn. Công cụ Parabricks của NVIDIA giúp tăng tốc và tối ưu hóa quá trình phân tích hệ gen, từ đó hỗ trợ các nhà nghiên cứu di truyền học đưa ra những phát hiện quan trọng một cách nhanh chóng và hiệu quả."
+    },
+    {
+        "id": 36,
+        "Tên giảng viên": "Lê Đức Hậu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Dự đoán tác dụng mới của thuốc (Drug Repositioning hay Drug Repurposing)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Bài toán Dự đoán tác dụng mới của thuốc (Drug Repositioning hay Drug Repurposing) là một lĩnh vực quan trọng trong nghiên cứu dược phẩm, tập trung vào việc tìm kiếm các ứng dụng điều trị mới cho những loại thuốc đã được phê duyệt hoặc đang được nghiên cứu. Thay vì phát triển một loại thuốc hoàn toàn mới từ đầu, việc tái định vị thuốc tận dụng những hiểu biết và dữ liệu có sẵn về các loại thuốc hiện tại để xác định các bệnh lý hoặc tình trạng mới mà thuốc có thể điều trị hiệu quả. ### Các thành phần chính của bài toán: 1. **Dữ liệu đầu vào**: - **Thông tin về thuốc**: Dữ liệu về các loại thuốc hiện có, bao gồm cấu trúc hóa học, cơ chế tác động, đích tác động (protein đích), dữ liệu về các thử nghiệm lâm sàng, và các tác dụng đã được biết đến. - **Dữ liệu về bệnh**: Thông tin về các bệnh lý khác nhau, bao gồm biểu hiện gen, các con đường sinh học (biological pathways), và các đặc trưng sinh lý của bệnh. - **Cơ sở dữ liệu về tương tác thuốc-bệnh**: Các dữ liệu liên quan đến tác dụng của thuốc lên các bệnh lý cụ thể, bao gồm các nghiên cứu đã được công bố, dữ liệu thử nghiệm lâm sàng, và dữ liệu thực tế từ quá trình sử dụng thuốc. 2. **Phương pháp**: - **Học máy**: Áp dụng các mô hình học máy để phân tích dữ liệu và dự đoán tác dụng mới của thuốc dựa trên các mẫu tương tự trong dữ liệu lịch sử. Các thuật toán phổ biến bao gồm deep learning, random forests, và các kỹ thuật thống kê. - **Mô hình mạng**: Sử dụng các mô hình mạng sinh học, như mạng protein-protein interaction (PPI) hoặc gene regulatory networks, để dự đoán các con đường mới mà thuốc có thể ảnh hưởng đến. - **Phân tích phân tử**: Áp dụng các phương pháp tính toán như docking và dynamic simulation để dự đoán khả năng liên kết và tác động của thuốc lên các mục tiêu sinh học mới. 3. **Kết quả đầu ra**: - **Danh sách các ứng dụng điều trị mới tiềm năng**: Mô hình sẽ đưa ra các đề xuất về những bệnh lý mới mà một loại thuốc có thể điều trị, kèm theo xác suất hoặc mức độ tự tin cho mỗi đề xuất. - **Phân tích cơ chế tác động**: Cung cấp thông tin về cách mà thuốc có thể tác động đến các con đường sinh học liên quan đến bệnh lý mới được dự đoán. ### Ứng dụng: - **Tăng cường hiệu quả nghiên cứu và phát triển thuốc**: Giảm thiểu thời gian và chi phí so với việc phát triển thuốc mới từ đầu, bằng cách tận dụng những loại thuốc đã có sẵn. - **Phát hiện nhanh chóng các liệu pháp mới**: Giúp nhanh chóng đưa ra các giải pháp điều trị mới cho những bệnh lý chưa có liệu pháp hiệu quả, đặc biệt trong các tình huống khẩn cấp như đại dịch. - **Mở rộng phạm vi sử dụng của thuốc**: Khám phá các ứng dụng mới cho những thuốc hiện tại, từ đó mở rộng thị trường và giá trị của các loại thuốc đã được phê duyệt. Bài toán này có tiềm năng lớn trong việc cải thiện sức khỏe cộng đồng, tối ưu hóa việc sử dụng các nguồn lực trong nghiên cứu và phát triển dược phẩm, và đẩy nhanh quá trình đưa các liệu pháp mới ra thị trường."
+    },
+    {
+        "id": 37,
+        "Tên giảng viên": "Lê Đức Hậu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Dự đoán các RNA không mã hoá liên quan đến bệnh (Prediction of Disease-Associated Non-Coding RNAs)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Bài toán Dự đoán các RNA không mã hóa liên quan đến bệnh (Prediction of Disease-Associated Non-Coding RNAs) là một lĩnh vực nghiên cứu sinh học phân tử và y học chính xác, tập trung vào việc xác định các RNA không mã hóa (non-coding RNAs - ncRNAs) có liên quan đến sự phát triển và tiến triển của các bệnh. RNA không mã hóa là các phân tử RNA không dịch mã thành protein nhưng đóng vai trò quan trọng trong điều hòa gen và nhiều quá trình sinh học khác. Những ncRNAs này bao gồm microRNAs (miRNAs), long non-coding RNAs (lncRNAs), circular RNAs (circRNAs), và nhiều loại RNA khác. Bài toán này nhằm mục tiêu phát hiện và dự đoán mối quan hệ giữa các ncRNAs và các bệnh cụ thể, từ đó hỗ trợ trong chẩn đoán, tiên lượng, và phát triển các liệu pháp điều trị mới. ### Các thành phần chính của bài toán: 1. **Dữ liệu đầu vào**: - **Dữ liệu biểu hiện ncRNAs**: Bao gồm thông tin về mức độ biểu hiện của các ncRNAs trong các mẫu bệnh và mẫu bình thường, thường được thu thập thông qua công nghệ RNA-seq hoặc microarray. - **Dữ liệu lâm sàng**: Thông tin về tình trạng bệnh của bệnh nhân, bao gồm các yếu tố như giai đoạn bệnh, đáp ứng điều trị, và tiên lượng. - **Dữ liệu liên kết gen - bệnh**: Cơ sở dữ liệu chứa thông tin về các gen liên quan đến bệnh, giúp cung cấp ngữ cảnh cho việc phân tích mối quan hệ giữa ncRNAs và bệnh. - **Dữ liệu tương tác sinh học**: Bao gồm các mạng lưới tương tác protein-protein (PPI), tương tác RNA-protein, và các con đường tín hiệu sinh học, giúp hiểu rõ hơn về cách ncRNAs tương tác với các thành phần sinh học khác. 2. **Phương pháp**: - **Học máy (Machine Learning)**: Sử dụng các thuật toán như random forests, support vector machines (SVM), và neural networks để xây dựng mô hình dự đoán mối liên hệ giữa các ncRNAs và bệnh, dựa trên dữ liệu biểu hiện và lâm sàng. - **Mạng lưới tương tác (Network-Based Approaches)**: Phân tích mạng lưới tương tác giữa ncRNAs, gen, và protein để phát hiện các ncRNAs có khả năng liên quan đến bệnh, từ đó dự đoán vai trò của chúng trong quá trình bệnh lý. - **Phân tích đồng biểu hiện (Co-expression Analysis)**: Sử dụng phân tích đồng biểu hiện để xác định các nhóm ncRNAs có mẫu biểu hiện tương tự với các gen hoặc các yếu tố khác đã biết liên quan đến bệnh, từ đó dự đoán vai trò của ncRNAs trong bệnh. 3. **Kết quả đầu ra**: - **Danh sách ncRNAs liên quan đến bệnh**: Mô hình dự đoán cung cấp danh sách các ncRNAs có khả năng liên quan đến bệnh, cùng với xác suất hoặc độ tin cậy của mỗi dự đoán. - **Phân tích chức năng**: Cung cấp thông tin về các con đường sinh học hoặc các quá trình di truyền mà các ncRNAs dự đoán có thể tham gia, từ đó giúp hiểu rõ hơn về vai trò của chúng trong bệnh. - **Xác định mục tiêu điều trị tiềm năng**: Nhận diện các ncRNAs có thể được sử dụng làm mục tiêu trong các liệu pháp điều trị hoặc chẩn đoán mới. 4. **Ứng dụng**: - **Chẩn đoán và tiên lượng bệnh**: Sử dụng các ncRNAs dự đoán để phát triển các biomarker mới, giúp cải thiện độ chính xác trong chẩn đoán và tiên lượng bệnh. - **Phát triển liệu pháp điều trị**: Xác định các ncRNAs có vai trò quan trọng trong bệnh lý để làm mục tiêu trong phát triển các liệu pháp điều trị mới, đặc biệt là trong lĩnh vực liệu pháp gen và RNA-based therapies. - **Hiểu biết sâu hơn về cơ chế bệnh học**: Cung cấp cái nhìn toàn diện về cách các ncRNAs điều chỉnh biểu hiện gen và ảnh hưởng đến sự phát triển của bệnh, từ đó mở ra các hướng nghiên cứu mới về cơ chế bệnh lý. Bài toán Dự đoán các RNA không mã hóa liên quan đến bệnh là một công cụ mạnh mẽ trong việc hiểu rõ hơn về vai trò của ncRNAs trong các quá trình sinh học và bệnh lý, từ đó góp phần quan trọng vào y học chính xác và phát triển các phương pháp điều trị hiệu quả hơn."
+    },
+    {
+        "id": 38,
+        "Tên giảng viên": "Lê Đức Hậu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tìm hiểu Quy trình phân tích hệ gen sử dụng công cụ GATK (Genome Analysis Toolkit)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Quy trình phân tích hệ gen sử dụng công cụ GATK (Genome Analysis Toolkit) là một chuỗi các bước được thiết kế để xử lý và phân tích dữ liệu trình tự DNA nhằm phát hiện các biến thể di truyền, bao gồm các biến thể đơn nucleotide (SNVs), các biến thể cấu trúc (SVs), và các biến thể số lượng bản sao (CNVs). GATK là một bộ công cụ mạnh mẽ và được sử dụng rộng rãi trong cộng đồng nghiên cứu di truyền, đặc biệt trong các dự án nghiên cứu lớn như Dự án Hệ Gen Người (Human Genome Project). ### Các bước chính trong quy trình phân tích hệ gen với GATK: 1. **Chuẩn bị dữ liệu đầu vào**: - **Dữ liệu trình tự thô**: Bắt đầu với các tệp dữ liệu trình tự thô được tạo ra từ các công nghệ như Illumina, PacBio, hoặc Oxford Nanopore. Các tệp này thường ở định dạng FASTQ. - **Chuẩn bị dữ liệu tham chiếu**: Sử dụng một hệ gen tham chiếu (reference genome) phù hợp, thường ở định dạng FASTA, như GRCh38 hoặc hg19 đối với người, làm cơ sở để so sánh. 2. **Căn chỉnh chuỗi DNA (Alignment)**: - **Sử dụng BWA (Burrows-Wheeler Aligner)**: Căn chỉnh các đoạn trình tự (reads) từ tệp FASTQ với hệ gen tham chiếu để tạo ra tệp BAM (Binary Alignment/Map). Quá trình này bao gồm việc xác định vị trí của mỗi đoạn trình tự trên hệ gen tham chiếu. - **Sắp xếp và phân loại**: Các đoạn trình tự được sắp xếp theo thứ tự trong hệ gen tham chiếu và phân loại theo vị trí, tạo điều kiện cho các bước phân tích tiếp theo. 3. **Xử lý hậu căn chỉnh (Post-Alignment Processing)**: - **Đánh dấu PCR Duplicates**: Sử dụng công cụ MarkDuplicates để xác định và đánh dấu các đoạn trình tự trùng lặp được tạo ra do quá trình khuếch đại PCR, nhằm giảm thiểu sai sót trong phân tích biến thể. - **Căn chỉnh lại xung quanh vùng InDel (Indel Realignment)**: Thực hiện việc căn chỉnh lại cục bộ các đoạn trình tự xung quanh các vùng có khả năng xảy ra chèn/xóa (insertion/deletion) để cải thiện độ chính xác của việc phát hiện biến thể. - **Hiệu chỉnh độ lệch của chất lượng base (Base Quality Score Recalibration - BQSR)**: Điều chỉnh chất lượng của các base trong các đoạn trình tự để sửa chữa những sai lệch trong quá trình giải trình tự. 4. **Phát hiện biến thể (Variant Calling)**: - **HaplotypeCaller**: Công cụ chính trong GATK để phát hiện các biến thể di truyền (SNVs và InDels). HaplotypeCaller phân tích từng locus của hệ gen để phát hiện các biến thể bằng cách xây dựng và so sánh các haplotype có thể có. - **Joint Genotyping**: Đối với các dự án nghiên cứu lớn hoặc khi xử lý nhiều mẫu, bước này cho phép gọi biến thể trên nhiều mẫu cùng một lúc để cải thiện độ nhạy và độ chính xác. 5. **Lọc biến thể (Variant Filtering)**: - **Variant Quality Score Recalibration (VQSR)**: Áp dụng một quy trình lọc chất lượng dựa trên mô hình thống kê để phân loại các biến thể thành các nhóm có chất lượng cao hoặc thấp, nhằm giảm thiểu các biến thể giả. - **Hard Filtering**: Trong trường hợp không sử dụng VQSR, các biến thể có thể được lọc cứng dựa trên các tiêu chí cụ thể như độ sâu phủ (depth), chất lượng gọi biến thể, và tỉ lệ đồng hợp tử. 6. **Chú thích và phân tích biến thể (Variant Annotation and Analysis)**: - **Sử dụng các công cụ chú thích**: Các công cụ như ANNOVAR, SnpEff, hoặc Ensembl VEP được sử dụng để chú thích biến thể, cung cấp thông tin về các ảnh hưởng chức năng, lâm sàng, và quần thể của các biến thể được phát hiện. - **Phân tích chức năng**: Xác định những biến thể có khả năng gây bệnh hoặc có ý nghĩa sinh học, dựa trên thông tin chức năng, tương tác protein, và dữ liệu lâm sàng. 7. **Báo cáo và xác minh kết quả**: - **Xuất kết quả**: Các biến thể sau khi được chú thích và lọc sẽ được lưu trữ trong các tệp VCF (Variant Call Format) để thuận tiện cho việc phân tích thêm hoặc báo cáo kết quả. - **Xác minh**: Xác minh các biến thể quan trọng bằng các phương pháp khác như PCR, Sanger sequencing, hoặc các công cụ tin cậy khác để đảm bảo tính chính xác của kết quả. ### Ứng dụng: - **Nghiên cứu di truyền học**: GATK được sử dụng rộng rãi trong các nghiên cứu liên quan đến khám phá biến thể gen và hiểu rõ cơ chế di truyền của các bệnh phức tạp. - **Chẩn đoán y học cá nhân hóa**: Hỗ trợ trong việc phát hiện các biến thể di truyền có liên quan đến bệnh tật, từ đó đóng góp vào việc xây dựng các phương pháp chẩn đoán và điều trị dựa trên hệ gen cá nhân. - **Phát triển thuốc**: GATK cung cấp công cụ phân tích mạnh mẽ cho các nhà nghiên cứu trong việc xác định các đích tác động di truyền mới để phát triển các liệu pháp điều trị. Quy trình phân tích hệ gen với GATK là một phương pháp chuẩn mực trong nghiên cứu di truyền, cung cấp một quy trình toàn diện từ xử lý dữ liệu thô đến phân tích biến thể, giúp các nhà nghiên cứu và chuyên gia y tế khai thác toàn diện dữ liệu hệ gen để hiểu rõ hơn về các căn bệnh di truyền và phát triển các phương pháp điều trị hiệu quả."
+    },
+    {
+        "id": 39,
+        "Tên giảng viên": "Lê Đức Hậu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tìm hiểu Quy trình phân tích hệ gen sử dụng công cụ DRAGEN (Dynamic Read Analysis for GENomics) của Illumina",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Quy trình phân tích hệ gen sử dụng công cụ DRAGEN (Dynamic Read Analysis for GENomics) của Illumina là một quy trình mạnh mẽ và tối ưu hóa cao, được thiết kế để xử lý và phân tích dữ liệu hệ gen một cách nhanh chóng và chính xác. DRAGEN là một nền tảng phân tích phần cứng-được-tăng tốc, cung cấp khả năng xử lý dữ liệu di truyền học với hiệu suất cao, đặc biệt phù hợp cho các ứng dụng y học chính xác và nghiên cứu hệ gen quy mô lớn. ### Các bước chính trong quy trình phân tích hệ gen với DRAGEN: 1. **Chuẩn bị dữ liệu đầu vào**: - **Dữ liệu trình tự thô**: Bắt đầu với các tệp FASTQ chứa các đoạn trình tự DNA được tạo ra từ các hệ thống giải trình tự của Illumina, như NovaSeq, HiSeq, hoặc MiSeq. - **Hệ gen tham chiếu**: Sử dụng hệ gen tham chiếu như GRCh38 hoặc hg19 để làm cơ sở cho quá trình phân tích và căn chỉnh. 2. **Căn chỉnh chuỗi DNA (Alignment)**: - **Tối ưu hóa căn chỉnh với DRAGEN**: DRAGEN sử dụng các thuật toán căn chỉnh tiên tiến, được tối ưu hóa cho phần cứng, để thực hiện căn chỉnh các đoạn trình tự với hệ gen tham chiếu. Điều này giúp giảm thời gian xử lý mà vẫn đảm bảo độ chính xác cao. - **Sắp xếp và phân loại**: Sau khi căn chỉnh, các đoạn trình tự được sắp xếp theo thứ tự trên hệ gen tham chiếu và phân loại để chuẩn bị cho các bước phân tích tiếp theo. 3. **Xử lý hậu căn chỉnh (Post-Alignment Processing)**: - **Đánh dấu PCR Duplicates**: DRAGEN tự động xác định và đánh dấu các đoạn trình tự trùng lặp phát sinh từ quá trình khuếch đại PCR, giúp loại bỏ các sai lệch trong phân tích biến thể. - **Căn chỉnh lại vùng InDel**: Căn chỉnh lại cục bộ các vùng có chèn/xóa (InDel) để đảm bảo độ chính xác cao trong việc phát hiện biến thể. - **Hiệu chỉnh chất lượng base (Base Quality Score Recalibration - BQSR)**: DRAGEN thực hiện hiệu chỉnh chất lượng của các base trong đoạn trình tự để tăng cường độ chính xác của quá trình phát hiện biến thể. 4. **Phát hiện biến thể (Variant Calling)**: - **Phát hiện SNV và InDel**: DRAGEN thực hiện phát hiện các biến thể đơn nucleotide (SNVs) và chèn/xóa (InDels) với tốc độ cao và độ chính xác vượt trội nhờ vào các thuật toán được tối ưu hóa. - **Phát hiện biến thể cấu trúc (SV) và số lượng bản sao (CNV)**: DRAGEN cũng có khả năng phát hiện các biến thể cấu trúc lớn và các biến thể số lượng bản sao, hỗ trợ toàn diện trong việc phân tích hệ gen. 5. **Lọc và chú thích biến thể (Variant Filtering and Annotation)**: - **Lọc biến thể**: Áp dụng các bộ lọc dựa trên chất lượng biến thể, độ phủ, và các tiêu chí khác để loại bỏ các biến thể giả và giữ lại các biến thể có ý nghĩa sinh học. - **Chú thích biến thể**: Sử dụng các công cụ chú thích để thêm thông tin về chức năng và lâm sàng của các biến thể, giúp hiểu rõ hơn về tác động của chúng đối với sức khỏe và bệnh tật. 6. **Phân tích và xác nhận kết quả**: - **Phân tích dữ liệu**: DRAGEN hỗ trợ các công cụ và phương pháp để phân tích sâu hơn các biến thể được phát hiện, bao gồm việc phân tích theo kiểu hình và kiểu gen, giúp xác định mối liên hệ giữa các biến thể và các đặc điểm lâm sàng. - **Xác minh kết quả**: Các biến thể quan trọng có thể được xác minh bằng các phương pháp khác như PCR hoặc Sanger sequencing để đảm bảo tính chính xác. 7. **Báo cáo và xuất kết quả**: - **Báo cáo kết quả**: DRAGEN tạo ra các báo cáo kết quả chi tiết, bao gồm danh sách các biến thể phát hiện được, các phân tích chú thích, và các dự đoán về ảnh hưởng chức năng của các biến thể này. - **Xuất tệp VCF**: Các kết quả cuối cùng được xuất ra dưới dạng tệp VCF (Variant Call Format), giúp dễ dàng sử dụng trong các phân tích tiếp theo hoặc chia sẻ với các nhóm nghiên cứu khác. ### Ứng dụng: - **Y học chính xác**: DRAGEN giúp phát hiện và phân tích các biến thể di truyền có liên quan đến bệnh, từ đó hỗ trợ chẩn đoán chính xác và phát triển các phương pháp điều trị cá nhân hóa. - **Nghiên cứu hệ gen**: Nền tảng DRAGEN được sử dụng rộng rãi trong nghiên cứu hệ gen, bao gồm các dự án nghiên cứu quy mô lớn, nghiên cứu đa dạng sinh học, và hiểu biết về di truyền dân số. - **Phát triển thuốc**: DRAGEN cung cấp các công cụ để phân tích các biến thể di truyền, giúp xác định các mục tiêu thuốc tiềm năng và phát triển các liệu pháp điều trị mới. Quy trình phân tích hệ gen sử dụng công cụ DRAGEN của Illumina là một giải pháp toàn diện và tiên tiến, giúp tối ưu hóa quy trình phân tích hệ gen với tốc độ nhanh và độ chính xác cao, từ đó đẩy nhanh quá trình nghiên cứu và ứng dụng trong y học chính xác."
+    },
+    {
+        "id": 40,
+        "Tên giảng viên": "Trịnh Anh Phúc",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phát hiện và đánh dấu các vị trí bất thường của sản phẩm thông qua hình ảnh",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "KSCQ",
+        "Số SV": "1",
+        "Chi tiết": "Việc sử dụng các kỹ thuật học máy để phát hiện các điểm bất thường của sản phẩm nhựa được lưu ý giống như bài toán phân vùng ảnh đã được sử dụng nhiều. Tuy nhiên, với mong muốn cải tiến tốc độ, tăng cường độ chính xác. Chúng tôi mong muốn hoàn thiện hơn các kỹ thuật học máy và khai pha dữ liệu hiện tại để giải quyết bài toán này."
+    },
+    {
+        "id": 41,
+        "Tên giảng viên": "Trịnh Anh Phúc",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Nghiên cứu, tìm hiểu các mô hình dự đoán chuỗi thời gian",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "KSCQ",
+        "Số SV": "1",
+        "Chi tiết": "Mô hình chuỗi thời gian như mô hình markov ẩn, mangj nơ ron hồi quy (LSTM), thường được dùng để dự đoán theo chuối thời gian. Chúng tôi mong muốn áp dụng các kỹ thuật học máy và khai phá dữ liệu tiên tiết nhất để dự đoán tình hình giao thông theo từng thời điểm."
+    },
+    {
+        "id": 42,
+        "Tên giảng viên": "Đỗ Bá Lâm",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Nghiên cứu và tìm hiểu về Chữ ký số - Digital Signature",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "2",
+        "Chi tiết": "Ngày này, chữ ký số ngày càng được sử dụng rộng rãi, để thay thế cho chữ ký viết tay trong quá trình số hóa tài liệu. Chữ ký số có thể tạo ra từ nhiều phương pháp, công nghệ khác nhau như lưu trữ khóa bí mật trong các thiết bị người dùng - SimCA, USB Token, hay công nghệ chữ ký số từ xa (Remote signing) lưu trữ khóa bí mật tại thiết bị phần cứng HSM của nhà cung cấp dịch vụ ký số. Đề tài hướng tới việc: 1. Tìm hiểu về công nghệ chữ ký số; cách tạo ra chữ ký số nói chung 2. Tìm hiểu về thư viện iText được sử dụng trong việc đọc, xử lý PDF, bao gồm việc chèn các chữ ký số vào file 3. Tìm hiểu về các công nghệ SimCA, USB Token, Remote Signing... 4. Xây dựng giải pháp ký số Lưu ý: sinh viên cần dành khoảng 2 kỳ để thực hiện đề tài này."
+    },
+    {
+        "id": 43,
+        "Tên giảng viên": "Đỗ Bá Lâm",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "3. Tìm hiểu và ứng dụng các công nghệ mới về lập trình Web",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "CNTH, IPE, VB2, CNKT, KSCQ, SIE, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Các website tồn tại rất phổ biến trong thế giới của chúng ta., bởi những ưu điểm về tương tác, truyền tải thông tin mà chúng mang lại. Đa phần các ứng dụng được phát triển đều có kết quả hiển thị dưới dạng một web-app hay mobile-app, khiến cho lĩnh vực công nghệ web ngày càng phát triển nhanh chóng. Để tạo ra một ứng dụng web thực tế, có rất nhiều điều cần phải cân nhắc như: (1) phân quyền người dùng; (2) đảm bảo hệ thống hoạt động ổn định - giám sát hệ thống, dự phòng sự cố; (3) triển khai tự động CI-CD; (4) kiến trúc microservices; (5) tích hợp Chatbot... Đề tài hướng tới việc tìm hiểu một số công nghệ web mới hiện nay, sau đó áp dụng triển khai minh họa. Tham khảo: - https://roadmap.sh/backend - https://rabiloo.com/vi/blog/giai-phap-thiet-ke-co-so-du-lieu-multi-tenant - https://tech.cybozu.vn/trai-nghiem-chuyen-sau-domain-driven-design-6eef4/ Lưu ý: sinh viên cần dành khoảng 2 kỳ để thực hiện đề tài này."
+    },
+    {
+        "id": 44,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Kiểm thử tự động cho các hệ thống web/app/API",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "CNTH, IPE, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+        "Số SV": "2-3",
+        "Chi tiết": "Kiểm thử tự động (Automated Testing) là một hoạt động quan trọng trong SE, giúp xử lý một cách tự động các bước thực hiện các testcase, kiểm thử tự động bằng một công cụ nhằm rút ngắn thời gian kiểm thử. Nghiên cứu và phát triển kiểm thử tự động cho một hệ thống web/app/API: - Phân tích yêu cầu của hệ thống cần kiểm thử - Thiết kế các trường hợp kiểm thử, sử dụng phương pháp và kỹ thuật kiểm thử phù hợp - Nghiên cứu công cụ, framework cho công việc kiểm thử tự động (VD: Selenium WebDriver, Kobiton...) - Xây dựng test script, test suite và triển khai kiểm thử tự động cho hệ thống cần kiểm thử"
+    },
+    {
+        "id": 45,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tổng hợp tiếng nói tiếng Việt có biểu cảm (expressive text-to-speech)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "2-4",
+        "Chi tiết": "* Nội dung: - Tiếng nói có cách phong cách (stylistic) khác nhau như đọc truyện, đọc thơ, hội thoại, thông báo… - Tiếng nói có cảm xúc (emotion) khác nhau như: Buồn, Ngạc nhiên, Giận dữ... - Tổng hợp tiếng nói theo phong cách (stylistic) / theo cảm xúc (emotion) - Tham khảo: http://emosamples.syntheticspeech.de/EmotionalTTS.pdf * Đây là định hướng nghiên cứu, nếu sinh viên có mong muốn học tiếp hoặc muốn đi làm về lĩnh vực chuyên sâu."
+    },
+    {
+        "id": 46,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Nhận dạng tiếng nói tiếng Việt sử dụng học sâu",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "1-2",
+        "Chi tiết": "* Nội dung: - Nghiên cứu về học sâu (deep learning) và nhận dạng tiếng nói (ASR) - Xây dựng hệ thống ASR sử dụng các mô hình học sâu hiện đại * Đây là định hướng nghiên cứu, nếu sinh viên có mong muốn học tiếp hoặc muốn đi làm về lĩnh vực chuyên sâu."
+    },
+    {
+        "id": 47,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hệ thống quản lý và chia sẻ tài nguyên cộng đồng VLSP",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "1-2",
+        "Chi tiết": "Nghiên cứu và phát triển hệ thống cho phép có thể quản lý tài nguyên, các tập ngữ liệu huấn luyện chia sẻ với cộng đồng. - Hệ thống cho phép người quản trị có thể thiết lập yêu cầu để nhận tài nguyên được chia sẻ, người nhận dữ liệu có thể phải tham gia xây dựng dữ liệu trước khi nhận. - Hệ thống cũng cho phép cộng đồng hoặc các chuyên gia có thể tham gia gán nhãn dữ liệu. - Hệ thống sẽ được triển khai cho VLSP (https://vlsp.org.vn/) Công nghệ: - ReactJS - NodeJS - Microservices"
+    },
+    {
+        "id": 48,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Nghiên cứu và đề xuất mô hình nhận dạng đọc sai Tiếng Việt",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT",
+        "Số SV": "2",
+        "Chi tiết": "Nghiên cứu về nhận dạng tiếng nói tiếng Việt, về các kiến thức học máy học sâu - Nghiên cứu đề xuất mô hình nhận dạng đọc sai Tiếng Việt bằng học sâu, giống như tính năng này trên Elsa cho Tiếng Anh *Đề tài phù hợp với sinh viên muốn học tiếp lên sau khi tốt nghiệp hoặc làm việc trong môi trường RnD, bài toán chuyên sâu."
+    },
+    {
+        "id": 49,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hệ thống quản lý và phân tích dữ liệu trong chatbot/callbot",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Hệ thống quản lý và phân tích dữ liệu trong chatbot/callbot - Phân tích dữ liệu huấn luyện của chatbot/callbot để tìm các vấn đề và khắc phục các vấn đề trong đó - Phân tích lịch sử log để cải thiện chất lượng của bot * Công nghệ: - ReactJS, NodeJS - Dùng ML/DL để phân tích và tối ưu dữ liệu * Đây là đề tài nghiên cứu kết hợp ứng dụng, phù hợp với sinh viên có mong muốn đi làm hoặc học tiếp"
+    },
+    {
+        "id": 50,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Microservices và hệ thống quản lý và thực thi callbot",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "2-3",
+        "Chi tiết": "- Hệ thống quản lý các mẫu callbot đóng gói cho một số use case cụ thể, cho phép người dùng chọn và thực hiện các chiến dịch theo các callbot đó thông qua hệ thống tổng đài được tích hợp - Hệ thống cũng cho phép người dùng có thể chỉnh sửa kịch bản callbot một cách dễ dàng qua giao diện trực quan - Được tham gia đề tài thực tế, giải quyết các vấn đề trong thực tế đáp ứng yêu cầu của người dùng, nghiên cứu phương án scale theo số lượng cuộc gọi thực tế (có thể lên tới hàng trăm cuộc gọi đồng thời) - Được kết hợp thực tập (Project/GR/ĐATN) tại công ty Vbee trong quá trình làm đồ án Công nghệ: - ReactJS - NodeJS - MongoDB - AWS *Đề tài phù hợp với sinh viên mong muốn đi làm sau khi ra trường"
+    },
+    {
+        "id": 51,
+        "Tên giảng viên": "Nguyễn Thị Thu Trang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tổng hợp tiếng nói trên thiết bị",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "2-3",
+        "Chi tiết": "* Nội dung: - Tìm hiểu về tổng hợp tiếng nói tiếng Việt - Thiết kế và xây dựng hệ thống tổng hợp tiếng nói tiếng Việt trên thiết bị (C/C++) * Đây là định hướng nghiên cứu, nếu sinh viên có mong muốn học tiếp hoặc muốn đi làm về lĩnh vực chuyên sâu."
+    },
+    {
+        "id": 52,
+        "Tên giảng viên": "Nguyễn Kiêm Hiếu",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xử lý ngôn ngữ tự nhiên (tham khảo thêm https://users.soict.hust.edu.vn/hieunk/)",
+        "Loại đề tài": "ĐAMH",
+        "Hệ": "KSCQ, KSTN, CTTT, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 53,
+        "Tên giảng viên": "Trần Đình Khang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hướng đề tài cho LV thạc sĩ về Xây dựng các hệ mờ ứng dụng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, LATS, ThSKT",
+        "Số SV": "Không xác định",
+        "Chi tiết": "- Tìm hiểu các kỹ thuật biểu diễn thông tin mờ, không chính xác, không chắc chắn … áp dụng các phương pháp suy luận xấp xỉ dẫn xuất thông tin, tính toán kết quả đầu ra. - Bài toán ứng dụng trong thức tiễn, như: điều khiển xe tự hành, ổn định tham số động cơ, chẩn đoán dựa trên tri thức, dự báo, …"
+    },
+    {
+        "id": 54,
+        "Tên giảng viên": "Trần Đình Khang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hướng đề tài cho ĐATN kỹ sư, cử nhân (Các bài toán đặt ra trong thực tiễn, xây dựng các hệ thống thông tin cài đặt thêm các chức năng xử lý, trợ giúp người sử dụng)",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "6",
+        "Chi tiết": "Các bài toán đặt ra trong thực tiễn, xây dựng các hệ thống thông tin cài đặt thêm các chức năng xử lý, trợ giúp người sử dụng, áp dụng các phương pháp lựa chọn, đánh giá, phân loại, suy luận, lập lịch, dự báo, … ví dụ, - Trợ giúp tuyển sinh, trợ giúp quản lý giảng dạy và học tập, - Học tập trực tuyến (doanh nghiệp VUIHOC) - lựa chọn sản phẩm, lựa chọn phương án, gợi ý trong mạng xã hội, mạng đồng tác giả, ... - Lựa chọn lộ trình vận chuyển, đưa đón khách, hàng"
+    },
+    {
+        "id": 55,
+        "Tên giảng viên": "Trần Đình Khang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Các phương pháp phân lớp, phân cụm, phân cụm bán giám sát",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, CN, ThSKT, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": "Tìm hiểu, nghiên cứu các kỹ thuật phân tích dữ liệu, thực nghiệm và ứng dụng trong các bài toán thực tiễn"
+    },
+    {
+        "id": 56,
+        "Tên giảng viên": "Trần Đình Khang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hướng đề tài cho ĐATN kỹ sư, cử nhân (Các ứng dụng có áp dụng dẫn xuất thông tin dựa trên cơ sở tri thức và suy luận xấp xỉ)",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "4",
+        "Chi tiết": "Các ứng dụng có áp dụng dẫn xuất thông tin dựa trên cơ sở tri thức và suy luận xấp xỉ, ví dụ như tìm đường đi, xe tự điều khiển, các hệ chuyên gia, hệ gợi ý ứng dụng trong các lĩnh vực khác nhau, điều khiển cân bằng nhiệt độ ..."
+    },
+    {
+        "id": 57,
+        "Tên giảng viên": "Trần Đình Khang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Logic mờ và suy luận xấp xỉ",
+        "Loại đề tài": "ĐATN, SV NCKH",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, CNKH, LATS, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "4",
+        "Chi tiết": "Các kỹ thuật về biểu diễn và xử lý thông tin không chắc chắn, các hệ thống thông minh, ứng dụng trong các bài toán thực tiễn"
+    },
+    {
+        "id": 58,
+        "Tên giảng viên": "Trần Đình Khang",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hệ thống thông tin về học tập",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "4",
+        "Chi tiết": "Các bài toán: quản lý khóa học, quản lý nội dung học, lớp học trực tuyến, phân tích dữ liệu học tập để trợ giúp người học, trợ giúp giáo viên, người quản lý ..."
+    },
+    {
+        "id": 59,
+        "Tên giảng viên": "Nguyễn Bá Ngọc",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Hệ thống hỗ trợ dạy và học lập trình",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "ThSKH, ThSKT",
+        "Số SV": "1",
+        "Chi tiết": "Tìm hiểu và thử nghiệm hạ tầng thực thi mã nguồn. Xây dựng giải pháp quản lý bài tập và bài làm. Cài đặt thử nghiệm và đánh giá hệ thống."
+    },
+    {
+        "id": 60,
+        "Tên giảng viên": "Nguyễn Khánh Phương",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng các hệ thống thông tin phục vụ nhu cầu người dùng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 61,
+        "Tên giảng viên": "Cao Tuấn Dũng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phát triển giải pháp tích hợp trong quản trị tài liệu, quản trị nội dung ứng dụng Open Semantic Search",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "2",
+        "Chi tiết": "Open Semantic Search là một nền tảng mã mở mới được giới thiệu, kết hợp những công nghệ mới nhất trong xử lý dữ liệu văn bản gồm: - Tìm kiếm ngữ nghĩa, Khai phá văn bản, lọc tương tác, tìm kiếm khám phá, trực quan hóa dữ liệu, elastic search, faceted search (tìm kiếm với nhiều bộ lọc), tìm kiếm tri thức theo mô hình đồ thị, vv Nhiệm vụ của đồ án là tìm hiểu và làm chủ nền tảng xử lý ngữ nghĩa này, từ đó xây dựng một hệ thống quản trị tài liệu/nội dung dựa trên ngữ nghĩa cho văn bản tiếng Anh và tiếng Việt với nhiều tính năng tiên tiến. Cũng có thể tiếp cận đồ án ở hướng phát triển nền tảng phân tích văn bản Web, xác định xu hướng (Trend)... https://www.opensemanticsearch.org PHP, RDF, Linked Data, Java,.."
+    },
+    {
+        "id": 62,
+        "Tên giảng viên": "Đỗ Quốc Huy",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Xây dựng ứng dụng Web-based",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "SIE",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Xây dựng các ứng dụng trên nền tảng web để phục vụ các nghiệp vụ khác nhau."
+    },
+    {
+        "id": 63,
+        "Tên giảng viên": "Đỗ Quốc Huy",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Nghiên cứu thuật toán tìm đường đi bao phủ cho robot di động tự trị",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "KSCQ",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Nghiên cứu các thuật toán liên quan giải bài toán tìm đường đi bao phủ cho robot, ứng dụng trong các robot thăm dò, tìm kiếm, lau nhà."
+    },
+    {
+        "id": 64,
+        "Tên giảng viên": "Ngô Văn Linh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Các bài toán liên quan đến xử lý ngôn ngữ tự nhiên",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Các đề tài liên quan Deep learning trong NLP về: - Question and answering - Text Summarization - Event detection - Relation extraction - Machine translation - ..."
+    },
+    {
+        "id": 65,
+        "Tên giảng viên": "Ngô Văn Linh",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Các bài toán về Machine learning",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "- Xây dựng các thuật toán machine learning - Áp dụng các thuật toán machine learning vào các bài toán thực tế"
+    },
+    {
+        "id": 66,
+        "Tên giảng viên": "Nguyễn Hữu Đức",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Mô hình phần mềm cho điện toán đám mây",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, KSCQ, KSTN, CTTT, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 67,
+        "Tên giảng viên": "Nguyễn Hữu Đức",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Thu thập, lưu trữ và phân tích dữ liệu từ web",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "CNTH, KSCQ, KSTN, CTTT, CNKH, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": ""
+    },
+    {
+        "id": 68,
+        "Tên giảng viên": "Lê Tấn Hùng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Ứng dụng Hiện thực ảo - VR AR trong bài toán mô phỏng, đào tạo, tập lái",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "2",
+        "Chi tiết": "Công nghệ: Nghiên cứu về VR AR Nghiên cứu Phát triển các hệ thống VR /AR trên Unity hoặc các nền tảng khác Ứng dụng: Phát triển Game/ ứng dụng Multimedia trên nền tảng đó Các bài toán thương mại điện tử có ứng dụng ẢR và VR ( Các công ty sẽ hỗ trợ SV trong thời gian làm đồ án - nếu SV có nhu cầu )"
+    },
+    {
+        "id": 69,
+        "Tên giảng viên": "Lê Tấn Hùng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phân tích dữ liệu và áp dụng trong dữ liệu Chứng khoán và giao dịch tài sản ảo",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": "1. Hệ thống phân tích lợi nhuận và độ biến động trong chứng khoán, Crypto 2. Hệ thống phân tích động lượng 3. Hệ thống phân tích xu hướng dòng tiền 4. Hệ thống phân tích yếu tố mùa vụ, chu kỳ (seasonal) 5. Hệ thống cơ cấu danh mục đầu tư (rổ cổ phiếu) 6. Hệ thống quản lý chiến lược đầu tư - Công nghệ: Big data - Ứng dụng: hệ thống phân tích/gợi ý chứng khoán Loại 2: 7. Tìm hiểu, xây dựng ứng dụng chat bot phục vụ lĩnh vực chứng khoán - Công nghệ: chatbot - Ứng dụng: chat trong ứng dụng chứng khoán 8. Tìm hiểu RPA ứng dụng cho hoạt động chứng khoán (đồ án môn học – tìm hiểu tool như Uipath) - Công nghệ: RPA - Ứng dụng: hoạt động tự động hóa cho giao dịch/hoạt động chứng khoán"
+    },
+    {
+        "id": 70,
+        "Tên giảng viên": "Lê Tấn Hùng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phát triển các phân hệ ERP nền mở cho doanh nghiệp",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "3",
+        "Chi tiết": "Công nghệ: Nghiên cứu các mô hình doanh nghiệp, Phân tích mô hình hoạt động doanh nghiệp Tìm hiểu Platform ERP mở: Odoo ( open ERP). ...... hoặc đóng của cty bạn tham gia Cài đặt tịch hợp, bổ sung chức năng, extention, module Xây dựng ứng dụng quy theo quy trình của từng phân hệ hay lĩnh vực ( Các công ty sẽ hỗ trợ SV trong thời gian làm đồ án - nếu SV có nhu cầu )"
+    },
+    {
+        "id": 71,
+        "Tên giảng viên": "Lê Tấn Hùng",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Nghiên cứu ứng dụng AI vào Sinh học, Y tế",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "Không xác định",
+        "Số SV": "3",
+        "Chi tiết": "Phát triển AI với các tính năng 1. Xử lý hình ảnh chụp hiển vi mẫu lên men, nhận diện được chính xác tế bào nấm men trong các điều kiện lẫn tạp vật thể khác. 2 Từ các tế bào đã nhân diện, tiến hành phân tích thống kê số lượng, đo đạc kích thước và phân tích hình thái tế bào (sử dụng các thuật toán liên quan Image Analysis). 3. Từ sự biến đổi số lượng, kích thước và hình thái trong quá trình lên men, dự đoán hiệu quả lên men (nồng độ sản phẩm). Có dữ liệu đầy đủ cho nghiên cứu,"
+    },
+    {
+        "id": 72,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Machine Learning",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Tìm hiểu những công nghệ mới của Machine Learning và ứng dụng vào thực tế: - Continual/Streaming/Online/Lifelong Learning. - Deep neural networks. - Generative models for data generation: GAN, VAE, ResGAN, LDA, GMM, HMM, ... - ML for music generation,... Vài đề tài đã hướng dẫn: - Dropout vô hạn. - Hiệu quả của các phương pháp học ngẫu nhiên trên dữ liệu văn bản ngắn. - Nghiên cứu, đánh giá hiệu quả một số mô hình học máy cho bài toán phân loại đa nhãn. - Nén mạng nơron cho thiết bị yếu. - Hoán đổi khuôn mặt với StyleGAN2. - Áp dụng mạng hồi quy vào hệ gợi ý sử dụng phiên làm việc. - Gợi ý lai giữa mạng nơron và phân rã ma trận Poisson."
+    },
+    {
+        "id": 73,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Big Data Challenge",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 74,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Deep Learning and applications",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Định hướng: - Học sâu trong môi trường liên tục thay đổi - Mạng nơron có khả năng học suốt đời - Các mô hình sinh: GAN, VAE, Auto-Encoder, Diffusion models, ... - Học cách vẽ tranh, ảnh, videos, nhạc, ... - Nén mạng nơron Vài đề tài đã hướng dẫn: - Chuyển đổi khuôn mặt với StyleGAN - Học để sinh ảnh hoạt hình - Nén mạng nơron - Mạng nơron Bayes - Ứng dụng mạng LSTM vào gán nhãn chuỗi - Mô hình Neural Collaborative Filtering cho bài toán gợi ý sử dụng phản hồi ẩn từ người dùng - Mạng hồi quy trong hệ gợi ý sử dụng phiên làm việc - Gợi ý lai giữa mạng nơron và phân rã ma trận Poisson"
+    },
+    {
+        "id": 75,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Softwares with intelligent recommendation, prediction, interaction,…",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Vài đề tài đã hướng dẫn: - Nghiên cứu sử dụng phản hồi ngầm từ người dùng trong hệ gợi ý - Mô hình Neural Collaborative Filtering cho bài toán gợi ý sử dụng phản hồi ẩn từ người dùng - Áp dụng mạng hồi quy vào hệ gợi ý sử dụng phiên làm việc"
+    },
+    {
+        "id": 76,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Methods for analyzing big data",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Vài đề tài đã hướng dẫn: - Dropout khi học từ dữ liệu vô hạn. - Hiệu quả của các phương pháp học ngẫu nhiên trên dữ liệu văn bản lớn và ngắn. - Áp dụng mạng hồi quy vào hệ gợi ý sử dụng phiên làm việc. - Enabling HDP to work better for short texts at large scale. - Eliminating overfitting of probabilistic topic models on short and noisy text: The role of Dropout."
+    },
+    {
+        "id": 77,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Recommender systems",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Tìm hiểu những công nghệ mới và xây dựng hệ gợi ý sản phẩm/phim/sách, ... Vài đề tài đã hướng dẫn: - Nghiên cứu sử dụng phản hồi ngầm từ người dùng trong hệ gợi ý. - Mô hình Neural Collaborative Filtering cho bài toán gợi ý sử dụng phản hồi ẩn từ người dùng. - Hệ gợi ý với phân rã ma trận Poisson và dropout. - Áp dụng mạng hồi quy vào hệ gợi ý sử dụng phiên làm việc. - Gợi ý lai giữa mạng nơron và phân rã ma trận Poisson."
+    },
+    {
+        "id": 78,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Analyzing social networks",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Vài đề tài đã hướng dẫn: - Xây dựng hệ thống thu thập và phân loại bài đăng trên các facebook fanpage. - Xây dựng hệ thống thu thập và phân tích quan điểm của người dùng trên facebook."
+    },
+    {
+        "id": 79,
+        "Tên giảng viên": "Thân Quang Khoát",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Methods for prediction of users’ behaviors, interests, mood, …",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Vài đề tài đã hướng dẫn: - Xây dựng hệ thống thu thập và phân loại bài đăng trên các facebook fanpage - Nghiên cứu sử dụng phản hồi ngầm từ người dùng trong hệ gợi ý - Mô hình Neural Collaborative Filtering cho bài toán gợi ý sử dụng phản hồi ẩn từ người dùng - Áp dụng mạng hồi quy vào hệ gợi ý sử dụng phiên làm việc"
+    },
+    {
+        "id": 80,
+        "Tên giảng viên": "Trịnh Thành Trung",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Phát triển ứng dụng tương tác trên Metaverse",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "1",
+        "Chi tiết": "Metaverse là thế giới ảo, có thể được tham gia thông qua trò chơi (như Second Life), hoặc tương tác qua AR/VR (vd Horizon Worlds, VR Chat, RecRoom). Có rất nhiều tương tác có thể được xây dựng trong thế giới ảo, tương tự như các tương tác ở thế giới thật, chẳng hạn như mua sắm, xem phim, trò chuyện v.v.. Sinh viên nghiên cứu và phát triển một ứng dụng cơ bản mô phỏng một tương tác. Nâng cao hơn, sinh viên tìm hiểu những khó khăn của phương pháp đó khi mô phỏng trong thế giới ảo và đề xuất phương pháp để khắc phục. Độ khó: Trung bình - Phức tạp"
+    },
+    {
+        "id": 81,
+        "Tên giảng viên": "Trịnh Thành Trung",
+        "Khoa": "Khoa Khoa học Máy tính",
+        "Tên đề tài": "Tạo địa hình không giới hạn",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "1",
+        "Chi tiết": "Mục tiêu: Phát triển ứng dụng đồ họa mô phỏng địa hình không giới hạn: Ứng dụng có thể tự động sinh ra các loại địa hình khác nhau một cách ngẫu nhiên hoặc theo các mẫu cho trước. Mở rộng hơn, các địa hình này có thể bị thay đổi khi có tác động của người dùng (cháy, nổ…) Độ khó: Tương đối phức tạp"
+    },
+    {
+        "id": 82,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Tính toán chiều cao vật thể từ mô hình bề mặt số tính toán từ ảnh ghép chụp từ máy bay không người lái (drone)",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, ThSKH, ThSKT, VB2",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Ảnh chụp từ máy bay không người lái (drone) có rất nhiều ứng dụng trong thực tế. Một trong các ứng dụng thực tế là khi bay drone chụp nhiều ảnh với tỷ lệ chồng lên nhau lớn (70-80%) cho phép ghép nhiều ảnh nhỏ thành một ảnh khu vực lớn, phục vụ cho bài toán quy hoạch cũng như phân lớp các đối tượng trên mặt đất. Bên cạnh ảnh ghép, một sản phẩm đầu ra của bài toán này là dữ liệu mô hình bề mặt số (Digital Surface Model), cho biết cao độ của từng điểm ảnh tương ứng. Từ những dữ liệu mô hình bề mặt số này có thể trích xuất được độ cao của từng vật thể tương ứng, từ đó áp dụng cho các bài toán như phân đoạn ảnh, đo thể tích các tòa nhà hay đo sinh khối của một khu rừng Yêu cầu đặt ra với đề tài này là việc tính toán chính xác độ cao của từng vật thể (ứng với từng điểm ảnh) để từ đó áp dụng vào các bài toán tương ứng. Để thực hiện việc này có thể áp dụng nhiều giải pháp khác nhau, từ áp dụng các kỹ thuật thuật toán thông thường đến sử dụng các mô hình học sâu như các mô hình Diffusion để dự đoán mô hình mặt đất số hoặc dự đoán trực tiếp độ cao từng điểm ảnh. Các kết quả hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
+    },
+    {
+        "id": 83,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh tần suất lớn (Himawari-8 10 phút/ảnh) để đánh giá mức độ ảnh hưởng của đảo nhiệt lên các thành phố ở Việt Nam",
+        "Loại đề tài": "TTTN, ĐAMH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, ThSKH, ThSKT",
+        "Số SV": "2",
+        "Chi tiết": "Trong các vệ tinh viễn thám, vệ tinh địa tĩnh với vị trí cố định so với trái đất cho phép thu nhận dữ liệu liên tục với tần suất lớn (nhiều lần/giờ), cho phép triển khai các nghiên cứu trước đây chưa làm được. Một trong những vệ tinh viễn thám địa tĩnh thông dụng hiện nay là vệ tinh Himawari-8 với tần suất thu nhận ảnh là 10 phút/ảnh. Đồng thời vệ tinh này thu nhận dữ liệu trên nhiều dải tần khác nhau như ảnh màu RGB, ảnh cận nhiệt và ảnh tầm nhiệt. Với các dữ liệu tầm nhiệt cho phép thu nhận nhiệt độ trên mặt đất cho phép thực hiện các bài toán liên quan. Một trong những vấn đề lớn với các quốc gia là hiện tượng đảo nhiệt, khi nhiệt độ ở trong thành phố có có sự chênh lệch so với ở khu vực ngoại ô do sự phát triển của các công trình xây dựng cũng như hoạt động của con người (phương tiện giao thông, điều hòa). Tại Việt Nam, mặc dù tác động của đảo nhiệt là khá rõ ràng nhưng việc có các nghiên cứu đánh giá đầy đủ về mức độ tăng nhiệt độ trong khu vực đô thị và ngoại ô cũng như tác động của quá trình đô thị hóa là chưa đầy đủ. Một trong những hạn chế của các nghiên cứu hiện tại là chưa đánh giá được sự chênh lệch nhiệt độ trong những giai đoạn thời tiết khắc nghiệt (như đợt nắng nóng hay đợt gió mùa) để đánh giá sự sai khác. Việc sử dụng dữ liệu nhiệt Himawari-8 cho phép thực hiện được việc này một cách chính xác và đầy đủ. Yêu cầu đặt ra là phải cần giải quyết là tính toán nhiệt độ trên bề mặt từ dữ liệu tầm nhiệt, giám sát nhiệt độ liên tục, lọc nhiễu (thường gây ra do mây mù hay bầu khí quyển). Nhiệm vụ tiếp theo là phát hiện các giai đoạn thời tiết khắc nghiệt (qua việc lọc giai đoạn) và từ đó đánh giá mức độ ảnh hưởng của đảo nhiệt lên nhiệt độ đô thị và ngoại ô Việt Nam. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
+    },
+    {
+        "id": 84,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Đánh giá ảnh hưởng của góc chiếu mặt trời lên sinh trưởng của rừng nhiệt đới Đông Nam Á sử dụng ảnh vệ tinh MODIS",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ, ThSKH, ThSKT",
+        "Số SV": "1",
+        "Chi tiết": "Xử lý ảnh viễn thám (phần lớn là ảnh vệ tinh) là một trong những lĩnh vực kết hợp giữa xử lý ảnh (image processing) và hệ thống thông tin địa lý (Geographic Information System) giúp giải quyết các vấn đề trên mặt đất ở diện rộng mà thông thường rất khó có thể đánh giá toàn diện nếu chỉ dựa vào các dữ liệu đơn lẻ trên mặt đất. Các ứng dụng có thể giải quyết bằng xử lý ảnh viễn thám rất đa dạng, từ đánh giá sự thay đổi phân bố trên bề mặt nhất là các thành phố, phát hiện rác thải nhựa trên mặt nước, đánh giá mức độ phủ của rừng cũng như phát hiện phá rừng, theo dõi và đánh giá sự thay đổi nhiệt độ bề mặt cùng ảnh hưởng của nó đến sức khỏe con người, giám sát sự phát triển của cây xanh và phát hiện các yếu tố bất thường như dịch bệnh, hoặc thậm chí có thể phát hiện các thành phần khoáng sản trong đất đai. Yêu cầu cụ thể đối với đề tài đồ án tốt nghiệp này như sau: - Yêu cầu sinh viên: cần có kiến thức về xử lý ảnh. Nếu đã từng làm việc qua đồ án môn học hoặc các môn project về xử lý ảnh viễn thám giúp tiết kiệm thời gian. - Sinh viên cần xử lý ảnh vệ tinh MODIS về cây xanh cũng như các dữ liệu MODIS về thông số mô hình hóa BRDF. - Sinh viên cần đánh giá sự thay đổi góc chiếu theo mùa phụ thuộc vào kinh độ và vĩ độ - Sinh viên cần nghiên cứu và thực hiện thuật toán (công thức) để chuẩn hóa dữ liệu MODIS về cùng một góc chiếu sử dụng thông số mô hình hóa BRDF. Sau đó đánh giá sự sai khác dữ liệu chưa chuẩn hóa và đã chuẩn hóa góc chiếu. - Từ đó, đánh giá sự sai khác dữ liệu này ảnh hưởng thế nào đến sự thay đổi tín hiệu của rừng nhiệt đới theo mùa và theo năm, cũng như các tham số sinh học trích chọn từ dữ liệu theo mùa này. - Kết quả đề tài tốt có thể thực hiện công bố lên các tạp chí khoa học liên quan."
+    },
+    {
+        "id": 85,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu ảnh hưởng và chuẩn hóa góc chiếu mặt trời và vệ tinh đến việc thu nhận dữ liệu giữa ảnh vệ tinh MODIS/VIIRS và ảnh vệ tinh địa tĩnh Himawari-8",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, ThSKH, ThSKT",
+        "Số SV": "3",
+        "Chi tiết": "Trong thị giác máy tính, việc thu nhận ảnh của cùng một đối tượng có thể khác nhau tùy thuộc vào góc chiếu giữa đối tượng, nguồn sáng và cảm biến (máy ảnh) thu nhận. Đối với ảnh thu nhận từ vệ tinh, việc thu nhận ảnh cũng gặp vấn đề tương tự, nhất là với đối tượng được thu nhận dài hạn (theo mùa, theo năm, theo nhiều năm) như đo sự sinh trưởng rừng, lúa, cây nông nghiệp. Vị trí của mặt trời (nguồn sáng) thay đổi theo mùa, vị trí của vệ tinh cũng không phải cố định trên bầu trời. Do đó việc đánh giá sự thay đổi đối tượng theo thời gian là sự tổng hòa giữa sự thay đổi thực sự của đối tượng (như khi lúa sinh trưởng, phát triển, trổ bông,…) và sự thay đổi do sự thay đổi mặt trời theo mùa. Việc đánh giá, chuẩn hóa dữ liệu này vô cùng quan trọng nhằm loại bỏ sự tác động của sự thay đổi góc chiếu và đánh giá chính xác sự thay đổi theo thời gian của đối tượng. Ngoài ra, việc này còn giúp kết hợp dữ liệu giữa các vệ tinh với nhau, do mỗi vệ tinh thường chỉ có thời hạn hoạt động khoảng 7-10 năm. Muốn đánh giá sự thay đổi của đối tượng qua nhiều thập kỷ cần sự kết hợp của nhiều loại vệ tinh với các thiết kế về góc chiếu khác nhau. Trong bài toán này, nhiệm vụ chính là đánh giá tác động của góc chiếu đến việc thu nhận thông tin giữa ảnh MODIS và ảnh VIIRS (vốn được thiết kế để thay thế cho MODIS). Do 2 vệ tinh không hoàn toàn giống nhau nên tác động của góc chiếu lên các chỉ số cây xanh (được tính từ ảnh thô để đo sinh trưởng của cây xanh) cũng sẽ khác nhau. Khi đó, việc đánh giá tác động của góc chiếu lên dữ liệu ảnh MODIS và VIIRS là cần thiết để từ đó đưa ra được sai số cũng như kết hợp, tiếp nối việc thám sát cùng đối tượng được đồng nhất. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
+    },
+    {
+        "id": 86,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh tần suất lớn (Himawari-8 10 phút/ảnh) để giám sát nhiệt độ bề mặt và phát hiện bất thường về nhiệt độ",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ, ThSKH, ThSKT",
+        "Số SV": "2",
+        "Chi tiết": "Trong các vệ tinh viễn thám, vệ tinh địa tĩnh với vị trí cố định so với trái đất cho phép thu nhận dữ liệu liên tục với tần suất lớn (nhiều lần/giờ), cho phép triển khai các nghiên cứu trước đây chưa làm được. Một trong những vệ tinh viễn thám địa tĩnh thông dụng hiện nay là vệ tinh Himawari-8 với tần suất thu nhận ảnh là 10 phút/ảnh. Đồng thời vệ tinh này thu nhận dữ liệu trên nhiều dải tần khác nhau như ảnh màu RGB, ảnh cận nhiệt và ảnh tầm nhiệt. Với các dữ liệu tầm nhiệt cho phép thu nhận nhiệt độ trên mặt đất cho phép thực hiện các bài toán liên quan. Một trong những ứng dụng quan trọng của dữ liệu nhiệt của Himawari-8 là việc phát hiện bất thường về nhiệt độ, đóng vai trò quan trọng trong việc phát hiện cháy gần thời gian thực. Yêu cầu đặt ra là phải cần giải quyết là tính toán nhiệt độ trên bề mặt từ dữ liệu tầm nhiệt, giám sát nhiệt độ liên tục, lọc nhiễu (thường gây ra do mây mù hay bầu khí quyển) và đưa ra cảnh báo khi có tăng nhiệt đột ngột. Ngoài ra, việc giám sát dữ liệu định kỳ hàng năm cũng có thể đưa ra cảnh báo về khả năng gây cháy khi mức nhiệt hiện tại cao hơn so với hàng năm. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
+    },
+    {
+        "id": 87,
+        "Tên giảng viên": "Bành Thị Quỳnh Mai",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Mạng cảm biến không dây",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Thu thập, đo đạc dữ liệu mạng cảm biến không dây WSN, tối ưu hoá hoạt động mạng cảm biến không dây trong IoT"
+    },
+    {
+        "id": 88,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nén video ngữ nghĩa dùng mô hình CNN và ứng dụng (Semantic Video Compression using CNN and applications)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 89,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nhận dạng cảm xúc dùng mô hình hợp nhất đa thể thức và kỹ thuật học sâu (Emotion Recognition Using Multimodal Fusion Models and Deep Learning)",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 90,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện và theo dõi người/ đối tượng chuyển động trong video (Motion Human/ Object Detection and Tracking in video)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, KSTN, CTTT, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 91,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển các ứng dụng thị giác máy tính và AI (Developed applications for Computer Vision and AI))",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 92,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nén ảnh/ video với kỹ thuật học sâu - CNN (Image and Video Compression with Deep Learning - CNN)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 93,
+        "Tên giảng viên": "Nguyễn Thị Hoàng Lan",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển các ứng dụng công nghệ Web (Website, Web applications)",
+        "Loại đề tài": "ĐATN, ĐAMH",
+        "Hệ": "CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 94,
+        "Tên giảng viên": "Trần Quang Đức",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu, phát triển hệ thống hỗ trợ truyền dòng theo thời gian thực trong môi trường mạng Internet",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "KSCQ",
+        "Số SV": "2",
+        "Chi tiết": "Nghiên cứu, phát triển hệ thống hỗ trợ truyền dòng theo thời gian thực trong môi trường mạng Internet"
+    },
+    {
+        "id": 95,
+        "Tên giảng viên": "Trần Quang Đức",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng, phát triển hệ thống phát hiện DGA dựa trên phân tích đặc điểm hành vi mã độc",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Không xác định",
+        "Số SV": "2",
+        "Chi tiết": "Xây dựng, phát triển hệ thống phát hiện mã độc DGA dựa trên phân tích đặc điểm hành vi"
+    },
+    {
+        "id": 96,
+        "Tên giảng viên": "Trần Hải Anh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng Federated Learning vào xử lý tính toán biên (edge computing) để giải quyết các bài toán liên quan đến BioInformatics trong mạng SDN phân tán",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Ứng dụng xử lý tính toán biên đã mang lại rất nhiều lợi ích cho việc giải quyết các bài toán BioInformatics như: giảm độ trễ, tăng độ riêng tư, cải thiện khả năng co giãn, và yêu cầu giảm băng thông. Việc áp dụng AI vào giải quyết các bài toán BioInformatics đã trở thành xu thế tất yếu, tuy nhiên, thực hiện huấn luyện đơn lẻ ở các miền độc lập ở biên mạng trở nên không hiệu quả. Federated Learning là một giải pháp tiềm năng cho vấn đề này. Đề tài hướng đến ứng dụng FL vào xử lý tính toán biên (edge computing) để giải quyết các bài toán liên quan đến BioInformatics trong mạng SDN phân tán."
+    },
+    {
+        "id": 97,
+        "Tên giảng viên": "Trần Hải Anh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng Transfer Learning vào giải quyết bài toán dự đoán ma trận lưu lượng cho mạng SDN phân tán",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": "Ma trận lưu lượng (MTLL) biểu diễn thông tin về lưu lượng và sự phân bố các luồng lưu lượng bên trong hệ thống mạng. MTLL đóng một vai trò quan trọng trong nhiều lĩnh vực quản trị mạng, vd: hạch toán lưu lượng, lập lịch hoặc định tuyến lại lưu lượng trong thời gian ngắn, thiết kế mạng, phát hiện bất thường, v.v... Do đó, việc dự đoán MTLL chính xác là điều cần thiết để xử lý sớm các tác vụ đó một cách hiệu quả. May mắn thay, Trí tuệ nhân tạo (AI) đã và đang phát triển rất mạnh mẽ nhờ sự phát triển của công nghệ máy tính như GPU và TPU. Điều đó mang lại cơ hội ứng dụng AI vào các phương pháp dự đoán MTLL. Tuy nhiên, việc áp dụng các kỹ thuật Học máy trong các mạng truyền thống gặp phải một số vấn đề do điều khiển phân tán và tầm điều khiển cục bộ của các nút mạng bị hạn chế. Kiến trúc điều khiển tập trung của Mạng khả trình (Software-defined Network - SDN), là một giải pháp đầy hứa hẹn. Tuy nhiên, việc áp dụng các kỹ thuật học máy (Machine Learning - ML) cho một mạng SDN phân tán trở nên phức tạp với quá trình huấn luyện diễn ra phân tán ở nhiều miền SDN. Từ đó, đề tài hướng đến ứng dụng kỹ thuật Học chuyển giao (Transfer Learning) để có thể truyền tri thức từ những miền đã được huấn luyện tới những miền mới và ít dữ liệu. Từ đó, mỗi miền có thể xây dựng thành công những mô hình dự đoán MTLL với độ chính xác cao."
+    },
+    {
+        "id": 98,
+        "Tên giảng viên": "Trần Hải Anh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng trang web thương mại điện tử",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "5",
+        "Chi tiết": "Trong thời kỳ chuyển đổi số đang ngày càng phát triển với quy mô rộng khắp, việc thiết kế và xây dựng các hệ thống thương mại điện tử trở nên rất cần thiết. Đề tài giúp sinh viên rèn luyện các kỹ năng phân tích thiết kế hệ thống và phát triển một hệ thống thương mại điện tử có khả năng được ứng dụng."
+    },
+    {
+        "id": 99,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng giải pháp quản lí mạng trong mạng thế hệ mới",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "3",
+        "Chi tiết": "Việc quản lí mạng đóng vai trò quan trọng đối với các nhà mạng (Vietel, VNPT, v.v.). Một trong số đó là bài toán định tuyến nhằm tối ưu hiệu năng của hệ thống mạng về băng thông, độ mất mát gói tin. Tuy nhiên, các giải pháp truyền thống thông qua việc tìm đường đi ngắn nhất lại không hiệu quả, đặc biệt là trong mạng thế hệ mới như ngày nay. Mục tiêu của đồ án là xây dựng một thuật toán định tuyến nhằm tối ưu hiệu năng mạng trong mạng thế hệ mới. Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về mạng thế hệ mới (cấu hình, triển khai) cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
+    },
+    {
+        "id": 100,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện lỗ hổng trong smart contract của Blockchain sử dụng mã nguồn",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "3",
+        "Chi tiết": "Nhắc tới tiền ảo thì chúng ta thường hay nghĩ tới Bitcoin hay Ether. Các loại tiền ảo này được tạo ra nhờ công nghệ Blockchain. Ngoài ứng dụng về tiền ảo, Blockchain còn có một ứng dụng nổi bật khác là smart contact, ứng dụng cung cấp các hợp đồng cho bên mua và bên bán mà không cần thông qua bên trung gian. Smart contract được viết bởi các ngôn ngữ lập trình (Solidity, Python, v.v) nên rất dễ tồn tại những lỗ hổng. Bên cạnh đó, người tham gia vào mạng Blockchain rất đa dạng nên sẽ có những kẻ xấu muốn lợi dụng lỗ hổng trong các smart contract để trục lợi. Ví dụ, Ethereum đã mất hơn 60 triệu đô la Mỹ năm 2016 vì bị kẻ xấu lợi dụng lỗ hổng reentrancy để trục lợi. Tương tự như vậy, trong năm 2017, một lỗ hổng khác bị khai thác làm cho Ethereum thiệt hại hơn 280 triệu đô la Mỹ. Vì vậy, việc phát hiện lỗ hổng trong smart contract đóng vai trò rất quan trọng tron Blockchain. Trong quá khứ, đã có rất nhiều công cụ phát hiện lỗ hổng trong smart contract được phát triển như Oyente, Mythril, Dedaub, v.v. Tuy nhiên, thời gian xử lí của các công cụ này lớn trong khi độ chính xác chưa được tốt. Do đó, rất nhiều nghiên cứu đã tập trung vào giải pháp tự động phát hiện lỗ hổng trong smart contract sử dụng mã nguồn của smart contract và thuật toán học sâu (Deep Learning). Giải pháp này sẽ phân tích mã nguồn của smart contract để trích rút ra các đặc trưng ngữ nghĩa và cú pháp, từ đó phân tích các đặc trưng này sử dụng thuật toán học sâu để tự động xác định các kiểu lỗ hổng. Mục tiêu của đồ án là xây dựng một giải pháp tự động phát hiện lỗ hổng cho các smart contract trong các sàn tiền ảo hay các ứng dụng triển khai dựa vào Blockchain. Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về thuật toán học sâu cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
+    },
+    {
+        "id": 101,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển giải pháp hỗ trợ sửa lỗi tự động trong mã nguồn sử dụng mô hình ngôn ngữ lớn.",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Các sản phẩm phần mềm ngày nay thường được viết bằng các ngôn ngữ lập trình. Trong quá trình phát triển phần mềm, mặc dù các kiểm thử viên đã kiểm tra mã nguồn kĩ càng nhưng đôi khi vẫn bỏ sót một số lỗi hay lỗ hổng, việc này có thể dẫn đến nhiều tổn thất to lớn đối với các doanh nghiệp. Ngày nay, đã có rất nhiều giải pháp phát hiện lỗi hay lỗ hổng tự động. Tuy nhiên, việc gợi ý để vá lối hay lỗ hổng lại chưa được quan tâm đầy đủ. Đề tài này phát triển giải pháp hỗ trợ sửa lỗi tự động trong mã nguồn sử dụng mô hình ngôn ngữ lớn."
+    },
+    {
+        "id": 102,
+        "Tên giảng viên": "Tống Văn Vạn",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phân loại lưu lượng mạng mã hóa cho các nhà mạng",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Không xác định",
+        "Số SV": "3",
+        "Chi tiết": "Phân loại lưu lượng mạng đóng vai trò quan trọng trong việc quản lí mạng cho các nhà cung cấp dịch vụ mạng (Vietel, VNPT, v.v.). Mục đích của việc phân loại lưu lượng mạng là để xác định các kiểu ứng dụng ứng với các luồng lưu lượng mạng (truyền video, truyền file, VoIP, v.v), từ đó triển khai các giải pháp thích nghi cho từng kiểu ứng dụng này và đáp ứng các yêu cầu khác nhau của người dùng. Ví dụ, các cơ chế định tuyến hướng ứng dụng nhằm tối ưu các tham số mạng theo yêu cầu của người dùng (độ trễ, độ mất mát gói tin, băng thông, v.v), hệ thống phát hiện xâm nhập, chặn các luồng lưu lượng mạng theo yêu cầu của các cơ quan, v.v. Mục tiêu của đồ án là xây dựng một giải pháp phân loại lưu lượng mạng mã hóa cho các nhà cung cấp dịch vụ mạng sử dụng thuật toán học sâu (Deep Learning). Thông qua đồ án này, sinh viên sẽ có thêm kiến thức và kĩ năng về thuật toán học sâu cũng như các kĩ năng đọc báo cáo, làm việc nhóm. Ngoài ra sinh viên còn có cơ hội tham gia viết bài báo nghiên cứu khoa học nếu thu được kết quả tốt."
+    },
+    {
+        "id": 103,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát triển các hệ thống nhúng/IoT",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 104,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu về CPU hiệu năng cao (Proposing techniques for high-performance CPUs)",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 105,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu tối ưu thuật toán trên GPU với CUDA (Algorithm optimization for GPUs using CUDA)",
+        "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 106,
+        "Tên giảng viên": "Đỗ Công Thuần",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu các mô hình AI phù hợp cho các hệ thống IoT (AI models for IoT-based system)",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 107,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phương pháp học tăng cường và áp dụng giải quyết các bài toán trong lĩnh vực mạng truyền thông và an toàn thông tin",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "2-3",
+        "Chi tiết": "Mục tiêu: Nghiên cứu tìm hiểu phương pháp học máy, học tăng cường. Áp dụng vào giải quyết các bài toán tối ưu, những bài toán quyết định có tính Markov. Nội dung: - Nghiên cứu các phương pháp học máy; - Nghiên cứu các quá trình quyết định Markov, phương pháp học tăng cường, và xấp xỉ ngẫu nhiên; - Áp dụng giải quyết các bài toán quyết định trong lĩnh vực mạng truyền thông và an toàn thông tin như giải quyết các bài toán tối ưu trong mạng, phát hiện tấn công mạng qua quan sát hành vi, ... - Lập trình: python, C, ..."
+    },
+    {
+        "id": 108,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện tấn công mạng bằng phát hiện bất thường dựa trên phân tích dữ liệu",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "2-3",
+        "Chi tiết": "Mục tiêu: sử dụng các phương pháp học máy (machine learning) trong phát hiện bất thường trong dữ liệu mạng. Nội dung: - Nghiên cứu, thử nghiệm các phương pháp học máy; - Nghiên cứu, thử nghiệm các phương pháp phân tích dữ liệu, trích chọn đặc trưng của tấn công mạng dựa vào phân tích dữ liệu, các phương pháp học sâu; - Phát triển thử nghiệm hệ thống phát hiện tấn công mạng. Tập trung vào phát hiện Botnet, phát hiện tấn công DDoS, phát hiện tấn công vào hệ thống web. Ngôn ngữ lập trình: Python, C, C++, Java, PHP"
+    },
+    {
+        "id": 109,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bảo mật dữ liệu cho giao tiếp device to device, IoT",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, KSCQ, SIE, KSTN, CTTT, KSCLC, ThSKT, HEDSPI",
+        "Số SV": "3-4",
+        "Chi tiết": "Mục tiêu: tìm hiểu, nghiên cứu và phát triển các phương pháp bảo vệ dữ liệu cho giao tiếp M2M. Nội dung: - NGhiên cứu, tìm hiểu, thử nghiệm các phương pháp đảm bảo kết nối an toàn trong giao tiếp M2M trong các hệ thống IoT. - Nghiên cứu các phương pháp cấp phát chứng thư số, mã hoá nhẹ trong môi trường tính toán giới hạn. - Phát triển thử nghiệm hệ thống cấp phát chứng thư số và sử dụng ký số, bảo mật dựa trên các thuật toán mã hoá hạng nhẹ;"
+    },
+    {
+        "id": 110,
+        "Tên giảng viên": "Nguyễn Linh Giang",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phát hiện và xử lý tấn công từ chối dịch vụ",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, ThSKT, HEDSPI",
+        "Số SV": "2-3",
+        "Chi tiết": "Mục tiêu: Tìm, phát hiện, theo dõi tác nhân gây ra tấn công từ chối dịch vụ DDoS bằng phương pháp học máy và phân tích dữ liệu. Nội dung: - Nghiên cứu, thử nghiệm các phương pháp học máy, trích chọn đặc trưng; - Nghiên cứu các phương pháp học sâu, - Phân tích đặc trưng của các dạng tấn công qua Botnet theo các các luồng dữ liệu mạng - Nghiên cứu và phân tích đặc điểm của các dạng Botnet DGA - NGhiên cứu các giải pháp giảm thiểu ảnh hưởng tấn công qua Botnet - Phát triển hệ thống phát hiện Botnet và giảm ảnh hưởng của Botnet Ngôn ngữ lập trình: Python, C, C++, Java, ..."
+    },
+    {
+        "id": 111,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng lý thuyết tối ưu hóa cho truyền thông và mạng",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+        "Số SV": "5",
+        "Chi tiết": "Phân bổ tài nguyên là một vấn đề cơ bản và quan trọng đối với các mạng không dây để đảm bảo mạng hoạt động hiệu quả và ổn định. Đặc biệt, trong mạng 5G và mạng 6G, nhiều nhu cầu dịch vụ mạng không dây khác nhau sẽ được yêu cầu. Đề tài này,nghiên cứu về lĩnh vực phân bổ tài nguyên trong mạng truyền thông 5G/6G. Đề tài đưa ra một cái nhìn tổng quan về vấn đề phân bổ tài nguyên trong các mạng không dây hiện nay và xem xét các phương pháp phân bổ tài nguyên dựa vào lý thuyết tối ưu hóa."
+    },
+    {
+        "id": 112,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng khoa học dữ liệu cho truyền thông và mạng",
+        "Loại đề tài": "ĐATN, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+        "Số SV": "5",
+        "Chi tiết": "Khoa học dữ liệu đã và đang được nghiên cứu rộng rãi. Truyền thông ngữ nghĩa gần đây được ứng dụng như một bước đột phá vượt ra ngoài định lý Shannon bằng cách truyền và nhận thông tin ngữ nghĩa thay vì các bit dữ liệu hoặc ký hiệu không quan tâm nội dung của nó. Đề tài này ứng dụng khoa học dữ liệu và truyền thông ngữ nghĩa để tăng hiệu suất truyền dẫn của hệ thống. Dữ liệu ở đây có thể là ảnh, video, hoặc văn bản."
+    },
+    {
+        "id": 113,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Ứng dụng trí tuệ nhân tạo, xử lý tín hiệu và cơ sở dữ liệu cho các thiết bị IoT",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNTH, KSCQ, IPE, LATS, ThSKH, ThSKT",
+        "Số SV": "5",
+        "Chi tiết": "Ứng dụng trí tuệ nhân tạo, xử lý tín hiệu, và cơ sở dữ liệu trong hệ thống thiết bị IoT có thể mang lại nhiều lợi ích, từ tối ưu hóa hiệu suất đến cải thiện khả năng dự đoán và quản lý dữ liệu. Đề tài định hướng ứng dụng, nhưng nếu sinh viên có kết quả mới, sáng tạo sẽ được hỗ trợ định hướng nghiên cứu."
+    },
+    {
+        "id": 114,
+        "Tên giảng viên": "Trịnh Văn Chiến",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bảo mật trong mạng 5G/6G",
+        "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+        "Số SV": "5",
+        "Chi tiết": "Lớp vật lý có vai trò quan trọng trong bảo mật của mạng không dây do tiềm năng cung cấp các giải pháp hiệu quả hơn để bảo vệ quyền riêng tư cho các mạng 5G cũng như cá thê hệ mạng tiếp theo. Các kỹ thuật bảo mật lớp vật lý bổ sung các tính năng mạnh mẽ có thể nâng cao các cơ chế dựa trên mật mã, bằng cách xem xét các thuộc tính của kênh vô tuyến. Mặc dù bảo mật lớp vật lý đã được nghiên cứu kỹ lưỡng trong thập kỷ qua, các kịch bản mới được mong đợi cho các mạng trong tương lai đặt ra những thách thức lớn đối với việc chấp nhận đầy đủ các kỹ thuật bảo mật lớp vật lý như một thành phần của các giải pháp bảo mật của mạng viễn thông tương lai. Đề tài này nghiên cứu các nguyên tắc cơ bản về lý thuyết thông tin của các chỉ số bảo mật ở lớp vật lý."
+    },
+    {
+        "id": 115,
+        "Tên giảng viên": "Nguyễn Kim Khánh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Xây dựng hệ sinh thái dựa trên kiến trúc RISC-V",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 116,
+        "Tên giảng viên": "Nguyễn Kim Khánh",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Tìm hiểu kiến trúc RISC-V và các kit phát triển",
+        "Loại đề tài": "ĐAMH",
+        "Hệ": "Không xác định",
+        "Số SV": "Không xác định",
+        "Chi tiết": ""
+    },
+    {
+        "id": 117,
+        "Tên giảng viên": "Bành Thị Quỳnh Mai",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Quản trị mạng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "Không xác định",
+        "Chi tiết": "Quản trị mạng doanh nghiệp vừa và nhỏ"
+    },
+    {
+        "id": 118,
+        "Tên giảng viên": "Trần Hoàng Hải",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu về ứng dụng các mô hình AI cho các bài toán bảo mật",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Tìm hiểu các mô hình AI cơ bản. Tìm hiểu các bộ dữ liệu tương ứng với nhiều bài toán bảo mật. Xây dựng mô hình, triển khai, kiểm thử Định hướng: Sinh viên sẽ có 1 kết quả là 1 bài báo Scopus, đồng hướng dẫn với Gs nước ngoài và có nhiều cơ hội lấy học bổng đi học SĐH."
+    },
+    {
+        "id": 119,
+        "Tên giảng viên": "Trần Hoàng Hải",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu về các vấn đề trong An ninh Mạng (Network Security), tập trung vào các kỹ thuật phát hiện xâm nhập",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "4",
+        "Chi tiết": "- Tìm hiểu về An ninh Mạng, Network Intrusion Detection System - Tìm hiểu các kỹ thuật phát hiện xâm nhập Signature-based, Anomaly Detection - Ứng dụng các công cụ phân tích và xử lý dữ liệu tăng tốc độ xử lý dữ liệu cho N-IDS - Tham gia xây dựng platform về phát hiện tấn công mạng Định hướng: Sinh viên sẽ có 1 kết quả là 1 bài báo Scopus, đồng hướng dẫn với Gs nước ngoài và có nhiều cơ hội lấy học bổng đi học SĐH."
+    },
+    {
+        "id": 120,
+        "Tên giảng viên": "Trần Hoàng Hải",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Bài toán tối ưu cho phân phối tài nguyên mạng",
+        "Loại đề tài": "Không xác định",
+        "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+        "Số SV": "3",
+        "Chi tiết": "Định hướng: Sinh viên được học cách làm nghiên cứu, đồng hướng dẫn với Gs nước ngoài và có nhiều cơ hội lấy học bổng đi học SĐH."
+    },
+    {
+        "id": 121,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh Landsat/Sentinel-2/MODIS để tính và đánh giá sự thay đổi bề mặt theo thời gian",
+        "Loại đề tài": "TT, TTTN, ĐAMH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ",
+        "Số SV": "5",
+        "Chi tiết": "Xử lý ảnh viễn thám (phần lớn là ảnh vệ tinh) là một trong những lĩnh vực kết hợp giữa xử lý ảnh (image processing) và hệ thống thông tin địa lý (Geographic Information System) giúp giải quyết các vấn đề trên mặt đất ở diện rộng mà thông thường rất khó có thể đánh giá toàn diện nếu chỉ dựa vào các dữ liệu đơn lẻ trên mặt đất. Với các nước phát triển, đây là một lĩnh vực được chú trọng phát triển cả ở các cơ quan nhà nước và doanh nghiệp tư nhân. Tại Việt Nam, đây là một lĩnh vực còn khá mới nhưng đã được quan tâm phát triển trong một vài năm gần đây như việc phóng vệ tinh VINASAT hay thành lập Trung tâm Vũ trụ Việt, cùng với sự quan tâm của một số doanh nghiệp lớn như Viettel. Các ứng dụng có thể giải quyết bằng xử lý ảnh viễn thám rất đa dạng, từ đánh giá sự thay đổi phân bố trên bề mặt nhất là các thành phố, phát hiện rác thải nhựa trên mặt nước, đánh giá mức độ phủ của rừng cũng như phát hiện phá rừng, theo dõi và đánh giá sự thay đổi nhiệt độ bề mặt cùng ảnh hưởng của nó đến sức khỏe con người, giám sát sự phát triển của cây xanh và phát hiện các yếu tố bất thường như dịch bệnh, hoặc thậm chí có thể phát hiện các thành phần khoáng sản trong đất đai. Qua đề tài này, sinh viên sẽ nắm được các vấn đề cơ bản trong việc xử lý và ứng dụng ảnh viễn thám vào một ứng dụng cụ thể ở mức đơn giản, bao gồm các nội dung chính sau: - Hiểu về đặc thù của ảnh viễn thám, bên cạnh ma trận ảnh là thông tin về kinh độ/vĩ độ của từng điểm ảnh cũng như hệ tọa độ chiếu lên mặt đất. - Cách tải và tiền xử lý các dữ liệu ảnh nén từ các cơ quan vũ trụ như NASA (Hoa Kỳ), hay ESA (Châu Âu) - Hiển thị các dữ liệu ảnh đã tiền xử lý để kiểm tra và đánh giá bằng phần mềm/ngôn ngữ liên quan (QGIS/ Python) - Cách sử dụng công cụ để xử lý (như Python hay Google Earth Engine) và phân tích dữ liệu (R, Python) ảnh để đạt được kết quả mong muốn. - Yêu cầu chung với sinh viên: là sinh viên năm thứ 3 trở đi có mong muốn học về xử lý ảnh (thị giác máy tính) và/hoặc trí tuệ nhân tạo. - Đối với đề tài “Sử dụng ảnh vệ tinh Landsat/Sentinel-2 để tính và đánh giá sự thay đổi bề mặt các thành phố theo thời gian”, sinh viên sẽ được tiếp cận một trong các dữ liệu vệ tinh như Landsat-8 (30-m, 16 ngày/ ảnh), Sentinel-2 (10-m, 6 ngày/ảnh) hay MODIS VI (250-m, 16 ngày/ảnh). - Mục tiêu chính là sinh viên qua xử lý có thể thấy được sự thay đổi mật độ cây xanh/ mặt nước giảm do sự phát triển xây dựng các đô thị, cơ sở hạ tầng (như đường sắt). Một hướng tiếp cận khác của đề tài là đánh giá mức độ phủ của rừng theo thời gian. Ngoài ra, sinh viên có thể đánh giá thêm sự thay đổi nhiệt độ liên quan đến sự thay đổi hạ tầng."
+    },
+    {
+        "id": 122,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Nghiên cứu ảnh hưởng và chuẩn hóa góc chiếu mặt trời và vệ tinh đến việc thu nhận dữ liệu giữa ảnh vệ tinh MODIS và VIIRS",
+        "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, IPE, ThSKH, ThSKT",
+        "Số SV": "2",
+        "Chi tiết": "Trong thị giác máy tính, việc thu nhận ảnh của cùng một đối tượng có thể khác nhau tùy thuộc vào góc chiếu giữa đối tượng, nguồn sáng và cảm biến (máy ảnh) thu nhận. Đối với ảnh thu nhận từ vệ tinh, việc thu nhận ảnh cũng gặp vấn đề tương tự, nhất là với đối tượng được thu nhận dài hạn (theo mùa, theo năm, theo nhiều năm) như đo sự sinh trưởng rừng, lúa, cây nông nghiệp. Vị trí của mặt trời (nguồn sáng) thay đổi theo mùa, vị trí của vệ tinh cũng không phải cố định trên bầu trời. Do đó việc đánh giá sự thay đổi đối tượng theo thời gian là sự tổng hòa giữa sự thay đổi thực sự của đối tượng (như khi lúa sinh trưởng, phát triển, trổ bông,…) và sự thay đổi do sự thay đổi mặt trời theo mùa. Việc đánh giá, chuẩn hóa dữ liệu này vô cùng quan trọng nhằm loại bỏ sự tác động của sự thay đổi góc chiếu và đánh giá chính xác sự thay đổi theo thời gian của đối tượng. Ngoài ra, việc này còn giúp kết hợp dữ liệu giữa các vệ tinh với nhau, do mỗi vệ tinh thường chỉ có thời hạn hoạt động khoảng 7-10 năm. Muốn đánh giá sự thay đổi của đối tượng qua nhiều thập kỷ cần sự kết hợp của nhiều loại vệ tinh với các thiết kế về góc chiếu khác nhau. Trong bài toán này, nhiệm vụ chính là đánh giá tác động của góc chiếu đến việc thu nhận thông tin giữa ảnh MODIS và ảnh VIIRS (vốn được thiết kế để thay thế cho MODIS). Do 2 vệ tinh không hoàn toàn giống nhau nên tác động của góc chiếu lên các chỉ số cây xanh (được tính từ ảnh thô để đo sinh trưởng của cây xanh) cũng sẽ khác nhau. Khi đó, việc đánh giá tác động của góc chiếu lên dữ liệu ảnh MODIS và VIIRS là cần thiết để từ đó đưa ra được sai số cũng như kết hợp, tiếp nối việc thám sát cùng đối tượng được đồng nhất. Kết quả đề tài hoàn thiện sẽ được công bố lên các tạp chí khoa học liên quan."
+    },
+    {
+        "id": 123,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Sử dụng ảnh vệ tinh Landsat/Sentinel-2 để đánh giá sự thay đổi bề mặt các thành phố theo thời gian và ảnh hưởng đến nhiệt độ bề mặt",
+        "Loại đề tài": "ĐATN",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, KSCQ, ThSKH, ThSKT",
+        "Số SV": "2",
+        "Chi tiết": "Xử lý ảnh viễn thám (phần lớn là ảnh vệ tinh) là một trong những lĩnh vực kết hợp giữa xử lý ảnh (image processing) và hệ thống thông tin địa lý (Geographic Information System) giúp giải quyết các vấn đề trên mặt đất ở diện rộng mà thông thường rất khó có thể đánh giá toàn diện nếu chỉ dựa vào các dữ liệu đơn lẻ trên mặt đất. Các ứng dụng có thể giải quyết bằng xử lý ảnh viễn thám rất đa dạng, từ đánh giá sự thay đổi phân bố trên bề mặt nhất là các thành phố, phát hiện rác thải nhựa trên mặt nước, đánh giá mức độ phủ của rừng cũng như phát hiện phá rừng, theo dõi và đánh giá sự thay đổi nhiệt độ bề mặt cùng ảnh hưởng của nó đến sức khỏe con người, giám sát sự phát triển của cây xanh và phát hiện các yếu tố bất thường như dịch bệnh, hoặc thậm chí có thể phát hiện các thành phần khoáng sản trong đất đai. Yêu cầu cụ thể đối với đề tài đồ án tốt nghiệp này như sau: - Yêu cầu sinh viên: cần có kiến thức về xử lý ảnh. Nếu đã từng làm việc qua đồ án môn học hoặc các môn project về xử lý ảnh viễn thám giúp tiết kiệm thời gian. - Sinh viên cần có/ học kỹ năng xử lý ảnh vệ tinh Landsat-8 (30-m, 16 ngày/ ảnh), Sentinel-2 (10-m, 6 ngày/ảnh) và MODIS (250-m, 16 ngày/ảnh). - Sinh viên cần phân tích sự thay đổi bề mặt bằng việc phân loại bề mặt của 1 trong các thành phố lớn ở Việt Nam (Hà Nội hay TP Hồ Chí Minh) theo thời gian. Việc phân loại có thể dựa vào phân loại truyền thống hoặc sử dụng các kỹ thuật học máy, học sâu. - Đánh giá sự thay đổi nhiệt độ chung và vấn đề đảo nhiệt (so sánh nhiệt độ nội đô và vùng nông thôn) do sự phát triển của đô thị đã xét đến ở trên. - Phân tích sự thay đổi nhiệt độ giữa các khu vực khác nhau trong thành phố (nhiều cây xanh, ít cây xanh, mật độ xây dựng, …) - Kết quả đề tài tốt có thể thực hiện công bố lên các tạp chí khoa học liên quan."
+    },
+    {
+        "id": 124,
+        "Tên giảng viên": "Trần Nguyên Ngọc",
+        "Khoa": "Khoa Kỹ thuật Máy tính",
+        "Tên đề tài": "Phân loại bề mặt của ảnh vệ tinh/drone bằng các kỹ thuật học sâu",
+        "Loại đề tài": "TT, TTTN, ĐAMH, SV NCKH",
+        "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, VB2",
+        "Số SV": "3",
+        "Chi tiết": "Một trong những ứng dụng của học máy/ học sâu là áp dụng để phân loại các ảnh bề mặt được chụp bởi vệ tinh hay các máy bay không người lái. Việc phân loại gặp phải các vấn đề cần giải quyết như cường độ sáng khác nhau với cùng vật thể (vd: bóng râm và ngoài nắng) hay các vấn đề che khuất vật thể (cây cối che các tòa nhà). Những trở ngại này có thể được khắc phục bằng việc áp dụng các thuật toán học sâu để giải quyết vấn đề, tăng cường độ chính xác của bài toán."
+    }
+]
