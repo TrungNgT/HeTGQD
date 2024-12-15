@@ -1,16 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import './Home.css';
-const removeAccents = require('remove-accents');
+import removeAccents from 'remove-accents';
+import eR from '../ExpertRel';
+
+function 
+
 const HomePage = () => {
-  const [mssv, setMssv] = useState('');
+  // const [mssv, setMssv] = useState('');
   const [khoa, setKhoa] = useState('');
+  const [he, setHe] = useState('');
   const [tenDeTai, setTenDeTai] = useState('');
   const [motaDeTai, setMotaDeTai] = useState('');
   const [giangVien, setGiangVien] = useState('');
   const [giangVienList, setGiangVienList] = useState([]);
   const [topGiangVien, setTopGiangVien] = useState([]);
   const [selectedGiangVien, setSelectedGiangVien] = useState([]);
-  const [he, setHe] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
   const [doanData, setDoanData] = useState([]); // Danh sách đồ án
   const khoaList = ['Khoa Khoa học Máy tính', 'Khoa Kỹ thuật Máy tính'];
@@ -59,25 +63,30 @@ const HomePage = () => {
   }, []); // Chạy một lần khi component được render lần đầu
   const getTopGiangVien = async ( tenDeTai, motaDeTai, doanData, selectedGiangVien) => {
     try {
+      /*
       // Gọi API search với tiêu đề và mô tả đề tài đã loại bỏ dấu
       const normalizedTenDeTai = removeAccents(tenDeTai);
       const normalizedMotaDeTai = removeAccents(motaDeTai);
+      */
+      const req = tenDeTai +' ' + motaDeTai;
+      console.log("this is" + req)
       const response = await fetch(
-        `http://localhost:3001/search?q=${normalizedTenDeTai}`
+        `http://localhost:3001/search?q=${req}`
       );
 
+      /*
       const response_description = await fetch(
         `http://localhost:3001/search?q=${normalizedMotaDeTai}`
       );
-  
+      */
       if (!response.ok) {
         throw new Error(`API request failed with status: ${response.status}`);
       }
-
+      /*
       if (!response_description.ok) {
         throw new Error(`API request failed with status: ${response_description.status}`);
       }
-  
+      */
   
       const searchResults = await response.json();
   
@@ -85,9 +94,11 @@ const HomePage = () => {
       const results = searchResults|| [];
       const maxScore = results.length > 0 ? results[0]._score : 1; // Điểm cao nhất
 
+      /*
       const searchResults_des= await response_description.json();
       const results_des = searchResults_des|| [];
       const maxScore_des = response_description.length > 0 ? results_des[0]._score : 1; // Điểm cao nhất
+      */
       //console.log(maxScore);
       // Duyệt qua danh sách giảng viên và tính toán điểm
       //console.log(doanData[0].Khoa + "   " +khoa);  
@@ -98,27 +109,42 @@ const HomePage = () => {
         const matchingRecords = results.filter(
           (record) => record._id=== gv.id.toString()
         );
-
+        /*
         const matchingRecords_des = results_des.filter(
           (record) => record._id=== gv.id.toString()
         );
+        */
         const totalScore =
           matchingRecords.reduce((sum, record) => sum + (record._score / maxScore), 0);
 
-        
+        /*
         const totalScore_des =
             matchingRecords_des.reduce((sum, record) => sum + (record._score / maxScore_des), 0);
-       
+        */
         const teacherScore = selectedGiangVien.includes(gv["Tên giảng viên"]) ? 1 : 0;
-        const departmentScore = gv.Khoa === khoa ? 1 : 0;
+
+        const S = ["Cử nhân", "Kĩ sư chính quy", "Thạc sĩ Khoa học", "Thạc sĩ Kĩ thuật"]
+        const departmentScore = (gv.Khoa !== khoa && S.includes(he)) ? 0 : 1;
         
-        const topicScore = totalScore*0.5 + totalScore_des*0.5;
+        /*
+        const departmentScore = () => {
+          if (he === "Cử nhân" || he === "Kĩ sư chính quy" || he === "Thạc sĩ Khoa học" || he === "Thạc sĩ Kĩ thuật") {
+              if (gv.Khoa === khoa)
+                  return 1;
+              return 0;
+          } 
+          else  
+              return 1;
+        }
+        */
+
+        const topicScore = totalScore;
         return {
           giangVien: gv,
           detai: gv["Tên đề tài"],
           topicScore: topicScore,
           nameTopicScore: totalScore,
-          desTopicScore: totalScore_des,
+          // desTopicScore: totalScore_des,
           teacherScore: teacherScore,
           departmentScore: departmentScore,
           score: topicScore * topicWeight +  teacherScore*teacherWeight + departmentScore*departmentWeight,
@@ -159,7 +185,7 @@ const HomePage = () => {
     e.preventDefault();
 
     // Kiểm tra nếu các trường bắt buộc chưa được nhập
-    if (!mssv || !he || !khoa || !tenDeTai || !motaDeTai) {
+    if (!he || !khoa || !tenDeTai || !motaDeTai) {
       setErrorMessage('Vui lòng nhập đầy đủ tất cả các trường có dấu sao.');
       setTopGiangVien(null);
       return;
@@ -183,7 +209,7 @@ const HomePage = () => {
     // Xử lý dữ liệu khi người dùng gửi form
     setErrorMessage(''); // Reset thông báo lỗi nếu dữ liệu hợp lệ
     console.log({
-      Mssv: mssv,
+      //Mssv: mssv,
       He: he,
       Khoa: khoa,
       TenDeTai: tenDeTai,
@@ -213,14 +239,14 @@ const HomePage = () => {
   };
 
   const heList = [
-    'ThSKH', 'CNKT', 'KSCQ', 'KSTN', 'CTTT', 'CNKH', 'Viet-Phap', 
-    'KSCLC', 'CN', 'ThSKT', 'HEDSPI'
-  ];
+    "Cử nhân", "Kĩ sư chính quy", "Kĩ sư CLC", "Kĩ sư tài năng", "HEDSPI", "Việt-Pháp", 
+    "Thạc sĩ Khoa học", "Thạc sĩ Kĩ thuật", "Chương trình tiên tiến"];
 
   return (
     <div>
       <h1>Trang Hỗ trợ Lựa chọn Giảng viên Hướng dẫn</h1>
       <form onSubmit={handleSubmit}>
+        {/*
         <div>
           <label htmlFor="mssv">Mã số sinh viên (MSSV): <span style={{ color: 'red' }}>*</span></label>
           <input
@@ -232,7 +258,8 @@ const HomePage = () => {
             required
           />
         </div>
-       
+        */}
+
         <div>
           <label htmlFor="he">Hệ: <span style={{ color: 'red' }}>*</span></label>
           <select
@@ -383,7 +410,7 @@ const HomePage = () => {
                  <td>{gv.departmentScore}</td>
                  <td>{gv.teacherScore}</td>
                  <td>
-                   {gv.topicScore} = {gv.nameTopicScore} * 0.5 + {gv.desTopicScore} * 0.5
+                   {gv.topicScore}  {/*= {gv.nameTopicScore} * 0.5 + {gv.desTopicScore} * 0.5 */}
                  </td>
                  <td>{gv.score}</td>
                </tr>

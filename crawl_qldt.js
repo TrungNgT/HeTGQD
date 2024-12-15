@@ -1,6 +1,6 @@
-const { Builder, By, until } = require('selenium-webdriver');
-const fs = require('fs');
-const chrome = require('selenium-webdriver/chrome');
+import { Builder, By, until } from 'selenium-webdriver';
+import fs from 'fs';
+import chrome from 'selenium-webdriver/chrome';
 
 (async function scrape() {
     // Cấu hình Chrome để sử dụng profile đã đăng nhập

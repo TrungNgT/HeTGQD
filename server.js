@@ -1,16 +1,16 @@
-const express = require('express');
-const { Client } = require('@elastic/elasticsearch');
+import express, { json } from 'express';
+import { Client } from '@elastic/elasticsearch';
 const app = express();
 const port = 3001; // Cổng mà server sẽ chạy
-const removeAccents = require('remove-accents');
-const cors = require('cors');
+import removeAccents from 'remove-accents';
+import cors from 'cors';
 // Khởi tạo client Elasticsearch
 
 const client = new Client({
     node: 'http://localhost:9200',
     auth: {
         username: 'elastic',  // Thay thế với username của bạn
-        password: 'XiH66HdPw5EGj72YyWe3'  // Thay thế với password của bạn
+        password: 'FokPpOKqXaEC+ItgCdKQ'  // Thay thế với password của bạn
     },
     ssl: {
         rejectUnauthorized: false, // Bỏ qua SSL nếu sử dụng chứng chỉ tự ký
@@ -27,7 +27,7 @@ app.use(cors({
     allowedHeaders: 'Content-Type',  // Allow specific headers
   }));
 // Middleware để parse body request
-app.use(express.json());
+app.use(json());
 
 // API để tìm kiếm và trả về kết quả với score và id
 app.get('/search', async (req, res) => {
@@ -36,21 +36,25 @@ app.get('/search', async (req, res) => {
     if (!searchTerm) {
         return res.status(400).send({ error: 'Thiếu từ khóa tìm kiếm (query parameter "q").' });
     }
-    searchTerm = removeAccents(searchTerm);
+    // searchTerm = removeAccents(searchTerm);
     try {
         // Tìm kiếm Elasticsearch với query bool
         const result = await client.search({
             index: indexName,
             body: {
                 query: {
-                    bool: {
-                        should: [
-                            //{ match: { "Tên giảng viên": searchTerm } },
-                            { match: { "Tên đề tài": searchTerm } } // Tìm kiếm trong trường "description"
-                        ]
+                    multi_match: {
+                        query: searchTerm,
+                        fields: ["Tên đề tài", "Chi tiết"]
                     }
+                    // bool: {
+                    //     should: [
+                    //         //{ match: { "Tên giảng viên": searchTerm } },
+                    //         { match: { "Tên đề tài": searchTerm } } // Tìm kiếm trong trường "description"
+                    //     ]
+                    // }
                 },
-                size: 10, // Lấy 10 kết quả
+                size: 400, // Lấy 400 kết quả
                 sort: [{ _score: { order: 'desc' } }] // Sắp xếp theo độ phù hợp (score)
             }
         });
@@ -58,7 +62,8 @@ app.get('/search', async (req, res) => {
         // Trả về kết quả tìm kiếm chỉ với id và score
         const searchResults = result.hits.hits;
         
-        console.log('Kết quả tìm kiếm:', searchResults);
+        console.log(searchTerm);
+        //console.log('Kết quả tìm kiếm:', searchResults);
 
         return res.json(searchResults);
 
@@ -68,7 +73,7 @@ app.get('/search', async (req, res) => {
     }
 });
 
-// Khởi động server trên cổng 3000
+// Khởi động server trên cổng 3001
 app.listen(port, () => {
     console.log(`Server đang chạy tại http://localhost:${port}`);
 });
