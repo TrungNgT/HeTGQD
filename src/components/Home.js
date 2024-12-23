@@ -1,9 +1,33 @@
 import React, { useState, useEffect } from 'react';
 import './Home.css';
 import removeAccents from 'remove-accents';
-import eR from '../ExpertRel';
+import eR from '../ExpertRel.js';
 
-function 
+function relative(heSV, heDoan) {
+  let dsHe = heDoan.split(", ");
+  let res = 0;
+  for (let h in dsHe) {
+      // Kiểm tra xem dsHe[h] có tồn tại trong eR không
+      if (eR.hasOwnProperty(dsHe[h]) && eR[dsHe[h]].hasOwnProperty(heSV)) {
+          if (eR[dsHe[h]][heSV] > res) {
+              res = eR[dsHe[h]][heSV];
+          }
+      } else {
+          // Nếu không tìm thấy dsHe[h] trong eR hoặc không có heSV trong hàng, trả về 0
+          continue;
+      }
+  }
+  return res;
+}
+
+function getDetai(id, doanData) {
+ for(let dt in doanData){
+  if(id == dt.id){
+    return dt;
+  }
+ }
+ return doanData[0];
+}
 
 const HomePage = () => {
   // const [mssv, setMssv] = useState('');
@@ -92,7 +116,16 @@ const HomePage = () => {
   
       // Lấy danh sách kết quả và tính điểm
       const results = searchResults|| [];
-      const maxScore = results.length > 0 ? results[0]._score : 1; // Điểm cao nhất
+      let maxScore_1 = -1;
+      for(let gv in results){
+        //relative(he, gv["Hệ"])
+        results[gv]._score*= relative(he, getDetai(results[gv]._id, doanData)["Hệ"]);
+        if(results[gv]._score > maxScore_1){
+          maxScore_1= results[gv]._score;
+        }
+      }
+
+      const maxScore = maxScore_1; // Điểm cao nhất
 
       /*
       const searchResults_des= await response_description.json();
@@ -109,11 +142,6 @@ const HomePage = () => {
         const matchingRecords = results.filter(
           (record) => record._id=== gv.id.toString()
         );
-        /*
-        const matchingRecords_des = results_des.filter(
-          (record) => record._id=== gv.id.toString()
-        );
-        */
         const totalScore =
           matchingRecords.reduce((sum, record) => sum + (record._score / maxScore), 0);
 
@@ -125,26 +153,17 @@ const HomePage = () => {
 
         const S = ["Cử nhân", "Kĩ sư chính quy", "Thạc sĩ Khoa học", "Thạc sĩ Kĩ thuật"]
         const departmentScore = (gv.Khoa !== khoa && S.includes(he)) ? 0 : 1;
-        
-        /*
-        const departmentScore = () => {
-          if (he === "Cử nhân" || he === "Kĩ sư chính quy" || he === "Thạc sĩ Khoa học" || he === "Thạc sĩ Kĩ thuật") {
-              if (gv.Khoa === khoa)
-                  return 1;
-              return 0;
-          } 
-          else  
-              return 1;
-        }
-        */
 
-        const topicScore = totalScore;
+        const topicScore = totalScore ;
+        //alert(topicScore);
+      
         return {
           giangVien: gv,
           detai: gv["Tên đề tài"],
           topicScore: topicScore,
           nameTopicScore: totalScore,
           // desTopicScore: totalScore_des,
+          relative: relative(he, gv["Hệ"]),
           teacherScore: teacherScore,
           departmentScore: departmentScore,
           score: topicScore * topicWeight +  teacherScore*teacherWeight + departmentScore*departmentWeight,
@@ -396,7 +415,7 @@ const HomePage = () => {
              <th>Đề tài</th>
              <th>Phù hợp khoa</th>
              <th>Phù hợp giảng viên</th>
-             <th>Phù hợp đề tài(phù hợp tên đề tài * 0.5 + phù hợp mô tả đề tài * 0.5)</th>
+             <th>Phù hợp đề tài</th>
              <th>Tổng hợp(Phù hợp khoa * {departmentWeight} + Phù hợp giảng viên * {teacherWeight} + Phù hợp đề tài * {topicWeight})</th>
            </tr>
          </thead>
@@ -422,9 +441,11 @@ const HomePage = () => {
                        <h4>Thông tin chi tiết:</h4>
                        <p><strong>Giảng viên:</strong> {gv.giangVien["Tên giảng viên"]}</p>
                        <p><strong>Khoa:</strong> {gv.giangVien["Khoa"]}</p>
+                       <p><strong>Hệ:</strong> {gv.giangVien["Hệ"]}</p>
                        <p><strong>Đề tài:</strong> {gv.giangVien["Tên đề tài"]}</p>
                        <p><strong>Chi tiết:</strong> {gv.giangVien["Chi tiết"]}</p>
                        <p><strong>Số SV:</strong> {gv.giangVien["Số SV"]}</p>
+                       <p><strong>Relative:</strong> {gv.relative}</p>
                        <p><strong>Điểm phù hợp đề tài:</strong> {gv.topicScore}</p>
                        <p><strong>Điểm phù hợp giảng viên:</strong> {gv.teacherScore}</p>
                        <p><strong>Điểm phù hợp khoa:</strong> {gv.departmentScore}</p>

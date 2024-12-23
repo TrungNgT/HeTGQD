@@ -15,3 +15,19 @@ eR["VB2"] = { "Cử nhân" : 0.9, "Kĩ sư chính quy" : 0.8, "Kĩ sư CLC": 0.9
 export default eR;
 
 // console.log(eR["CN"]["Kĩ sư tài năng"])
+
+// function relative(heSV, heDoan) {
+//     let dsHe = heDoan.split(", ");
+//     let res = 0;
+//     for (let h in dsHe) {
+//         //console.log(dsHe[h]);
+//         console.log(eR[dsHe[h]][heSV])
+//         if (eR[dsHe[h]][heSV] > res)
+//            res = eR[dsHe[h]][heSV];
+//     }
+//     return res;
+// }
+
+
+
+// console.log(relative("Kĩ sư tài năng", 'CN, CTTT, HEDSPI, Không xác định'))
